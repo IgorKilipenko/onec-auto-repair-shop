@@ -248,6 +248,15 @@
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>СервисИНастройки</Subsystem>
 			<Style>Автосервис</Style>
+			<CommonPicture>БизнесПроцессы</CommonPicture>
+			<CommonPicture>Настройки</CommonPicture>
+			<CommonPicture>Деньги</CommonPicture>
+			<CommonPicture>Персонал</CommonPicture>
+			<CommonPicture>Справочники</CommonPicture>
+			<CommonPicture>Продажи</CommonPicture>
+			<CommonPicture>Покупки</CommonPicture>
+			<CommonPicture>Главное</CommonPicture>
+			<CommonPicture>БухгалтерскийУчет</CommonPicture>
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Персонал</CommandGroup>
