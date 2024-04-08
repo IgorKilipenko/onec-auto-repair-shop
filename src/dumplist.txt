@@ -1,1 +1,13 @@
-﻿Modified: Configuration.Конфигурация
+﻿New: CommandGroup.НаличныеДеньги
+New: CommandGroup.Настройки
+New: CommandGroup.Персонал
+New: CommandGroup.Покупки
+New: CommandGroup.Продажи
+New: CommandGroup.Справочники
+New: Subsystem.ДенежныеСредства
+New: Subsystem.Покупки
+New: Subsystem.Продажи
+New: Subsystem.СервисИНастройки
+New: Subsystem.Справочники
+New: Subsystem.УправлениеПерсоналом
+Modified: Configuration.Конфигурация

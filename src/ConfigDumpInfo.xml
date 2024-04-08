@@ -1,9 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="3de788e61ffa8f48b443bb6a5a1914c000000000"/>
+		<Metadata name="CommandGroup.НаличныеДеньги" id="d6cb69df-9939-415e-bab0-a2af13e879b1" configVersion="d289dbc94dbd8f47b7187f604ebe00fb00000000"/>
+		<Metadata name="CommandGroup.Настройки" id="cfac1824-d650-4bb3-a91e-59bb42b3c1f9" configVersion="7fbe9c819251264fa2da2c7dccec865600000000"/>
+		<Metadata name="CommandGroup.Персонал" id="aa45244d-daba-4e54-ba5f-a46bbf4e2ccd" configVersion="120469f9843aba4b9603987d7180003700000000"/>
+		<Metadata name="CommandGroup.Покупки" id="454cd24c-b4fe-4abc-a102-b0d049685f29" configVersion="8014d57387fb8c40adc382d61452fa3200000000"/>
+		<Metadata name="CommandGroup.Продажи" id="2f1b7015-b7d0-42cf-9db8-a1c69bb7ccd6" configVersion="19d9109bd668724e8c3904d442b992a900000000"/>
+		<Metadata name="CommandGroup.Справочники" id="e2c0f1f5-1d8b-49f2-a1af-10561346d66c" configVersion="20b97310829f474eb05367aa1cf8ecf900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="373db99da039134192b24a68e55fea3c00000000"/>
 		<Metadata name="Language.Русский" id="20b0d362-5dbf-4e6a-998e-b5098dc907d4" configVersion="80c5dc22df465a4681ce1bb5e62fe3b100000000"/>
 		<Metadata name="Style.Автосервис" id="5f522c5f-4ef5-4d09-acd4-b0639d8c1847" configVersion="0cf4eecb8c74ab46b41598f2a1a5004400000000"/>
 		<Metadata name="Style.Автосервис.Style" id="5f522c5f-4ef5-4d09-acd4-b0639d8c1847.0" configVersion="7a3296841fb77b49a981e6ecaeadbb0e00000000"/>
+		<Metadata name="Subsystem.ДенежныеСредства" id="4a4fe09d-0e33-4207-b218-de70a9648aa5" configVersion="35d228558a7dd842a88338e14df12a7700000000"/>
+		<Metadata name="Subsystem.Покупки" id="e8306114-e551-498d-8940-785b8f7b5901" configVersion="9d148e6f47348245a0e9183a4ed706aa00000000"/>
+		<Metadata name="Subsystem.Продажи" id="b3871f21-0226-4070-938b-849498506723" configVersion="d4f59542ef2bcc41a81094522cbdf87e00000000"/>
+		<Metadata name="Subsystem.СервисИНастройки" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9" configVersion="803a8f80f2334642960930637707c4bc00000000"/>
+		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="3290ec34a6891b4bb41f0bc5aa87608800000000"/>
+		<Metadata name="Subsystem.УправлениеПерсоналом" id="78d400c1-6202-4f18-8c88-1ac6583155e0" configVersion="9b50e31a7531fe4e865908b017212ea100000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

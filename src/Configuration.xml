@@ -241,7 +241,19 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Покупки</Subsystem>
+			<Subsystem>УправлениеПерсоналом</Subsystem>
+			<Subsystem>ДенежныеСредства</Subsystem>
+			<Subsystem>Справочники</Subsystem>
+			<Subsystem>СервисИНастройки</Subsystem>
 			<Style>Автосервис</Style>
+			<CommandGroup>Продажи</CommandGroup>
+			<CommandGroup>Покупки</CommandGroup>
+			<CommandGroup>Персонал</CommandGroup>
+			<CommandGroup>НаличныеДеньги</CommandGroup>
+			<CommandGroup>Справочники</CommandGroup>
+			<CommandGroup>Настройки</CommandGroup>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
