@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСоСтрокамиВызовСервера
-Modified: CommonModule.РаботаСоСтрокамиВызовСервера.Module
+﻿Modified: CommonModule.РаботаСРеквизитами
+Modified: CommonModule.РаботаСРеквизитами.Module

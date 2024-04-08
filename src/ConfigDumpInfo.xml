@@ -22,8 +22,8 @@
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="568f4f18-3e27-45d7-beb1-86bfcddf14da.0" configVersion="96fd5d634661084a817fa8280fa55e1c00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="3ea4c4d4-f9a5-485d-99ce-bb4e7d9291b2" configVersion="f73b80df83605a4b9b7e0df31f1eefad00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными.Module" id="3ea4c4d4-f9a5-485d-99ce-bb4e7d9291b2.0" configVersion="316284ea6f3642439d88dbdb19818a8e00000000"/>
-		<Metadata name="CommonModule.РаботаСРеквизитами" id="f85ede55-4962-4e9f-8614-1ec853e4456a" configVersion="f7501f9b25df8942b52e0cf5ec60b09800000000"/>
-		<Metadata name="CommonModule.РаботаСРеквизитами.Module" id="f85ede55-4962-4e9f-8614-1ec853e4456a.0" configVersion="c39b5343b7586342b587ac0986c2939300000000"/>
+		<Metadata name="CommonModule.РаботаСРеквизитами" id="f85ede55-4962-4e9f-8614-1ec853e4456a" configVersion="bd97dd3553ec3840af1b2dcb2573c53800000000"/>
+		<Metadata name="CommonModule.РаботаСРеквизитами.Module" id="f85ede55-4962-4e9f-8614-1ec853e4456a.0" configVersion="d24f42fb110f2e479f33f4c3af40a7f600000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="9137a9f2-7692-468a-ab47-43f4b71ebf46" configVersion="161787a24f254546881bd77163a49b0000000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="9137a9f2-7692-468a-ab47-43f4b71ebf46.0" configVersion="cd390a0cef9efc4eb192f3d79dbbbb1300000000"/>
 		<Metadata name="CommonPicture.БизнесПроцессы" id="a80e6b88-b191-41c1-abb5-45e32bb7cc21" configVersion="e69b51310ab01040a5ac93567d75db4800000000"/>
