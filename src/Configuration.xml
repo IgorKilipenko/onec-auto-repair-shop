@@ -241,6 +241,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Style>Автосервис</Style>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

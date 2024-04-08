@@ -1,0 +1,3 @@
+﻿New: Style.Автосервис
+New: Style.Автосервис.Style
+Modified: Configuration.Конфигурация
