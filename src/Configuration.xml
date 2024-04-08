@@ -263,6 +263,16 @@
 			<CommandGroup>НаличныеДеньги</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<Enum>ТипыОрганизаций</Enum>
+			<Enum>ТипыНоменклатуры</Enum>
+			<Enum>ПолФизическогоЛица</Enum>
+			<Enum>ТипыКонтрагентов</Enum>
+			<Enum>ВидыЦенПродажи</Enum>
+			<Enum>СпособыСписанияЗапасов</Enum>
+			<Enum>ВидыОперацийПоступленияДенег</Enum>
+			<Enum>ВидыОперацийРасходаДенег</Enum>
+			<Enum>СостоянияМатериаловКлиентов</Enum>
+			<Enum>СостоянияЗаказовНарядов</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
