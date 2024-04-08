@@ -1,3 +1,2 @@
-﻿New: Catalog.Номенклатура.Form.ФормаЭлемента
-New: Catalog.Номенклатура.Form.ФормаЭлемента.Form
-Modified: Catalog.Номенклатура
+﻿Modified: CommonModule.РаботаСоСтрокамиВызовСервера
+Modified: CommonModule.РаботаСоСтрокамиВызовСервера.Module
