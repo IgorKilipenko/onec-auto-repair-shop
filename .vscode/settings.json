@@ -1,0 +1,64 @@
+{
+    // Trace requests to the BSL Language Server
+	//  - off: No traces
+	//  - messages: Error only
+	//  - verbose: Full log
+	"bsl.trace.server": "off",
+
+	// Controls whether auto detection of opm scripts is on or off. Default is on.
+	"language-1c-bsl.autoDetect": "on",
+
+	// Download the BSL Language Server from GitHub
+	"language-1c-bsl.downloadLanguageServer": false,
+
+	// Paths to dynamic snippets' files
+	"language-1c-bsl.dynamicSnippets": [],
+
+	// Lint files through `OneScript -check` command
+	"language-1c-bsl.enableOneScriptLinter": true,
+
+	// GitHub OAuth token. Fill property if you get an `API rate limit exceeded` error with BSL LS downloading. Get new token: https://github.com/settings/tokens. No additional scopes are required. Can be obtained from enviroment variable $LANGUAGE_1C_BSL_GITHUB_TOKEN
+	"language-1c-bsl.githubToken": "",
+
+	// Autocomplete language (en/ru)
+	"language-1c-bsl.languageAutocomplete": "ru",
+
+	// BSL Language Server base install dir.
+	"language-1c-bsl.languageServerBaseInstallDir": "",
+
+	// Path to BSL Language Server configuration file. Relative to workspace folder.
+	"language-1c-bsl.languageServerConfiguration": ".bsl-language-server.json",
+
+	// BSL Language Server enabled
+	"language-1c-bsl.languageServerEnabled": true,
+
+	// Use external bsl-language-server.jar
+	"language-1c-bsl.languageServerExternalJar": false,
+
+	// Additional java options.
+	"language-1c-bsl.languageServerExternalJarJavaOpts": [
+		"-Xmx2g"
+	],
+
+	// Path to Java runtime binary. Leave default value to use java from PATH.
+	"language-1c-bsl.languageServerExternalJarJavaPath": "java",
+
+	// Path to BSL Language Server jar-file. Leave default value to use bundled language server. Relative to vsc-language-1c-bsl folder.
+	"language-1c-bsl.languageServerExternalJarPath": "~/development/bsl-language-server/bsl-language-server-0.22.0-exec.jar",
+	//"language-1c-bsl.languageServerExternalJarPath": "",
+
+	// BSL Language server download channel. Use `prerelease` if you want to check latest release candidates
+	"language-1c-bsl.languageServerReleaseChannel": "stable",
+
+	// Entry point for OneScriptLinter. Relative path from project root folder
+	"language-1c-bsl.linterEntryPoint": "",
+
+	// List of extensions (except `os`) to lint via OneScriptLint. (format - 'bsl,txt')
+	"language-1c-bsl.lintOtherExtensions": "",
+
+	// Full path to oscript binary. Fill this only if oscript is not in your $PATH
+	"language-1c-bsl.onescriptPath": "",
+
+	// Путь по умолчанию к корню файла конфигурации (./src/cf) относительно каталога workspace для правильного autocomplete
+	"language-1c-bsl.rootPath": ""
+}

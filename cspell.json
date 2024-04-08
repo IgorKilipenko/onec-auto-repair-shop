@@ -1,0 +1,27 @@
+// cSpell Settings
+{
+    // Version of the setting file.  Always 0.2
+    "version": "0.2",
+    // language - current active spelling language
+    "language": "en,ru,ru-RU",
+    // Specify file types to spell check.
+    "enableFiletypes": [
+        "bsl",
+        "sdbl"
+    ],
+    // words - list of words to be always considered correct
+    "words": [
+        "FEFO",
+        "Дорегистрация",
+        "ЕСТЬNULL",
+        "Модифицированность",
+        "неопределено",
+        "подотченику",
+        "Подотчетника",
+        "Подотчетнику",
+        "самодиагностики",
+        "Субконто",
+        "Эквайринговые",
+        "Эквайринговый"
+    ]
+}

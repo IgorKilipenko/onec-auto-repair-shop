@@ -1,0 +1,24 @@
+{
+    "$schema": "https://1c-syntax.github.io/bsl-language-server/configuration/schema.json",
+    "language": "ru",
+    "diagnostics": {
+        "computeTrigger": "onType",
+        "parameters": {
+            "CodeOutOfRegion": {
+                "checkUnknownModuleType": true
+            },
+            "NestedTernaryOperator": false,
+            "LineLength": {
+                "maxLineLength": 140,
+                "checkMethodDescription": true
+            },
+            "RedundantAccessToObject": {
+                "checkObjectModule": false,
+                "checkFormModule": false,
+                "checkRecordSetModule": false
+            },
+            "NestedFunctionInParameters": false,
+            "CommonModuleInvalidType": false
+        }
+    }
+}
