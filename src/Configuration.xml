@@ -257,12 +257,18 @@
 			<CommonPicture>Покупки</CommonPicture>
 			<CommonPicture>Главное</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
+			<CommonModule>РаботаСМетаданными</CommonModule>
+			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
+			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Персонал</CommandGroup>
 			<CommandGroup>НаличныеДеньги</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>СтатьиЗатрат</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
