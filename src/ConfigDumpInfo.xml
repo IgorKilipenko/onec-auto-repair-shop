@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="444a8eb64d5b6440a168bde307791d5300000000">
+		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="c588fbcc4b667f48afe33ae8be1f761e00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="4b3b2ff9-620d-4b1e-8fc3-9d09565f77d0"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ДлительностьУслуги" id="54d554c6-b5f4-42a5-b058-59721c2467e3"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="d897ee64-fe22-4104-bfe1-142273af61ec"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="4e74927d5377a04d90f348b8f32a5f1a00000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="f2e59cc7b94bd843a933d455d09b4e8800000000"/>
-		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="1be3069cae8b6245b5f697b4bb4cf60a00000000"/>
-		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="5d2915503e5aa443b678ef056aa7047c00000000"/>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="4d16c1253b0bea4da26187e814f1ddbc00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="5978b44f764ee944a2dc4ad94a0ffbe000000000"/>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.1c" configVersion="19559a725261b44a96814d1bff80573100000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат" id="5f1a07ce-17cd-4e4e-ab6b-0c9b0590ee98" configVersion="cc80ddb1900eb340b264a7dd019ecc4c00000000"/>
 		<Metadata name="CommandGroup.НаличныеДеньги" id="d6cb69df-9939-415e-bab0-a2af13e879b1" configVersion="d289dbc94dbd8f47b7187f604ebe00fb00000000"/>

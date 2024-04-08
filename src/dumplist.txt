@@ -1,2 +1,3 @@
-﻿Modified: CommonModule.РаботаСРеквизитами
-Modified: CommonModule.РаботаСРеквизитами.Module
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.ManagerModule
+Modified: Catalog.Номенклатура.ObjectModule
