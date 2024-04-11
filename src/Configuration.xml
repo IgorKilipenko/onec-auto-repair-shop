@@ -280,6 +280,7 @@
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ИсточникиИнформации</Catalog>
 			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

@@ -41,6 +41,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
@@ -75,6 +80,10 @@
 			<CommandGroup>CommandGroup.Настройки</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
 		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
@@ -98,14 +107,10 @@
 		<Command name="Catalog.Должности.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Персонал</CommandGroup>
 		</Command>
-		<Command name="Catalog.Организации.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Настройки</CommandGroup>
-		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
 		<Group>CommandGroup.Продажи</Group>
 		<Group>CommandGroup.Покупки</Group>
 		<Group>CommandGroup.Персонал</Group>
-		<Group>CommandGroup.Настройки</Group>
 	</GroupsOrder>
 </CommandInterface>
