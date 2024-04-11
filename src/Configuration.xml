@@ -248,8 +248,8 @@
 			<Language>Русский</Language>
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Покупки</Subsystem>
-			<Subsystem>УправлениеПерсоналом</Subsystem>
 			<Subsystem>ДенежныеСредства</Subsystem>
+			<Subsystem>УправлениеПерсоналом</Subsystem>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>СервисИНастройки</Subsystem>
 			<Style>Автосервис</Style>
