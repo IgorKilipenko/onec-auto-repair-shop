@@ -1,6 +1,2 @@
-﻿New: Catalog.ИсточникиИнформации.Form.ФормаСписка
-New: Catalog.ИсточникиИнформации.Form.ФормаСписка.Form
-New: Catalog.ИсточникиИнформации.Form.ФормаЭлемента
-New: Catalog.ИсточникиИнформации.Form.ФормаЭлемента.Form
-New: Catalog.ИсточникиИнформации.Predefined
-Modified: Catalog.ИсточникиИнформации
+﻿Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface
