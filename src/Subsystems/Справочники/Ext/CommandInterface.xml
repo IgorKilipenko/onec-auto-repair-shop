@@ -36,6 +36,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.Организации.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -74,6 +79,10 @@
 		</Command>
 		<Command name="Catalog.Должности.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Персонал</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Кассы.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="Catalog.Организации.StandardCommand.OpenList">

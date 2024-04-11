@@ -1,5 +1,10 @@
-﻿New: Catalog.СтатьиЗатрат.Form.ФормаСписка
-New: Catalog.СтатьиЗатрат.Form.ФормаСписка.Form
-New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента
-New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента.Form
-Modified: Catalog.СтатьиЗатрат
+﻿New: Catalog.Кассы
+New: Catalog.Кассы.Form.ФормаСписка
+New: Catalog.Кассы.Form.ФормаСписка.Form
+New: Catalog.Кассы.Form.ФормаЭлемента
+New: Catalog.Кассы.Form.ФормаЭлемента.Form
+New: Subsystem.ДенежныеСредства.CommandInterface
+Modified: Configuration.Автосервис
+Modified: Subsystem.ДенежныеСредства
+Modified: Subsystem.Справочники
+Modified: Subsystem.Справочники.CommandInterface
