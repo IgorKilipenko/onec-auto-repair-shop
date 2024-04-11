@@ -1,0 +1,7 @@
+﻿New: Catalog.Должности.Form.ФормаСписка
+New: Catalog.Должности.Form.ФормаСписка.Form
+New: Catalog.Должности.Form.ФормаЭлемента
+New: Catalog.Должности.Form.ФормаЭлемента.Form
+Modified: Catalog.Должности
+Modified: Subsystem.Справочники
+Modified: Subsystem.УправлениеПерсоналом

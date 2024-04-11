@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="Catalog.Должности" id="08ef8cc7-5847-4e9d-b75e-f6ec8afeffdc" configVersion="654f1f1d8296654da3fe4ad17802a9bb00000000"/>
+		<Metadata name="Catalog.Должности" id="08ef8cc7-5847-4e9d-b75e-f6ec8afeffdc" configVersion="2df574478985934e820531a95eba172b00000000"/>
+		<Metadata name="Catalog.Должности.Form.ФормаСписка" id="8c1caccf-4305-45ec-9c9c-a595747140ae" configVersion="f1fb403f9f37514da82d8f87ecea98ad00000000"/>
+		<Metadata name="Catalog.Должности.Form.ФормаСписка.Form" id="8c1caccf-4305-45ec-9c9c-a595747140ae.0" configVersion="e6c43e950bbff647899af52f974d4f1800000000"/>
+		<Metadata name="Catalog.Должности.Form.ФормаЭлемента" id="fb4a05dd-aaae-4aec-a084-cf1b82046b68" configVersion="e427383fcdfd6d469c199e842bbed09200000000"/>
+		<Metadata name="Catalog.Должности.Form.ФормаЭлемента.Form" id="fb4a05dd-aaae-4aec-a084-cf1b82046b68.0" configVersion="69bbc114d271f2469380d6714702ed1800000000"/>
 		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="c8ce6791befb0240938b7bdf26473b3c00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="4b3b2ff9-620d-4b1e-8fc3-9d09565f77d0"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ДлительностьУслуги" id="54d554c6-b5f4-42a5-b058-59721c2467e3"/>
@@ -123,7 +127,7 @@
 		<Metadata name="Subsystem.Покупки" id="e8306114-e551-498d-8940-785b8f7b5901" configVersion="6245fb248b20f147824a9c5de90a7b5f00000000"/>
 		<Metadata name="Subsystem.Продажи" id="b3871f21-0226-4070-938b-849498506723" configVersion="04199f7b309c6c4ab15ffffedce4af5600000000"/>
 		<Metadata name="Subsystem.СервисИНастройки" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9" configVersion="ac91c141b7a8674d98266f8ba96c2edc00000000"/>
-		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="21033844ddc78f46abcc4b79b47827a900000000"/>
-		<Metadata name="Subsystem.УправлениеПерсоналом" id="78d400c1-6202-4f18-8c88-1ac6583155e0" configVersion="bc93ef059b6fb14da6fe2e21e1f2387e00000000"/>
+		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="2e2cfcec2b27914b8f6b984089dbdfb400000000"/>
+		<Metadata name="Subsystem.УправлениеПерсоналом" id="78d400c1-6202-4f18-8c88-1ac6583155e0" configVersion="72622cec638a0a42bd763bd5c61efda600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
