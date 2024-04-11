@@ -1,7 +1,11 @@
-﻿New: Catalog.Должности.Form.ФормаСписка
-New: Catalog.Должности.Form.ФормаСписка.Form
-New: Catalog.Должности.Form.ФормаЭлемента
-New: Catalog.Должности.Form.ФормаЭлемента.Form
-Modified: Catalog.Должности
+﻿New: Catalog.ДоговорыКонтрагентов
+New: Catalog.ИсточникиИнформации
+New: Catalog.Контрагенты
+New: Catalog.Контрагенты.Form.ФормаСписка
+New: Catalog.Контрагенты.Form.ФормаСписка.Form
+New: Catalog.Контрагенты.Form.ФормаЭлемента
+New: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+Modified: Configuration.Автосервис
+Modified: Subsystem.Покупки
+Modified: Subsystem.Продажи
 Modified: Subsystem.Справочники
-Modified: Subsystem.УправлениеПерсоналом

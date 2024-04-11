@@ -276,6 +276,9 @@
 			<Catalog>СтатьиЗатрат</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ИсточникиИнформации</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
