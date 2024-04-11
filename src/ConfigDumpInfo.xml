@@ -81,7 +81,13 @@
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="e92706a9-7588-4bf6-b96d-517483cebb3b" configVersion="114e1de6921e0a4dbe0e5d2b2096f4bd00000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="e92706a9-7588-4bf6-b96d-517483cebb3b.0" configVersion="d09b7c57b7a4be49b5a30551dec09dc800000000"/>
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="bebcc777-8c39-412d-8052-250866d0e264.0" configVersion="dc30566a9280e049837dca4c1a4915e700000000"/>
-		<Metadata name="Catalog.СтатьиЗатрат" id="5f1a07ce-17cd-4e4e-ab6b-0c9b0590ee98" configVersion="cc80ddb1900eb340b264a7dd019ecc4c00000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат" id="5f1a07ce-17cd-4e4e-ab6b-0c9b0590ee98" configVersion="ec6c71c48fe21f42ab27e141538108ff00000000">
+			<Metadata name="Catalog.СтатьиЗатрат.Attribute.Ответственный" id="cf32d60f-a210-4d3b-86fd-ad3fe64c5644"/>
+		</Metadata>
+		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаСписка" id="555899cf-aea6-4229-bc44-91930af4b33c" configVersion="295e89948830aa47a3b40b78fa95133100000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаСписка.Form" id="555899cf-aea6-4229-bc44-91930af4b33c.0" configVersion="032b9306b362b847934c7c072e9e6d9c00000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаЭлемента" id="4e945cfd-6246-4445-b761-f0302434711a" configVersion="16a35eba4ee6e54089ffac39e35dfc5300000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат.Form.ФормаЭлемента.Form" id="4e945cfd-6246-4445-b761-f0302434711a.0" configVersion="84b96b3e59fc02488512f2253571c57900000000"/>
 		<Metadata name="CommandGroup.НаличныеДеньги" id="d6cb69df-9939-415e-bab0-a2af13e879b1" configVersion="d289dbc94dbd8f47b7187f604ebe00fb00000000"/>
 		<Metadata name="CommandGroup.Настройки" id="cfac1824-d650-4bb3-a91e-59bb42b3c1f9" configVersion="7fbe9c819251264fa2da2c7dccec865600000000"/>
 		<Metadata name="CommandGroup.Персонал" id="aa45244d-daba-4e54-ba5f-a46bbf4e2ccd" configVersion="120469f9843aba4b9603987d7180003700000000"/>

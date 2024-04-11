@@ -1,10 +1,5 @@
-﻿New: Catalog.Пользователи
-New: Catalog.Пользователи.Form.ФормаСписка
-New: Catalog.Пользователи.Form.ФормаСписка.Form
-New: Catalog.Пользователи.Form.ФормаЭлемента
-New: Catalog.Пользователи.Form.ФормаЭлемента.Form
-New: Subsystem.СервисИНастройки.CommandInterface
-Modified: Configuration.Автосервис
-Modified: Subsystem.СервисИНастройки
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
+﻿New: Catalog.СтатьиЗатрат.Form.ФормаСписка
+New: Catalog.СтатьиЗатрат.Form.ФормаСписка.Form
+New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента
+New: Catalog.СтатьиЗатрат.Form.ФормаЭлемента.Form
+Modified: Catalog.СтатьиЗатрат
