@@ -269,6 +269,8 @@
 			<CommandGroup>Настройки</CommandGroup>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
+			<Catalog>Сотрудники</Catalog>
+			<Catalog>Должности</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

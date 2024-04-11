@@ -1,5 +1,12 @@
-﻿New: Catalog.Номенклатура.Form.ФормаСписка
-New: Catalog.Номенклатура.Form.ФормаСписка.Form
-Modified: Catalog.Номенклатура
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿New: Catalog.Должности
+New: Catalog.Сотрудники
+New: Catalog.Сотрудники.Form.ФормаВыбора
+New: Catalog.Сотрудники.Form.ФормаВыбора.Form
+New: Catalog.Сотрудники.Form.ФормаСписка
+New: Catalog.Сотрудники.Form.ФормаСписка.Form
+New: Catalog.Сотрудники.Form.ФормаЭлемента
+New: Catalog.Сотрудники.Form.ФормаЭлемента.Form
+New: Catalog.Сотрудники.ObjectModule
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Справочники
+Modified: Subsystem.УправлениеПерсоналом
