@@ -1,4 +1,2 @@
-﻿New: Configuration.Автосервис.CommandInterface
+﻿New: DefinedType.ФинансовыеДанные
 Modified: Configuration.Автосервис
-Modified: Subsystem.Покупки
-Modified: Subsystem.Покупки.CommandInterface

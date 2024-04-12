@@ -266,6 +266,7 @@
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСРеквизитами</CommonModule>
+			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Персонал</CommandGroup>
