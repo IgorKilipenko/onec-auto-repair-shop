@@ -180,7 +180,7 @@
 		<Metadata name="Configuration.Автосервис.Splash" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.2" configVersion="4128d3ea2173c646be0e143c199916a300000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="55059317-58fd-4150-a31e-808a24e4bff1" configVersion="740c941556f9d7478911029bc619091e00000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="c2c9a73d-c5ef-40c4-855e-48bfa10714e8" configVersion="b1742080717d804ca5335f006ee0b28a00000000"/>
-		<Metadata name="Document.ЗаказНаряд" id="08066604-93c9-484f-b36a-498693f1736b" configVersion="5fa205a1e0109c45a00f9ba8d9e7dd1e00000000">
+		<Metadata name="Document.ЗаказНаряд" id="08066604-93c9-484f-b36a-498693f1736b" configVersion="13e2c1c80fc57340b6a80baf28906fc800000000">
 			<Metadata name="Document.ЗаказНаряд.TabularSection.МатериалыЗаказчика" id="1a6edf0b-33a6-4bd8-85d8-fd05e1e3d743"/>
 			<Metadata name="Document.ЗаказНаряд.TabularSection.Услуги.Attribute.Цена" id="2bb1307d-7ed9-45a3-a363-997cd4d846d0"/>
 			<Metadata name="Document.ЗаказНаряд.Attribute.Автомобиль" id="2cd549fa-b643-4211-985f-c79eccc8affa"/>
@@ -203,15 +203,15 @@
 			<Metadata name="Document.ЗаказНаряд.TabularSection.МатериалыЗаказчика.Attribute.Количество" id="f0398e18-e50f-443d-ba7d-528a3efc86d7"/>
 			<Metadata name="Document.ЗаказНаряд.TabularSection.МатериалыЗаказчика.Attribute.Номенклатура" id="f36eca60-5b86-4c80-b0ec-c721b6db8bcc"/>
 		</Metadata>
-		<Metadata name="Document.ЗаказНаряд.Command.Печать.CommandModule" id="ccf23149-323a-4b7c-9650-3c9f3a405da3.2" configVersion="10b8849fc3da644894f4b0a42d62509500000000"/>
+		<Metadata name="Document.ЗаказНаряд.Command.Печать.CommandModule" id="ccf23149-323a-4b7c-9650-3c9f3a405da3.2" configVersion="7d5719548d73d34eb4dbb3a8895aa8e800000000"/>
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента" id="f28e7255-4fef-48b4-a366-8f2a447c4b4b" configVersion="0b1cd53538d1c541a76f8121df95f4fb00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента.Form" id="f28e7255-4fef-48b4-a366-8f2a447c4b4b.0" configVersion="fde026bff3150d4fb108cff91f9cbb8a00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаСписка" id="d6f91099-4f1b-4e1f-935b-e32801a9714f" configVersion="970fe22f52d9ef429de670329462034d00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаСписка.Form" id="d6f91099-4f1b-4e1f-935b-e32801a9714f.0" configVersion="29a4943b3a9f6e4aa8fb72359488b3f800000000"/>
-		<Metadata name="Document.ЗаказНаряд.ManagerModule" id="08066604-93c9-484f-b36a-498693f1736b.2" configVersion="40dd440878320d43b3cb9cf56e11a5cb00000000"/>
+		<Metadata name="Document.ЗаказНаряд.ManagerModule" id="08066604-93c9-484f-b36a-498693f1736b.2" configVersion="1d2966c5658de34fa4a731b4a26f2dc500000000"/>
 		<Metadata name="Document.ЗаказНаряд.ObjectModule" id="08066604-93c9-484f-b36a-498693f1736b.0" configVersion="952bb33b55f97a44b47bd628108a437f00000000"/>
-		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66fc50dd-6598-4362-bf6c-f68582a4de7b" configVersion="08df40ce712c4b4f9db2ee3f1f12459e00000000"/>
-		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66fc50dd-6598-4362-bf6c-f68582a4de7b.0" configVersion="190de93c24bec04c97804208ce89856e00000000"/>
+		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66fc50dd-6598-4362-bf6c-f68582a4de7b" configVersion="9a28f67d511cab47a2efdc7e483057a300000000"/>
+		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66fc50dd-6598-4362-bf6c-f68582a4de7b.0" configVersion="b01fcc727f4cf348973f46c9bf2b18d900000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="f6a1bff4796f6847ba0432194441115b00000000">
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Цена" id="03ee831c-8a79-4ffb-9a84-f15c6529cccd"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги" id="2085232d-fabb-433b-8cf7-b0b1c6e1d4b4"/>

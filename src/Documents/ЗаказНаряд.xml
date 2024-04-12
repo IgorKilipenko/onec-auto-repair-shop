@@ -872,7 +872,12 @@
 			<Command uuid="ccf23149-323a-4b7c-9650-3c9f3a405da3">
 				<Properties>
 					<Name>Печать</Name>
-					<Synonym/>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Заказ-наряд</v8:content>
+						</v8:item>
+					</Synonym>
 					<Comment/>
 					<Group>FormCommandBarImportant</Group>
 					<CommandParameterType>
@@ -880,9 +885,12 @@
 					</CommandParameterType>
 					<ParameterUseMode>Multiple</ParameterUseMode>
 					<ModifiesData>false</ModifiesData>
-					<Representation>Auto</Representation>
+					<Representation>PictureAndText</Representation>
 					<ToolTip/>
-					<Picture/>
+					<Picture>
+						<xr:Ref>StdPicture.Print</xr:Ref>
+						<xr:LoadTransparent>true</xr:LoadTransparent>
+					</Picture>
 					<Shortcut/>
 					<OnMainServerUnavalableBehavior>Auto</OnMainServerUnavalableBehavior>
 				</Properties>
