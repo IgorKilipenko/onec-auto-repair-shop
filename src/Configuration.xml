@@ -290,6 +290,7 @@
 			<Catalog>ОписанияЦветовДляТехпаспорта</Catalog>
 			<Catalog>ЦветаАвтомобилей</Catalog>
 			<Catalog>МоделиАвтомобилей</Catalog>
+			<Catalog>Автомобили</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

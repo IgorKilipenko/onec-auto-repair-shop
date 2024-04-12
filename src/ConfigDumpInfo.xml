@@ -1,6 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
+		<Metadata name="Catalog.Автомобили" id="af4553a3-91aa-4a79-9df6-e2aa5a1123f3" configVersion="bbbb4d7927f0b64aa815ac081397369e00000000">
+			<Metadata name="Catalog.Автомобили.Attribute.VIN" id="1b30f523-958e-40ce-802d-fe2c52d49915"/>
+			<Metadata name="Catalog.Автомобили.Attribute.ТехПаспорт" id="58d33b50-bc2a-4887-a376-3e9d79eafd8d"/>
+			<Metadata name="Catalog.Автомобили.Attribute.Цвет" id="6af2913b-a089-4fe6-9df1-f20288ab3fbe"/>
+			<Metadata name="Catalog.Автомобили.Attribute.ГодВыпуска" id="9d7f7cb7-0e13-4236-8cf0-be196b1f772b"/>
+			<Metadata name="Catalog.Автомобили.Attribute.ГосНомер" id="acdd3d33-b854-418d-80b4-b059bdc98310"/>
+			<Metadata name="Catalog.Автомобили.Attribute.НомерШасси" id="e7523f30-da5d-4d49-ad09-e6807f8722fa"/>
+			<Metadata name="Catalog.Автомобили.Attribute.НомерДвигателя" id="eb8bb4bd-cce5-4954-83e9-9ef98bb5848b"/>
+			<Metadata name="Catalog.Автомобили.Attribute.Модель" id="ec835547-f7da-4152-98ac-d294f9c426a2"/>
+			<Metadata name="Catalog.Автомобили.Attribute.НомерКузова" id="f4841027-4ff2-4678-bb11-7e2c4132ac08"/>
+		</Metadata>
+		<Metadata name="Catalog.Автомобили.Form.ФормаСписка" id="7d0d9ee6-7bde-4c29-a053-187ab6f2c650" configVersion="863703026fa41b4c90c0656a7ab3f49500000000"/>
+		<Metadata name="Catalog.Автомобили.Form.ФормаСписка.Form" id="7d0d9ee6-7bde-4c29-a053-187ab6f2c650.0" configVersion="22cc2d2de3cc264bbebd9ce2d0ecb8b400000000"/>
+		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента" id="54f413d7-c30c-4542-a6ba-dae224082aec" configVersion="ba30e45370b12147a5bcde9fa154867300000000"/>
+		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента.Form" id="54f413d7-c30c-4542-a6ba-dae224082aec.0" configVersion="62b3ff6ba0ce494e946ae4af95fc522a00000000"/>
+		<Metadata name="Catalog.Автомобили.ObjectModule" id="af4553a3-91aa-4a79-9df6-e2aa5a1123f3.0" configVersion="9b0cb2371edb5e4c92c7bdb9e290474600000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e" configVersion="aa08b2cd6588dd449422d4025385a38b00000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Бессрочный" id="8ee15c1f-df5b-4b88-a774-15bb22bff413"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="becac1eb-5dc4-47bd-a5c6-27d603723115"/>
@@ -147,7 +163,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="17a66705f2f5744aa28f2a7c3aaee3d000000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="48cc6dca3095424886a8c508147c302e00000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.1" configVersion="1a90b3a1c852694aad31a7015826e96900000000"/>
@@ -218,12 +234,12 @@
 		<Metadata name="Subsystem.ДенежныеСредства.CommandInterface" id="4a4fe09d-0e33-4207-b218-de70a9648aa5.1" configVersion="bb5a34e437b5f640a4a267ee21d4ff6600000000"/>
 		<Metadata name="Subsystem.Покупки" id="e8306114-e551-498d-8940-785b8f7b5901" configVersion="a73b1240729b464e98714d4306ff88a300000000"/>
 		<Metadata name="Subsystem.Покупки.CommandInterface" id="e8306114-e551-498d-8940-785b8f7b5901.1" configVersion="5f8f1532ab3dac4d82f7a3e16f6ffc1200000000"/>
-		<Metadata name="Subsystem.Продажи" id="b3871f21-0226-4070-938b-849498506723" configVersion="6ce5f1a3eb737c40a2821267ae518a0e00000000"/>
-		<Metadata name="Subsystem.Продажи.CommandInterface" id="b3871f21-0226-4070-938b-849498506723.1" configVersion="338c922765e0404da19cb655dc0dc93e00000000"/>
+		<Metadata name="Subsystem.Продажи" id="b3871f21-0226-4070-938b-849498506723" configVersion="353633bdb52a8845894a1b1fb94cfa5b00000000"/>
+		<Metadata name="Subsystem.Продажи.CommandInterface" id="b3871f21-0226-4070-938b-849498506723.1" configVersion="5811ee35d767c54faacfb494e996ba0400000000"/>
 		<Metadata name="Subsystem.СервисИНастройки" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9" configVersion="36c2f957be962748a7a40b0a53814c5000000000"/>
 		<Metadata name="Subsystem.СервисИНастройки.CommandInterface" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9.1" configVersion="c22cec975fabfb4cb7d0d732b1bfce8900000000"/>
-		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="ed615ee69b75514c83b6a208efac1d7200000000"/>
-		<Metadata name="Subsystem.Справочники.CommandInterface" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0.1" configVersion="22454fa0ffbaed45bd2d1d6f76c5aa1b00000000"/>
+		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="71e1a30a9c69c844bbc850ea650517d000000000"/>
+		<Metadata name="Subsystem.Справочники.CommandInterface" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0.1" configVersion="718f990d3d9f554cbcbea3d9464c731900000000"/>
 		<Metadata name="Subsystem.УправлениеПерсоналом" id="78d400c1-6202-4f18-8c88-1ac6583155e0" configVersion="ada8be710dd97943a1e02d7d0a61afe800000000"/>
 		<Metadata name="Subsystem.УправлениеПерсоналом.CommandInterface" id="78d400c1-6202-4f18-8c88-1ac6583155e0.1" configVersion="779e60a71ca0a44ab95c35ccfc33749b00000000"/>
 	</ConfigVersions>

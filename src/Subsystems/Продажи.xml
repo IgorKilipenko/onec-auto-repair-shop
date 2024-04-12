@@ -26,6 +26,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ОписанияЦветовДляТехпаспорта</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЦветаАвтомобилей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.МоделиАвтомобилей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Автомобили</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

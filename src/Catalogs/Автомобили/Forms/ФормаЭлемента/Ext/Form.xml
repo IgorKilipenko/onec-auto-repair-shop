@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<InputField name="Код" id="1">
+			<DataPath>Объект.Code</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<InputField name="Наименование" id="4">
+			<DataPath>Объект.Description</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
+		</InputField>
+		<InputField name="Владелец" id="7">
+			<DataPath>Объект.Owner</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ВладелецКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ВладелецРасширеннаяПодсказка" id="9"/>
+		</InputField>
+		<InputField name="Родитель" id="10">
+			<DataPath>Объект.Parent</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="РодительКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="РодительРасширеннаяПодсказка" id="12"/>
+		</InputField>
+		<InputField name="VIN" id="13">
+			<DataPath>Объект.VIN</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="VINКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="VINРасширеннаяПодсказка" id="15"/>
+			<Events>
+				<Event name="OnChange">VINПриИзменении</Event>
+			</Events>
+		</InputField>
+		<InputField name="ГодВыпуска" id="16">
+			<DataPath>Объект.ГодВыпуска</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ГодВыпускаКонтекстноеМеню" id="17"/>
+			<ExtendedTooltip name="ГодВыпускаРасширеннаяПодсказка" id="18"/>
+			<Events>
+				<Event name="OnChange">ГодВыпускаПриИзменении</Event>
+			</Events>
+		</InputField>
+		<InputField name="ГосНомер" id="19">
+			<DataPath>Объект.ГосНомер</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ГосНомерКонтекстноеМеню" id="20"/>
+			<ExtendedTooltip name="ГосНомерРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<InputField name="Модель" id="22">
+			<DataPath>Объект.Модель</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="МодельКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="МодельРасширеннаяПодсказка" id="24"/>
+			<Events>
+				<Event name="OnChange">МодельПриИзменении</Event>
+			</Events>
+		</InputField>
+		<InputField name="НомерДвигателя" id="25">
+			<DataPath>Объект.НомерДвигателя</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НомерДвигателяКонтекстноеМеню" id="26"/>
+			<ExtendedTooltip name="НомерДвигателяРасширеннаяПодсказка" id="27"/>
+		</InputField>
+		<InputField name="НомерКузова" id="28">
+			<DataPath>Объект.НомерКузова</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НомерКузоваКонтекстноеМеню" id="29"/>
+			<ExtendedTooltip name="НомерКузоваРасширеннаяПодсказка" id="30"/>
+		</InputField>
+		<InputField name="НомерШасси" id="31">
+			<DataPath>Объект.НомерШасси</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НомерШассиКонтекстноеМеню" id="32"/>
+			<ExtendedTooltip name="НомерШассиРасширеннаяПодсказка" id="33"/>
+		</InputField>
+		<InputField name="ТехПаспорт" id="34">
+			<DataPath>Объект.ТехПаспорт</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ТехПаспортКонтекстноеМеню" id="35"/>
+			<ExtendedTooltip name="ТехПаспортРасширеннаяПодсказка" id="36"/>
+		</InputField>
+		<InputField name="Цвет" id="37">
+			<DataPath>Объект.Цвет</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ЦветКонтекстноеМеню" id="38"/>
+			<ExtendedTooltip name="ЦветРасширеннаяПодсказка" id="39"/>
+		</InputField>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:CatalogObject.Автомобили</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+		</Attribute>
+	</Attributes>
+</Form>
