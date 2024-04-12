@@ -128,12 +128,13 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="508efca0e4867942ad5f9e2168a4835600000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="7a31c1c5e17a1445966ffab158a3fb2b00000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.1" configVersion="1a90b3a1c852694aad31a7015826e96900000000"/>
 		<Metadata name="Configuration.Автосервис.MainSectionCommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.9" configVersion="3687a12e0abee649a7abadd5e2b6074100000000"/>
 		<Metadata name="Configuration.Автосервис.MainSectionPicture" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.c" configVersion="734129a9274b844d844c4fa53e6543f200000000"/>
+		<Metadata name="Configuration.Автосервис.SessionModule" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.7" configVersion="5bfd6b859a681c4587cef17794e46ec700000000"/>
 		<Metadata name="Configuration.Автосервис.Splash" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.2" configVersion="4128d3ea2173c646be0e143c199916a300000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="c2c9a73d-c5ef-40c4-855e-48bfa10714e8" configVersion="b1742080717d804ca5335f006ee0b28a00000000"/>
 		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="0271628f-cce8-4661-b2a6-134431b37c29" configVersion="cff2bc85b58f7b4c9012ea0ebe3855c100000000">
@@ -185,6 +186,12 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="f8d6781d-4552-406e-b653-07ab038fa1ed"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="20b0d362-5dbf-4e6a-998e-b5098dc907d4" configVersion="80c5dc22df465a4681ce1bb5e62fe3b100000000"/>
+		<Metadata name="Role.Администратор" id="4a4d7caa-02ef-44c6-b891-ca9f663a4656" configVersion="60d10d15bc89ce47bd1b68e9bc1540af00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="4a4d7caa-02ef-44c6-b891-ca9f663a4656.0" configVersion="c15621d1774b6b4e84e6b4280603290900000000"/>
+		<Metadata name="Role.ПолныеПрава" id="1e11983e-855e-4b9f-8a10-ef003e4ebb55" configVersion="a2d43136b8f234428498db38e97f35d100000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="1e11983e-855e-4b9f-8a10-ef003e4ebb55.0" configVersion="4969bdadf57a4442b0159f6c33492c4500000000"/>
+		<Metadata name="Role.Руководитель" id="7b7f1963-6d53-47b1-a639-52abf887c327" configVersion="6dc9beda100f40448e2b83795f48a13600000000"/>
+		<Metadata name="Role.Руководитель.Rights" id="7b7f1963-6d53-47b1-a639-52abf887c327.0" configVersion="2acb5851f392a6428cfed2524142f7d400000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="489b2e6b-8f6a-4e68-b2bd-674f5030cb7c" configVersion="06c39f779b9bf644b31e42439b7198e700000000"/>
 		<Metadata name="Style.Автосервис" id="5f522c5f-4ef5-4d09-acd4-b0639d8c1847" configVersion="0cf4eecb8c74ab46b41598f2a1a5004400000000"/>
 		<Metadata name="Style.Автосервис.Style" id="5f522c5f-4ef5-4d09-acd4-b0639d8c1847.0" configVersion="7a3296841fb77b49a981e6ecaeadbb0e00000000"/>

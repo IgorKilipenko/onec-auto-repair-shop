@@ -263,6 +263,9 @@
 			<CommonPicture>Главное</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>ПолныеПрава</Role>
+			<Role>Администратор</Role>
+			<Role>Руководитель</Role>
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
