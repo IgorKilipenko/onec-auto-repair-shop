@@ -1,8 +1,8 @@
-﻿New: Catalog.ЦветаАвтомобилей
-New: Catalog.ЦветаАвтомобилей.Form.ФормаСписка
-New: Catalog.ЦветаАвтомобилей.Form.ФормаСписка.Form
-New: Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента
-New: Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента.Form
+﻿New: Catalog.МоделиАвтомобилей
+New: Catalog.МоделиАвтомобилей.Form.ФормаСписка
+New: Catalog.МоделиАвтомобилей.Form.ФормаСписка.Form
+New: Catalog.МоделиАвтомобилей.Form.ФормаЭлемента
+New: Catalog.МоделиАвтомобилей.Form.ФормаЭлемента.Form
 Modified: Configuration.Автосервис
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface
