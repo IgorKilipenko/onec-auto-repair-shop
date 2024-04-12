@@ -1,2 +1,2 @@
-﻿New: SessionParameter.ТекущийПользователь
-Modified: Configuration.Автосервис
+﻿New: Catalog.Пользователи.ManagerModule
+Modified: Catalog.Пользователи
