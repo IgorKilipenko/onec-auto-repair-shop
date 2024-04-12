@@ -36,6 +36,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.ЦветаАвтомобилей.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -68,6 +73,10 @@
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>

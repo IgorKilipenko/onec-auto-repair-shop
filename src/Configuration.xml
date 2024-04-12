@@ -291,6 +291,7 @@
 			<Catalog>ЦветаАвтомобилей</Catalog>
 			<Catalog>МоделиАвтомобилей</Catalog>
 			<Catalog>Автомобили</Catalog>
+			<Catalog>Склады</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

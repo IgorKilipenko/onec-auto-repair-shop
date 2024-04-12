@@ -1,10 +1,11 @@
-﻿New: Catalog.Автомобили
-New: Catalog.Автомобили.Form.ФормаСписка
-New: Catalog.Автомобили.Form.ФормаСписка.Form
-New: Catalog.Автомобили.Form.ФормаЭлемента
-New: Catalog.Автомобили.Form.ФормаЭлемента.Form
-New: Catalog.Автомобили.ObjectModule
+﻿New: Catalog.Склады
+New: Catalog.Склады.Form.ФормаСписка
+New: Catalog.Склады.Form.ФормаСписка.Form
+New: Catalog.Склады.Form.ФормаЭлемента
+New: Catalog.Склады.Form.ФормаЭлемента.Form
 Modified: Configuration.Автосервис
+Modified: Subsystem.Покупки
+Modified: Subsystem.Покупки.CommandInterface
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface
 Modified: Subsystem.Справочники
