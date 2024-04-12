@@ -1,9 +1,9 @@
-﻿New: Document.ПриходныйКассовыйОрдер
-New: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента
-New: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form
-New: Document.ПриходныйКассовыйОрдер.Form.ФормаСписка
-New: Document.ПриходныйКассовыйОрдер.Form.ФормаСписка.Form
-New: Document.ПриходныйКассовыйОрдер.ObjectModule
+﻿New: AccumulationRegister.ТоварыНаСкладах
 Modified: Configuration.Автосервис
-Modified: Subsystem.ДенежныеСредства
-Modified: Subsystem.ДенежныеСредства.CommandInterface
+Modified: Document.ПоступлениеТоваровИУслуг
+Modified: Document.Реализация
+Modified: FunctionalOption.ИспользоватьСклады
+Modified: Subsystem.Покупки
+Modified: Subsystem.Покупки.CommandInterface
+Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface

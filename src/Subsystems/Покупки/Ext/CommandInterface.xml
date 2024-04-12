@@ -6,6 +6,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -37,6 +42,10 @@
 			<CommandGroup>CommandGroup.Покупки</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Покупки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
@@ -58,12 +67,4 @@
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
-	<CommandsOrder>
-		<Command name="Document.ПоступлениеТоваровИУслуг.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Покупки</CommandGroup>
-		</Command>
-	</CommandsOrder>
-	<GroupsOrder>
-		<Group>CommandGroup.Покупки</Group>
-	</GroupsOrder>
 </CommandInterface>
