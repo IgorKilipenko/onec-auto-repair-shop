@@ -262,6 +262,7 @@
 			<CommonPicture>Покупки</CommonPicture>
 			<CommonPicture>Главное</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>

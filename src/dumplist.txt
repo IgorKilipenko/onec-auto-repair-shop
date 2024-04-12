@@ -1,2 +1,2 @@
-﻿New: DefinedType.ФинансовыеДанные
+﻿New: SessionParameter.ТекущийПользователь
 Modified: Configuration.Автосервис
