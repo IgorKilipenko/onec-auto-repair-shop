@@ -941,13 +941,13 @@
 		<width>62</width>
 	</format>
 	<format>
-		<width>117</width>
+		<width>151</width>
 	</format>
 	<format>
 		<width>58</width>
 	</format>
 	<format>
-		<width>201</width>
+		<width>192</width>
 	</format>
 	<format>
 		<width>268</width>
@@ -1078,31 +1078,18 @@
 	<format>
 		<font>1</font>
 		<border>0</border>
+		<horizontalAlignment>Right</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
 		<markNegatives>false</markNegatives>
-		<containsValue>true</containsValue>
-		<valueType>
-			<v8:Type>xs:string</v8:Type>
-			<v8:StringQualifiers>
-				<v8:Length>0</v8:Length>
-				<v8:AllowedLength>Variable</v8:AllowedLength>
-			</v8:StringQualifiers>
-		</valueType>
 		<format>
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>ЧДЦ=2; ЧРД=,; ЧРГ=' '; ЧГ=3,0</v8:content>
+				<v8:content>ЧЦ=15;ЧДЦ=2</v8:content>
 			</v8:item>
 		</format>
-		<controlType>381ed624-9217-4e63-85db-c4c3cb87daae</controlType>
-		<editFormat>
-			<v8:item>
-				<v8:lang>ru</v8:lang>
-				<v8:content>ЧДЦ=2; ЧРД=,; ЧРГ=' '; ЧГ=3,0</v8:content>
-			</v8:item>
-		</editFormat>
+		<editFormat/>
 	</format>
 	<format>
 		<font>1</font>
@@ -1131,28 +1118,13 @@
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
 		<markNegatives>false</markNegatives>
-		<containsValue>true</containsValue>
-		<valueType>
-			<v8:Type>xs:decimal</v8:Type>
-			<v8:NumberQualifiers>
-				<v8:Digits>0</v8:Digits>
-				<v8:FractionDigits>0</v8:FractionDigits>
-				<v8:AllowedSign>Any</v8:AllowedSign>
-			</v8:NumberQualifiers>
-		</valueType>
 		<format>
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>ЧДЦ=2; ЧРД=,; ЧРГ=' '; ЧГ=3,0</v8:content>
+				<v8:content>ЧЦ=15;ЧДЦ=3</v8:content>
 			</v8:item>
 		</format>
-		<controlType>381ed624-9217-4e63-85db-c4c3cb87daae</controlType>
-		<editFormat>
-			<v8:item>
-				<v8:lang>ru</v8:lang>
-				<v8:content>ЧДЦ=2; ЧРД=,; ЧРГ=' '; ЧГ=3,0</v8:content>
-			</v8:item>
-		</editFormat>
+		<editFormat/>
 	</format>
 	<format>
 		<font>1</font>

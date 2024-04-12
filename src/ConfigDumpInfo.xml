@@ -210,8 +210,8 @@
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаСписка.Form" id="d6f91099-4f1b-4e1f-935b-e32801a9714f.0" configVersion="29a4943b3a9f6e4aa8fb72359488b3f800000000"/>
 		<Metadata name="Document.ЗаказНаряд.ManagerModule" id="08066604-93c9-484f-b36a-498693f1736b.2" configVersion="1d2966c5658de34fa4a731b4a26f2dc500000000"/>
 		<Metadata name="Document.ЗаказНаряд.ObjectModule" id="08066604-93c9-484f-b36a-498693f1736b.0" configVersion="952bb33b55f97a44b47bd628108a437f00000000"/>
-		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66fc50dd-6598-4362-bf6c-f68582a4de7b" configVersion="9a28f67d511cab47a2efdc7e483057a300000000"/>
-		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66fc50dd-6598-4362-bf6c-f68582a4de7b.0" configVersion="b01fcc727f4cf348973f46c9bf2b18d900000000"/>
+		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66fc50dd-6598-4362-bf6c-f68582a4de7b" configVersion="d02b1bb0e039a54c9a04fe1ef88c4fb700000000"/>
+		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66fc50dd-6598-4362-bf6c-f68582a4de7b.0" configVersion="f3a37783a245c84996ff2fa43bed1fe100000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="f6a1bff4796f6847ba0432194441115b00000000">
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Цена" id="03ee831c-8a79-4ffb-9a84-f15c6529cccd"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги" id="2085232d-fabb-433b-8cf7-b0b1c6e1d4b4"/>

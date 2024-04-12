@@ -1,5 +1,2 @@
-﻿Modified: Document.ЗаказНаряд
-Modified: Document.ЗаказНаряд.Command.Печать.CommandModule
-Modified: Document.ЗаказНаряд.ManagerModule
-Modified: Document.ЗаказНаряд.Template.Печать
+﻿Modified: Document.ЗаказНаряд.Template.Печать
 Modified: Document.ЗаказНаряд.Template.Печать.Template
