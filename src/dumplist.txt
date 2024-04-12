@@ -1,5 +1,10 @@
-﻿New: Constant.ИспользоватьСклады
-New: FunctionalOption.ИспользоватьСклады
+﻿New: Document.ПоступлениеТоваровИУслуг
+New: Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента
+New: Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form
+New: Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка
+New: Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка.Form
+New: Document.ПоступлениеТоваровИУслуг.ObjectModule
 Modified: Configuration.Автосервис
-Modified: Subsystem.СервисИНастройки
-Modified: Subsystem.СервисИНастройки.CommandInterface
+Modified: FunctionalOption.ИспользоватьСклады
+Modified: Subsystem.Покупки
+Modified: Subsystem.Покупки.CommandInterface

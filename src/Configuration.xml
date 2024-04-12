@@ -294,6 +294,7 @@
 			<Catalog>МоделиАвтомобилей</Catalog>
 			<Catalog>Автомобили</Catalog>
 			<Catalog>Склады</Catalog>
+			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
