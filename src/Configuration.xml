@@ -288,6 +288,7 @@
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Кассы</Catalog>
 			<Catalog>ОписанияЦветовДляТехпаспорта</Catalog>
+			<Catalog>ЦветаАвтомобилей</Catalog>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

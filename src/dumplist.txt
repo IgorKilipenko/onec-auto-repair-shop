@@ -1,8 +1,8 @@
-﻿New: Catalog.ОписанияЦветовДляТехпаспорта
-New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка
-New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка.Form
-New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаЭлемента
-New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаЭлемента.Form
+﻿New: Catalog.ЦветаАвтомобилей
+New: Catalog.ЦветаАвтомобилей.Form.ФормаСписка
+New: Catalog.ЦветаАвтомобилей.Form.ФормаСписка.Form
+New: Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента
+New: Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента.Form
 Modified: Configuration.Автосервис
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface

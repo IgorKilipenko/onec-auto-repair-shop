@@ -30,6 +30,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Пользователи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Кассы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ОписанияЦветовДляТехпаспорта</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЦветаАвтомобилей</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
