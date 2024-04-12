@@ -21,6 +21,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -69,6 +74,10 @@
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Покупки</CommandGroup>
 			<Placement>Auto</Placement>
@@ -95,18 +104,6 @@
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
-		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Продажи</CommandGroup>
-		</Command>
-		<Command name="Catalog.ИсточникиИнформации.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Продажи</CommandGroup>
-		</Command>
-		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Продажи</CommandGroup>
-		</Command>
-		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Продажи</CommandGroup>
-		</Command>
 		<Command name="Catalog.СтатьиЗатрат.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Покупки</CommandGroup>
 		</Command>
@@ -118,7 +115,6 @@
 		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
-		<Group>CommandGroup.Продажи</Group>
 		<Group>CommandGroup.Покупки</Group>
 		<Group>CommandGroup.Персонал</Group>
 	</GroupsOrder>

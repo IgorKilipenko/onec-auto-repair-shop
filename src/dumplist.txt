@@ -1,8 +1,10 @@
-﻿New: Configuration.Автосервис.SessionModule
-New: Role.Администратор
-New: Role.Администратор.Rights
-New: Role.ПолныеПрава
-New: Role.ПолныеПрава.Rights
-New: Role.Руководитель
-New: Role.Руководитель.Rights
+﻿New: Catalog.ОписанияЦветовДляТехпаспорта
+New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка
+New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка.Form
+New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаЭлемента
+New: Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаЭлемента.Form
 Modified: Configuration.Автосервис
+Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface
+Modified: Subsystem.Справочники
+Modified: Subsystem.Справочники.CommandInterface
