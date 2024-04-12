@@ -1,2 +1,2 @@
-﻿Modified: Document.ЗаказНаряд.Template.Печать
-Modified: Document.ЗаказНаряд.Template.Печать.Template
+﻿Modified: Document.ЗаказНаряд
+Modified: Document.ЗаказНаряд.ObjectModule
