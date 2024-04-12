@@ -29,6 +29,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Автомобили</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказНаряд</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

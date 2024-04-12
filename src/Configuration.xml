@@ -296,6 +296,7 @@
 			<Catalog>Склады</Catalog>
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>ЗаказНаряд</Document>
+			<Document>Реализация</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

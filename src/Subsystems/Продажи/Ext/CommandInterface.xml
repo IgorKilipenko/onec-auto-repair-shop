@@ -6,6 +6,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Document.Реализация.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -57,6 +62,10 @@
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="Document.Реализация.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
@@ -94,12 +103,4 @@
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
-	<CommandsOrder>
-		<Command name="Document.ЗаказНаряд.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Продажи</CommandGroup>
-		</Command>
-	</CommandsOrder>
-	<GroupsOrder>
-		<Group>CommandGroup.Продажи</Group>
-	</GroupsOrder>
 </CommandInterface>

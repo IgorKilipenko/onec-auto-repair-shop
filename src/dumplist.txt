@@ -1,2 +1,14 @@
-﻿Modified: Document.ЗаказНаряд
-Modified: Document.ЗаказНаряд.ObjectModule
+﻿New: Document.Реализация
+New: Document.Реализация.Command.Печать.CommandModule
+New: Document.Реализация.Form.ФормаДокумента
+New: Document.Реализация.Form.ФормаДокумента.Form
+New: Document.Реализация.Form.ФормаСписка
+New: Document.Реализация.Form.ФормаСписка.Form
+New: Document.Реализация.ManagerModule
+New: Document.Реализация.ObjectModule
+New: Document.Реализация.Template.Печать
+New: Document.Реализация.Template.Печать.Template
+Modified: Configuration.Автосервис
+Modified: FunctionalOption.ИспользоватьСклады
+Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface
