@@ -1,12 +1,5 @@
-﻿New: Catalog.Склады
-New: Catalog.Склады.Form.ФормаСписка
-New: Catalog.Склады.Form.ФормаСписка.Form
-New: Catalog.Склады.Form.ФормаЭлемента
-New: Catalog.Склады.Form.ФормаЭлемента.Form
+﻿New: Constant.ИспользоватьСклады
+New: FunctionalOption.ИспользоватьСклады
 Modified: Configuration.Автосервис
-Modified: Subsystem.Покупки
-Modified: Subsystem.Покупки.CommandInterface
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
+Modified: Subsystem.СервисИНастройки
+Modified: Subsystem.СервисИНастройки.CommandInterface

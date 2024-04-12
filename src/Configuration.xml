@@ -270,6 +270,7 @@
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСРеквизитами</CommonModule>
+			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
@@ -277,6 +278,7 @@
 			<CommandGroup>НаличныеДеньги</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
 			<Catalog>Сотрудники</Catalog>
