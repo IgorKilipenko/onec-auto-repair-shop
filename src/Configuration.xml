@@ -297,6 +297,7 @@
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>ЗаказНаряд</Document>
 			<Document>Реализация</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
