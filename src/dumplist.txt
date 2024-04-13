@@ -1,4 +1,2 @@
-﻿New: AccumulationRegister.ЗаказыКлиентов
-Modified: Configuration.Автосервис
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
+﻿Modified: Document.ЗаказНаряд
+Modified: Document.Реализация
