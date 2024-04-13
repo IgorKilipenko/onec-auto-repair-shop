@@ -1,2 +1,8 @@
-﻿Modified: Document.ЗаказНаряд
-Modified: Document.Реализация
+﻿New: InformationRegister.ЦеныНоменклатуры
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form
+Modified: Configuration.Автосервис
+Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface
