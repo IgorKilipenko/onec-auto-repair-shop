@@ -309,6 +309,7 @@
 			<Enum>СостоянияМатериаловКлиентов</Enum>
 			<Enum>СостоянияЗаказовНарядов</Enum>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
+			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

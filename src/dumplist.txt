@@ -1,9 +1,4 @@
-﻿New: AccumulationRegister.ТоварыНаСкладах
+﻿New: AccumulationRegister.ЗаказыКлиентов
 Modified: Configuration.Автосервис
-Modified: Document.ПоступлениеТоваровИУслуг
-Modified: Document.Реализация
-Modified: FunctionalOption.ИспользоватьСклады
-Modified: Subsystem.Покупки
-Modified: Subsystem.Покупки.CommandInterface
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface
