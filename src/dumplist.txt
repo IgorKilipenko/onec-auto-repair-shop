@@ -1,5 +1,2 @@
-﻿New: AccumulationRegister.МатериалыЗаказчиков
-Modified: Configuration.Автосервис
-Modified: FunctionalOption.ИспользоватьСклады
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
+﻿Modified: Document.ЗаказНаряд
+Modified: Document.Реализация
