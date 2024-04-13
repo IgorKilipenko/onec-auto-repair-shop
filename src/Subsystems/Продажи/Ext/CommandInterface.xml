@@ -11,6 +11,11 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="AccumulationRegister.Продажи.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Document.Реализация.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -73,6 +78,10 @@
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="AccumulationRegister.ЗаказыКлиентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="AccumulationRegister.Продажи.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>

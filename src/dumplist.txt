@@ -1,2 +1,5 @@
-﻿Modified: Document.ЗаказНаряд
+﻿New: AccumulationRegister.Продажи
+Modified: Configuration.Автосервис
 Modified: Document.Реализация
+Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface

@@ -32,6 +32,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ТоварыНаСкладах</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ЗаказыКлиентов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
