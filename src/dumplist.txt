@@ -1,5 +1,8 @@
-﻿New: AccumulationRegister.Продажи
+﻿New: AccumulationRegister.УчетЗатрат
 Modified: Configuration.Автосервис
+Modified: Document.ПоступлениеТоваровИУслуг
 Modified: Document.Реализация
+Modified: Subsystem.Покупки
+Modified: Subsystem.Покупки.CommandInterface
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface

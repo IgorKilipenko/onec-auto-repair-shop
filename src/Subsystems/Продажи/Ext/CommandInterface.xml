@@ -26,6 +26,11 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="AccumulationRegister.УчетЗатрат.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -90,6 +95,10 @@
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="AccumulationRegister.УчетЗатрат.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
