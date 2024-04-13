@@ -86,6 +86,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="Document.ЗаказНаряд.StandardCommand.OpenList">
@@ -156,8 +161,18 @@
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
+		</Command>
+	</CommandsOrder>
 	<GroupsOrder>
 		<Group>NavigationPanelOrdinary</Group>
+		<Group>CommandGroup.Настройки</Group>
 	</GroupsOrder>
 </CommandInterface>

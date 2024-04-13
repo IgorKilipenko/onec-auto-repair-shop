@@ -36,6 +36,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.УчетЗатрат</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.МатериалыЗаказчиков</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныНоменклатуры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.УчетнаяПолитика</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

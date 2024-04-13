@@ -1,8 +1,10 @@
-﻿New: InformationRegister.ЦеныНоменклатуры
-New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи
-New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form
-New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка
-New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form
+﻿New: InformationRegister.УчетнаяПолитика
+New: InformationRegister.УчетнаяПолитика.Form.ФормаЗаписи
+New: InformationRegister.УчетнаяПолитика.Form.ФормаЗаписи.Form
+New: InformationRegister.УчетнаяПолитика.Form.ФормаСписка
+New: InformationRegister.УчетнаяПолитика.Form.ФормаСписка.Form
 Modified: Configuration.Автосервис
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface
+Modified: Subsystem.СервисИНастройки
+Modified: Subsystem.СервисИНастройки.CommandInterface

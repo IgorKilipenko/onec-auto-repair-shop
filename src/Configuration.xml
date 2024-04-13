@@ -309,6 +309,7 @@
 			<Enum>СостоянияМатериаловКлиентов</Enum>
 			<Enum>СостоянияЗаказовНарядов</Enum>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

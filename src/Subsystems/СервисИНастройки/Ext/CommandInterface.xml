@@ -6,10 +6,19 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
@@ -17,8 +26,12 @@
 		<Command name="Catalog.Пользователи.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 		</Command>
+		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Настройки</CommandGroup>
+		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
 		<Group>CommandGroup.Справочники</Group>
+		<Group>CommandGroup.Настройки</Group>
 	</GroupsOrder>
 </CommandInterface>
