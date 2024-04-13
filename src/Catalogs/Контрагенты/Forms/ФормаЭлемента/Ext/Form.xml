@@ -3,6 +3,10 @@
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Код" id="1">
 			<DataPath>Объект.Code</DataPath>
@@ -31,6 +35,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ТипКонтрагентаКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ТипКонтрагентаРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="OnChange">ТипКонтрагентаПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="КонтактныйТелефон" id="13">
 			<DataPath>Объект.КонтактныйТелефон</DataPath>

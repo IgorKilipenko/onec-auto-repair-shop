@@ -1,5 +1,4 @@
-﻿New: Catalog.Сотрудники.ManagerModule
-Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.Form.ФормаЭлемента
-Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form
-Modified: Catalog.Сотрудники.ObjectModule
+﻿New: Catalog.Контрагенты.ManagerModule
+Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
