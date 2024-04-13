@@ -1,10 +1,5 @@
-﻿New: InformationRegister.УчетнаяПолитика
-New: InformationRegister.УчетнаяПолитика.Form.ФормаЗаписи
-New: InformationRegister.УчетнаяПолитика.Form.ФормаЗаписи.Form
-New: InformationRegister.УчетнаяПолитика.Form.ФормаСписка
-New: InformationRegister.УчетнаяПолитика.Form.ФормаСписка.Form
-Modified: Configuration.Автосервис
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
-Modified: Subsystem.СервисИНастройки
-Modified: Subsystem.СервисИНастройки.CommandInterface
+﻿New: Catalog.Сотрудники.ManagerModule
+Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.Form.ФормаЭлемента
+Modified: Catalog.Сотрудники.Form.ФормаЭлемента.Form
+Modified: Catalog.Сотрудники.ObjectModule
