@@ -1,8 +1,5 @@
-﻿New: AccumulationRegister.УчетЗатрат
+﻿New: AccumulationRegister.МатериалыЗаказчиков
 Modified: Configuration.Автосервис
-Modified: Document.ПоступлениеТоваровИУслуг
-Modified: Document.Реализация
-Modified: Subsystem.Покупки
-Modified: Subsystem.Покупки.CommandInterface
+Modified: FunctionalOption.ИспользоватьСклады
 Modified: Subsystem.Продажи
 Modified: Subsystem.Продажи.CommandInterface

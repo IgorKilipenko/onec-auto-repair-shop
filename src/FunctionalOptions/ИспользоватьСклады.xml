@@ -18,6 +18,7 @@
 				<xr:Object>Document.ЗаказНаряд.Attribute.Склад</xr:Object>
 				<xr:Object>Document.Реализация.Attribute.Склад</xr:Object>
 				<xr:Object>AccumulationRegister.ТоварыНаСкладах.Dimension.Склад</xr:Object>
+				<xr:Object>AccumulationRegister.МатериалыЗаказчиков.Dimension.Склад</xr:Object>
 			</Content>
 		</Properties>
 	</FunctionalOption>

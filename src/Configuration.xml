@@ -312,6 +312,7 @@
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
+			<AccumulationRegister>МатериалыЗаказчиков</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
