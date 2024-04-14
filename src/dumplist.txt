@@ -1,4 +1,5 @@
-﻿Modified: Catalog.ДоговорыКонтрагентов
-Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента
-Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form
-Modified: Catalog.ДоговорыКонтрагентов.ObjectModule
+﻿New: CommonModule.ПроверкаТиповКлиентСервер
+New: CommonModule.ПроверкаТиповКлиентСервер.Module
+New: CommonModule.РаботаСКоллекциямиКлиентСервер
+New: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
+Modified: Configuration.Автосервис
