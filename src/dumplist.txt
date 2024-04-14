@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Автомобили.Form.ФормаЭлемента
-Modified: Catalog.Автомобили.Form.ФормаЭлемента.Form
+﻿Modified: CommonModule.РаботаСРеквизитами
+Modified: CommonModule.РаботаСРеквизитами.Module
