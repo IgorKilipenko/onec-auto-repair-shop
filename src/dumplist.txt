@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.ObjectModule
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.ObjectModule

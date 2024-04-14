@@ -95,7 +95,7 @@
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаСписка.Form" id="0a9478c5-f94b-489c-a771-5a1228274c9b.0" configVersion="773a847246d7554a98e48e05ffed4c2f00000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаЭлемента" id="c2e61383-8281-4f49-ab9d-216f7a14b2b3" configVersion="fc94089db85fcc4da32873de7573303500000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаЭлемента.Form" id="c2e61383-8281-4f49-ab9d-216f7a14b2b3.0" configVersion="372ac6c9faa03d40af233fd4f2320fa200000000"/>
-		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="4fdfd537a32add4591c9a62b70c7ed4b00000000">
+		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="fee8f9796262f9458dc7db3eaace1df700000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="4b3b2ff9-620d-4b1e-8fc3-9d09565f77d0"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ДлительностьУслуги" id="54d554c6-b5f4-42a5-b058-59721c2467e3"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="d897ee64-fe22-4104-bfe1-142273af61ec"/>
@@ -105,7 +105,7 @@
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="7540eed93312cc4f9d8a9ffc860a6a8f00000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="28641e447cc7ae40a85487a7a57e995800000000"/>
 		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="0f177d0c7416d145a1a80c7d6e20296500000000"/>
-		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="144ab6a73fb6cd47a846e433e41bec5600000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="3f02d3133f6eb34fa45714a33d4e10f600000000"/>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.1c" configVersion="19559a725261b44a96814d1bff80573100000000"/>
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта" id="c85dffc5-cca6-4d9b-909d-cf048d9a9091" configVersion="85102a68bdb7854292007570ca2d04fc00000000"/>
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка" id="1c54dc11-de0d-4b1d-9eb6-46762e73ad66" configVersion="0bbb10163b1f6245a353330be5f6673100000000"/>
