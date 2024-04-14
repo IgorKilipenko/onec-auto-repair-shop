@@ -13,6 +13,7 @@
 		</InputField>
 		<InputField name="Наименование" id="4">
 			<DataPath>Объект.Description</DataPath>
+			<ReadOnly>true</ReadOnly>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
@@ -24,13 +25,6 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВладелецКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ВладелецРасширеннаяПодсказка" id="9"/>
-		</InputField>
-		<InputField name="Родитель" id="10">
-			<DataPath>Объект.Parent</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="РодительКонтекстноеМеню" id="11"/>
-			<ExtendedTooltip name="РодительРасширеннаяПодсказка" id="12"/>
 		</InputField>
 		<InputField name="VIN" id="13">
 			<DataPath>Объект.VIN</DataPath>

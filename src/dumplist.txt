@@ -1,4 +1,2 @@
-﻿New: Catalog.Организации.ObjectModule
-Modified: Catalog.Организации
-Modified: Catalog.Организации.Form.ФормаЭлемента
-Modified: Catalog.Организации.Form.ФормаЭлемента.Form
+﻿Modified: Catalog.Автомобили.Form.ФормаЭлемента
+Modified: Catalog.Автомобили.Form.ФормаЭлемента.Form
