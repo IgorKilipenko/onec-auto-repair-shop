@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСРеквизитами
-Modified: CommonModule.РаботаСРеквизитами.Module
+﻿Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.ObjectModule

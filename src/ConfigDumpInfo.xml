@@ -137,7 +137,7 @@
 		<Metadata name="Catalog.Склады.Form.ФормаСписка.Form" id="31905e00-000f-4624-8c99-71466a7bc1e2.0" configVersion="f36944017b33ec45be3688cd02ae7d6400000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента" id="3219634b-c2d0-4da7-80b9-2035f38d34fb" configVersion="5c8001d2a88ba940b7555c08bbe9df8100000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента.Form" id="3219634b-c2d0-4da7-80b9-2035f38d34fb.0" configVersion="168b50b8d6dac04082b34ce775b3654900000000"/>
-		<Metadata name="Catalog.Сотрудники" id="bebcc777-8c39-412d-8052-250866d0e264" configVersion="929f68c4ec2a134ca754ef10a20f987900000000">
+		<Metadata name="Catalog.Сотрудники" id="bebcc777-8c39-412d-8052-250866d0e264" configVersion="d952cf6382794f4aa5e6bd7c3892e85d00000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="4ef130d9-b7cb-4f5a-b8c8-cc4477a35f77"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия" id="5f9909fd-6299-403a-830e-a8f83670797a"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="6ecdac1a-d48f-402d-bbb4-e546688fef5b"/>
@@ -153,7 +153,7 @@
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="e92706a9-7588-4bf6-b96d-517483cebb3b" configVersion="4c1815cf62e7694293c9c2f16966cb5900000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="e92706a9-7588-4bf6-b96d-517483cebb3b.0" configVersion="c8354c60fa9f0f4cbddc0b81bea842cc00000000"/>
 		<Metadata name="Catalog.Сотрудники.ManagerModule" id="bebcc777-8c39-412d-8052-250866d0e264.3" configVersion="69b21f1b7a49e24d9dc97e038140a32100000000"/>
-		<Metadata name="Catalog.Сотрудники.ObjectModule" id="bebcc777-8c39-412d-8052-250866d0e264.0" configVersion="723245b02f41af489e8b5ccc0936ec2500000000"/>
+		<Metadata name="Catalog.Сотрудники.ObjectModule" id="bebcc777-8c39-412d-8052-250866d0e264.0" configVersion="b54f994ec2fce944a865d4836ee1f46100000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат" id="5f1a07ce-17cd-4e4e-ab6b-0c9b0590ee98" configVersion="ec6c71c48fe21f42ab27e141538108ff00000000">
 			<Metadata name="Catalog.СтатьиЗатрат.Attribute.Ответственный" id="cf32d60f-a210-4d3b-86fd-ad3fe64c5644"/>
 		</Metadata>
