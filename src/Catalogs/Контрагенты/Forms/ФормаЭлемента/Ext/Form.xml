@@ -22,13 +22,6 @@
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
 		</InputField>
-		<InputField name="Родитель" id="7">
-			<DataPath>Объект.Parent</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="РодительКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="РодительРасширеннаяПодсказка" id="9"/>
-		</InputField>
 		<InputField name="ТипКонтрагента" id="10">
 			<DataPath>Объект.ТипКонтрагента</DataPath>
 			<EditMode>EnterOnInput</EditMode>

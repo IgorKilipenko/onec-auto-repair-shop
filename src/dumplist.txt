@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿Modified: Catalog.Контрагенты.Form.ФормаЭлемента
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form

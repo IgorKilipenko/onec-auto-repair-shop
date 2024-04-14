@@ -87,8 +87,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаСписка" id="a89c17aa-0158-4920-8cb8-b3cf61f29120" configVersion="04255b53bfc37a46a22fd7acc83d98c700000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаСписка.Form" id="a89c17aa-0158-4920-8cb8-b3cf61f29120.0" configVersion="dd7ca56c9a996a409d94fc42f824a79100000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="531ed355-0581-48ed-b601-5a64b591fa44" configVersion="e73b7808069fed46beee23276894009500000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="531ed355-0581-48ed-b601-5a64b591fa44.0" configVersion="f52f34c1bebfe94cb54a8030b15283e900000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="531ed355-0581-48ed-b601-5a64b591fa44" configVersion="e2e41f0d2b671f4bbb3dc63c7c6d873c00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="531ed355-0581-48ed-b601-5a64b591fa44.0" configVersion="b68f19dc59aff9439d5e5ca14e94ae1000000000"/>
 		<Metadata name="Catalog.Контрагенты.ManagerModule" id="07223a3c-aa12-4697-92f8-46f6bf057c8f.3" configVersion="20c09e3a0a04f642b960bd15b471488700000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей" id="7e3a0f91-55b5-44f3-a1af-1f1edbbbf0a8" configVersion="21374be773d512498861747a50a1f63900000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаСписка" id="0a9478c5-f94b-489c-a771-5a1228274c9b" configVersion="e3c19f797acc574fb94e684c6f6c753a00000000"/>
