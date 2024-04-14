@@ -112,7 +112,7 @@
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка.Form" id="1c54dc11-de0d-4b1d-9eb6-46762e73ad66.0" configVersion="0e52386124de5a4eb9782a7ed6f51a4900000000"/>
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаЭлемента" id="4ea5db9c-5ede-486c-9e1f-33d8630a6460" configVersion="c33346440987e343b6cf688a1f12f78b00000000"/>
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаЭлемента.Form" id="4ea5db9c-5ede-486c-9e1f-33d8630a6460.0" configVersion="480bc581fbb91442bd18cacaf266634f00000000"/>
-		<Metadata name="Catalog.Организации" id="f914ffc5-b9b8-422f-8b7d-b6a36d9aa7ff" configVersion="fee49c959f88e940ab82980ad33e357f00000000">
+		<Metadata name="Catalog.Организации" id="f914ffc5-b9b8-422f-8b7d-b6a36d9aa7ff" configVersion="591cc9c05f3ec54baf656f0e1892874a00000000">
 			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="1bf78f7b-8601-45bc-a901-fa1a8725e633"/>
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="6a29d23f-3a65-4a99-94bc-2550fa8a2bd9"/>
 			<Metadata name="Catalog.Организации.Attribute.ДолжностьРуководителя" id="882ec461-765d-482f-a0ba-f38437e8b395"/>
@@ -121,8 +121,9 @@
 		</Metadata>
 		<Metadata name="Catalog.Организации.Form.ФормаСписка" id="74406aba-3e6c-4e1c-9fbd-111d5dbc37b2" configVersion="2d3f279adba75f42ab1c687eb51863c800000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаСписка.Form" id="74406aba-3e6c-4e1c-9fbd-111d5dbc37b2.0" configVersion="aa2b89c856cd16469b09ec576a66037700000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="a4accf04-f443-41fe-92c3-100e91ae7b00" configVersion="a74e78fc9835cf4c8f16fb74ac6bd46100000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="a4accf04-f443-41fe-92c3-100e91ae7b00.0" configVersion="8f231bf85ecf7541860d8753dba9a2ab00000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="a4accf04-f443-41fe-92c3-100e91ae7b00" configVersion="ad856f6767ff3743a513633e349316cb00000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="a4accf04-f443-41fe-92c3-100e91ae7b00.0" configVersion="4cc99c17f83d7146a2d3129ee52d6c0700000000"/>
+		<Metadata name="Catalog.Организации.ObjectModule" id="f914ffc5-b9b8-422f-8b7d-b6a36d9aa7ff.0" configVersion="9e3c5aae1ea5524a84b15ef9f681c95200000000"/>
 		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="26b536bcdd43104a91f39de9c6d4b1a000000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="3565706b-3579-40cb-a752-5e5fd9d3ff13" configVersion="8c9b17ae37dfb24fa2c5c03638d2d53d00000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="3565706b-3579-40cb-a752-5e5fd9d3ff13.0" configVersion="b478c2989daed244bb13a966d84cb0a200000000"/>

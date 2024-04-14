@@ -1,2 +1,4 @@
-﻿Modified: CommonModule.РаботаСМетаданными
-Modified: CommonModule.РаботаСМетаданными.Module
+﻿New: Catalog.Организации.ObjectModule
+Modified: Catalog.Организации
+Modified: Catalog.Организации.Form.ФормаЭлемента
+Modified: Catalog.Организации.Form.ФормаЭлемента.Form
