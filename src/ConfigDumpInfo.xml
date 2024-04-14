@@ -46,7 +46,7 @@
 		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента" id="54f413d7-c30c-4542-a6ba-dae224082aec" configVersion="ba30e45370b12147a5bcde9fa154867300000000"/>
 		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента.Form" id="54f413d7-c30c-4542-a6ba-dae224082aec.0" configVersion="62b3ff6ba0ce494e946ae4af95fc522a00000000"/>
 		<Metadata name="Catalog.Автомобили.ObjectModule" id="af4553a3-91aa-4a79-9df6-e2aa5a1123f3.0" configVersion="9b0cb2371edb5e4c92c7bdb9e290474600000000"/>
-		<Metadata name="Catalog.ДоговорыКонтрагентов" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e" configVersion="aa08b2cd6588dd449422d4025385a38b00000000">
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e" configVersion="b9ad1fbcd9a53147b13c166b78bf85b500000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Бессрочный" id="8ee15c1f-df5b-4b88-a774-15bb22bff413"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="becac1eb-5dc4-47bd-a5c6-27d603723115"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Номер" id="d3218a37-a727-4b23-97a1-837b1aa9ce0f"/>
@@ -55,9 +55,9 @@
 		</Metadata>
 		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаСписка" id="5481a9ab-fea0-41a2-b4a0-6614c4052485" configVersion="63c9f442fd812e448bdb3a93ec049c2900000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаСписка.Form" id="5481a9ab-fea0-41a2-b4a0-6614c4052485.0" configVersion="d48d0b018c801f43a32b87da53bcab6800000000"/>
-		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента" id="e59d561b-5385-4c8f-b87a-7d864ed8e050" configVersion="1a2f89f3428c3242a17433e178e6a30d00000000"/>
-		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form" id="e59d561b-5385-4c8f-b87a-7d864ed8e050.0" configVersion="2594cd72eecda84ea805f10f0d5d3a8200000000"/>
-		<Metadata name="Catalog.ДоговорыКонтрагентов.ObjectModule" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e.0" configVersion="7c71e904b8becb42b54039578f83ca3f00000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента" id="e59d561b-5385-4c8f-b87a-7d864ed8e050" configVersion="7721c037d8275d41b0992d14d437ace000000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form" id="e59d561b-5385-4c8f-b87a-7d864ed8e050.0" configVersion="9d70372b18ebf448863f5b0f7fd68dbf00000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.ObjectModule" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e.0" configVersion="85e329a37d170441a0190b7810c0f56c00000000"/>
 		<Metadata name="Catalog.Должности" id="08ef8cc7-5847-4e9d-b75e-f6ec8afeffdc" configVersion="2df574478985934e820531a95eba172b00000000"/>
 		<Metadata name="Catalog.Должности.Form.ФормаСписка" id="8c1caccf-4305-45ec-9c9c-a595747140ae" configVersion="f1fb403f9f37514da82d8f87ecea98ad00000000"/>
 		<Metadata name="Catalog.Должности.Form.ФормаСписка.Form" id="8c1caccf-4305-45ec-9c9c-a595747140ae.0" configVersion="e6c43e950bbff647899af52f974d4f1800000000"/>

@@ -1,2 +1,4 @@
-﻿Modified: Catalog.Контрагенты.Form.ФормаЭлемента
-Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+﻿Modified: Catalog.ДоговорыКонтрагентов
+Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента
+Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form
+Modified: Catalog.ДоговорыКонтрагентов.ObjectModule

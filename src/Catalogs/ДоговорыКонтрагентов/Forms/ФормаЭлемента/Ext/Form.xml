@@ -4,7 +4,8 @@
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
-		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
 	</Events>
 	<ChildItems>
 		<InputField name="Код" id="1">
@@ -16,6 +17,7 @@
 		</InputField>
 		<InputField name="Наименование" id="4">
 			<DataPath>Объект.Description</DataPath>
+			<ReadOnly>true</ReadOnly>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
@@ -34,6 +36,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НомерКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="OnChange">НомерДоговораПриИзменении</Event>
+			</Events>
 		</InputField>
 		<UsualGroup name="ГруппаДаты" id="25">
 			<Title>
@@ -59,6 +64,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ДатаНачалаКонтекстноеМеню" id="14"/>
 					<ExtendedTooltip name="ДатаНачалаРасширеннаяПодсказка" id="15"/>
+					<Events>
+						<Event name="OnChange">ДатаНачалаДоговораПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ДатаОкончания" id="16">
 					<DataPath>Объект.ДатаОкончания</DataPath>
@@ -79,6 +87,9 @@
 					<CheckBoxType>Auto</CheckBoxType>
 					<ContextMenu name="БессрочныйКонтекстноеМеню" id="20"/>
 					<ExtendedTooltip name="БессрочныйРасширеннаяПодсказка" id="21"/>
+					<Events>
+						<Event name="OnChange">ПризнакБессрочногоДоговораПриИзменении</Event>
+					</Events>
 				</CheckBoxField>
 			</ChildItems>
 		</UsualGroup>
@@ -98,21 +109,6 @@
 			</Type>
 			<MainAttribute>true</MainAttribute>
 			<SavedData>true</SavedData>
-		</Attribute>
-		<Attribute name="_Состояние" id="2">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Состояние</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>xs:string</v8:Type>
-				<v8:StringQualifiers>
-					<v8:Length>0</v8:Length>
-					<v8:AllowedLength>Variable</v8:AllowedLength>
-				</v8:StringQualifiers>
-			</Type>
 		</Attribute>
 	</Attributes>
 </Form>
