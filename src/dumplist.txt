@@ -1,5 +1,2 @@
-﻿New: CommonModule.ПроверкаТиповКлиентСервер
-New: CommonModule.ПроверкаТиповКлиентСервер.Module
-New: CommonModule.РаботаСКоллекциямиКлиентСервер
-New: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
-Modified: Configuration.Автосервис
+﻿Modified: CommonModule.РаботаСМетаданными
+Modified: CommonModule.РаботаСМетаданными.Module
