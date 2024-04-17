@@ -252,6 +252,9 @@
 								<ContextMenu name="УслугиУправлениеПоискомКонтекстноеМеню" id="61"/>
 								<ExtendedTooltip name="УслугиУправлениеПоискомРасширеннаяПодсказка" id="62"/>
 							</SearchControlAddition>
+							<Events>
+								<Event name="AfterDeleteRow">УслугиПослеУдаления</Event>
+							</Events>
 							<ChildItems>
 								<LabelField name="УслугиНомерСтроки" id="63">
 									<DataPath>Объект.Услуги.LineNumber</DataPath>

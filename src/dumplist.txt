@@ -1,2 +1,2 @@
-﻿New: InformationRegister.ЦеныНоменклатуры.ManagerModule
-Modified: InformationRegister.ЦеныНоменклатуры
+﻿Modified: Document.ЗаказНаряд.Form.ФормаДокумента
+Modified: Document.ЗаказНаряд.Form.ФормаДокумента.Form

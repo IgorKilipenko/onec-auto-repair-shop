@@ -241,8 +241,8 @@
 			<Metadata name="Document.ЗаказНаряд.TabularSection.МатериалыЗаказчика.Attribute.Номенклатура" id="f36eca60-5b86-4c80-b0ec-c721b6db8bcc"/>
 		</Metadata>
 		<Metadata name="Document.ЗаказНаряд.Command.Печать.CommandModule" id="ccf23149-323a-4b7c-9650-3c9f3a405da3.2" configVersion="7d5719548d73d34eb4dbb3a8895aa8e800000000"/>
-		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента" id="f28e7255-4fef-48b4-a366-8f2a447c4b4b" configVersion="0b1cd53538d1c541a76f8121df95f4fb00000000"/>
-		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента.Form" id="f28e7255-4fef-48b4-a366-8f2a447c4b4b.0" configVersion="fde026bff3150d4fb108cff91f9cbb8a00000000"/>
+		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента" id="f28e7255-4fef-48b4-a366-8f2a447c4b4b" configVersion="cf45c632b356324083e32400e4b3074a00000000"/>
+		<Metadata name="Document.ЗаказНаряд.Form.ФормаДокумента.Form" id="f28e7255-4fef-48b4-a366-8f2a447c4b4b.0" configVersion="c98116f5e03ff54fa7b05be1e5c0759500000000"/>
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаСписка" id="d6f91099-4f1b-4e1f-935b-e32801a9714f" configVersion="970fe22f52d9ef429de670329462034d00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Form.ФормаСписка.Form" id="d6f91099-4f1b-4e1f-935b-e32801a9714f.0" configVersion="29a4943b3a9f6e4aa8fb72359488b3f800000000"/>
 		<Metadata name="Document.ЗаказНаряд.ManagerModule" id="08066604-93c9-484f-b36a-498693f1736b.2" configVersion="1d2966c5658de34fa4a731b4a26f2dc500000000"/>
