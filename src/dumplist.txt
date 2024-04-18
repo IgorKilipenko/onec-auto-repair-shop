@@ -1,2 +1,2 @@
-﻿Modified: Document.Реализация.Template.Печать
-Modified: Document.Реализация.Template.Печать.Template
+﻿Modified: Document.ЗаказНаряд.Template.Печать
+Modified: Document.ЗаказНаряд.Template.Печать.Template
