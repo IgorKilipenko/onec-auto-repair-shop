@@ -1,4 +1,4 @@
 ﻿Modified: Document.Реализация
-Modified: Document.Реализация.Form.ФормаДокумента
-Modified: Document.Реализация.Form.ФормаДокумента.Form
-Modified: Document.Реализация.ObjectModule
+Modified: Document.Реализация.ManagerModule
+Modified: Document.Реализация.Template.Печать
+Modified: Document.Реализация.Template.Печать.Template
