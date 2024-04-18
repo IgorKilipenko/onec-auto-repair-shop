@@ -1,2 +1,2 @@
-﻿Modified: Subsystem.ДенежныеСредства
-Modified: Subsystem.ДенежныеСредства.CommandInterface
+﻿Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента
+Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form

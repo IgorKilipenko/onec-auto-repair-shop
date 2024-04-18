@@ -291,8 +291,8 @@
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.ДокументОснование" id="ecd069e3-fb7c-438e-b9da-177b1d4082a4"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.Договор" id="ff4ed755-5d6d-42b8-bba1-357ea9554937"/>
 		</Metadata>
-		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента" id="84de89ba-f56c-4689-a1cc-822dc507d1d7" configVersion="e01205faa7eee2418d58ed7d8fac966700000000"/>
-		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="84de89ba-f56c-4689-a1cc-822dc507d1d7.0" configVersion="e1bb543ac1c7ce4a9364e7f5cbcbe5ff00000000"/>
+		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента" id="84de89ba-f56c-4689-a1cc-822dc507d1d7" configVersion="31fc7bea1ebe8748931887110f2bac5900000000"/>
+		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="84de89ba-f56c-4689-a1cc-822dc507d1d7.0" configVersion="888d208cf8cf6d44923784eda5579c9700000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаСписка" id="377927f4-56dc-4cf0-87cb-b2a932104854" configVersion="1bee7dbeacbb214289c57117ec10ac6700000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаСписка.Form" id="377927f4-56dc-4cf0-87cb-b2a932104854.0" configVersion="f5e76ba31f3e9b499836765b6c0c00bf00000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.ObjectModule" id="4a397217-c70e-4824-bcf0-89d7a7627eec.0" configVersion="0952a9602fc3334db96059c3602df96200000000"/>
