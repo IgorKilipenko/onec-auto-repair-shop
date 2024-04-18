@@ -296,7 +296,7 @@
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаСписка" id="377927f4-56dc-4cf0-87cb-b2a932104854" configVersion="1bee7dbeacbb214289c57117ec10ac6700000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаСписка.Form" id="377927f4-56dc-4cf0-87cb-b2a932104854.0" configVersion="f5e76ba31f3e9b499836765b6c0c00bf00000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.ObjectModule" id="4a397217-c70e-4824-bcf0-89d7a7627eec.0" configVersion="5f300c274f63c74aaac6a14be595e54600000000"/>
-		<Metadata name="Document.РасходныйКассовыйОрдер" id="28c4157b-fe7a-4194-bc33-c9148eb96925" configVersion="6cb15dc3b6cfab479ca9f279232b3fed00000000">
+		<Metadata name="Document.РасходныйКассовыйОрдер" id="28c4157b-fe7a-4194-bc33-c9148eb96925" configVersion="d6eeafb24c9a8a49ba63d746f4561f9d00000000">
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.ДокументОснование" id="117e457f-1b5d-4e2a-a37f-0501eb879b13"/>
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.Комментарий" id="6eefa153-e322-4ae4-8e2f-a8fe78659c24"/>
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.АвторДокумента" id="73ecf797-aef9-4248-b41f-2a08991a8eb4"/>
@@ -306,11 +306,11 @@
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.Касса" id="e0b5244b-1372-4d18-a829-9e87a3d23e23"/>
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.Получатель" id="e4ab363d-3f96-4170-8bcd-8c4c4396e5cf"/>
 		</Metadata>
-		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1" configVersion="b1437e9f2201094d8c37c8fbe2c1ddc100000000"/>
-		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1.0" configVersion="71f83cd58d930f4f915ad50352dc52f000000000"/>
+		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1" configVersion="893974f911fdac4bb1a92d6a7f7a4adb00000000"/>
+		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1.0" configVersion="dc1894c66d4e3c45bbed51b19a8c60ac00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230" configVersion="3d317d223cf451498cd370eeed5bd9ad00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка.Form" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230.0" configVersion="2dfe6d9a0115b14bbcd89eb1be77193d00000000"/>
-		<Metadata name="Document.РасходныйКассовыйОрдер.ObjectModule" id="28c4157b-fe7a-4194-bc33-c9148eb96925.0" configVersion="a98403ef641ae34a8453832d91a3edea00000000"/>
+		<Metadata name="Document.РасходныйКассовыйОрдер.ObjectModule" id="28c4157b-fe7a-4194-bc33-c9148eb96925.0" configVersion="c9aa19ea91ca654da5bd38b84d07a21600000000"/>
 		<Metadata name="Document.Реализация" id="af530e27-4a82-4c08-b981-b6bff5ee26c9" configVersion="137861d97176894784fa82f3a7fa815a00000000">
 			<Metadata name="Document.Реализация.Attribute.АвторДокумента" id="058d93dc-0031-4bbf-85d1-451da338395f"/>
 			<Metadata name="Document.Реализация.TabularSection.Услуги.Attribute.Сумма" id="2030a52e-7227-42f6-86ca-e2b2cfb7d261"/>
