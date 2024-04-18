@@ -1,2 +1,4 @@
-﻿Modified: Document.ПоступлениеТоваровИУслуг
-Modified: Document.ПоступлениеТоваровИУслуг.ManagerModule
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+Modified: Catalog.Номенклатура.ManagerModule
