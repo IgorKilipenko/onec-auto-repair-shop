@@ -1,4 +1,2 @@
-﻿Modified: Document.Реализация
-Modified: Document.Реализация.ManagerModule
-Modified: Document.Реализация.Template.Печать
+﻿Modified: Document.Реализация.Template.Печать
 Modified: Document.Реализация.Template.Печать.Template
