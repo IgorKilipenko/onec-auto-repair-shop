@@ -271,8 +271,8 @@
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.Attribute.Контрагент" id="d5db2ecc-f899-4dc4-8fca-331c72620f4a"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.Attribute.Договор" id="db25eab3-c9e6-42d1-80b2-614e1b65d4e8"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента" id="14e51a19-902b-4a23-9d45-4de69cf15ddf" configVersion="9d112565b4d7744a9ffd4201d66188d200000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form" id="14e51a19-902b-4a23-9d45-4de69cf15ddf.0" configVersion="150e1c729b52644f91c3d0a54d2077d800000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента" id="14e51a19-902b-4a23-9d45-4de69cf15ddf" configVersion="d7a886d678c5c142b733694bb03635df00000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form" id="14e51a19-902b-4a23-9d45-4de69cf15ddf.0" configVersion="252f7c08539a8743a4fa2b14fb01d3d300000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка" id="e078e16e-929e-4ce4-a708-6f322b6bd443" configVersion="7cf9189ed4703f4f83361bd26a30885c00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка.Form" id="e078e16e-929e-4ce4-a708-6f322b6bd443.0" configVersion="f98a4dfe2e9e974d9a37ca6743c3c82a00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.0" configVersion="0c3e574d7f747a44b1fd1df7dc407a6a00000000"/>

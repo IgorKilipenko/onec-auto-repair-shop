@@ -1,2 +1,2 @@
-﻿Modified: Document.ЗаказНаряд.Form.ФормаДокумента
-Modified: Document.ЗаказНаряд.Form.ФормаДокумента.Form
+﻿Modified: Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form
