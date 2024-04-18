@@ -1,2 +1,2 @@
-﻿Modified: Document.ЗаказНаряд.Template.Печать
-Modified: Document.ЗаказНаряд.Template.Печать.Template
+﻿Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.ManagerModule

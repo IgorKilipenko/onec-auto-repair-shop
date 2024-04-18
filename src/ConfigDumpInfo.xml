@@ -76,7 +76,7 @@
 		<Metadata name="Catalog.Кассы.Form.ФормаСписка.Form" id="253fc0fd-ccad-4e6c-bbdd-a471368ba4b0.0" configVersion="a365caecd115bb429c9de801f3feb4f400000000"/>
 		<Metadata name="Catalog.Кассы.Form.ФормаЭлемента" id="81f137a4-6aa7-41df-8a45-d281704c1765" configVersion="819dd1eb5764bf4d941a0c6d0b17117800000000"/>
 		<Metadata name="Catalog.Кассы.Form.ФормаЭлемента.Form" id="81f137a4-6aa7-41df-8a45-d281704c1765.0" configVersion="2a6f4c2f16245446a0dd302e9a3a4c1900000000"/>
-		<Metadata name="Catalog.Контрагенты" id="07223a3c-aa12-4697-92f8-46f6bf057c8f" configVersion="35af671f99baa547802ee561c8bf6b1500000000">
+		<Metadata name="Catalog.Контрагенты" id="07223a3c-aa12-4697-92f8-46f6bf057c8f" configVersion="5f8519fe235c7a41a1b1b9084c44f13600000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="378a26d1-c933-4863-adb8-632525b389f8"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ПолКлиента" id="46688ddb-89f2-4136-b0b6-36626fc1fb62"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.Комментарий" id="704b94a1-d964-4d74-81fc-36e968a68d25"/>
@@ -89,7 +89,7 @@
 		<Metadata name="Catalog.Контрагенты.Form.ФормаСписка.Form" id="a89c17aa-0158-4920-8cb8-b3cf61f29120.0" configVersion="dd7ca56c9a996a409d94fc42f824a79100000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="531ed355-0581-48ed-b601-5a64b591fa44" configVersion="fe980df17de93e4a8365289f8538ff1f00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="531ed355-0581-48ed-b601-5a64b591fa44.0" configVersion="a956eede783f774d920faa1e92e3665400000000"/>
-		<Metadata name="Catalog.Контрагенты.ManagerModule" id="07223a3c-aa12-4697-92f8-46f6bf057c8f.3" configVersion="299fa2392783bb4da40e47077277296400000000"/>
+		<Metadata name="Catalog.Контрагенты.ManagerModule" id="07223a3c-aa12-4697-92f8-46f6bf057c8f.3" configVersion="b833aff2db29f44ba9cf9a7cdc69b78e00000000"/>
 		<Metadata name="Catalog.Контрагенты.ObjectModule" id="07223a3c-aa12-4697-92f8-46f6bf057c8f.0" configVersion="7a8540e5d8f7c34c962f012d1ccabcb700000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей" id="7e3a0f91-55b5-44f3-a1af-1f1edbbbf0a8" configVersion="21374be773d512498861747a50a1f63900000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаСписка" id="0a9478c5-f94b-489c-a771-5a1228274c9b" configVersion="e3c19f797acc574fb94e684c6f6c753a00000000"/>
