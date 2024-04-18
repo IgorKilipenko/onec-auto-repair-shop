@@ -295,6 +295,9 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиНоменклатураКонтекстноеМеню" id="85"/>
 									<ExtendedTooltip name="УслугиНоменклатураРасширеннаяПодсказка" id="86"/>
+									<Events>
+										<Event name="OnChange">УслугиНоменклатураПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="УслугиСтатьяЗатрат" id="87">
 									<DataPath>Объект.Услуги.СтатьяЗатрат</DataPath>
