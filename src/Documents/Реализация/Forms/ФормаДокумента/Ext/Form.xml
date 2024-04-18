@@ -213,6 +213,7 @@
 								</InputField>
 								<InputField name="ТоварыЦена" id="63">
 									<DataPath>Объект.Товары.Цена</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыЦенаКонтекстноеМеню" id="64"/>
@@ -220,6 +221,7 @@
 								</InputField>
 								<InputField name="ТоварыСумма" id="66">
 									<DataPath>Объект.Товары.Сумма</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<FooterDataPath>Объект.Товары.TotalСумма</FooterDataPath>
 									<FooterText>
@@ -312,6 +314,7 @@
 								</InputField>
 								<InputField name="УслугиЦена" id="93">
 									<DataPath>Объект.Услуги.Цена</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиЦенаКонтекстноеМеню" id="94"/>
@@ -319,6 +322,7 @@
 								</InputField>
 								<InputField name="УслугиСумма" id="96">
 									<DataPath>Объект.Услуги.Сумма</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<FooterDataPath>Объект.Услуги.TotalСумма</FooterDataPath>
 									<FooterText>
@@ -475,4 +479,33 @@
 			</UseAlways>
 		</Attribute>
 	</Attributes>
+	<CommandInterface>
+		<NavigationPanel>
+			<Item>
+				<Command>AccumulationRegister.УчетЗатрат.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.Продажи.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.МатериалыЗаказчиков.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.ЗаказыКлиентов.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+		</NavigationPanel>
+	</CommandInterface>
 </Form>
