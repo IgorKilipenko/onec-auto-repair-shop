@@ -1,2 +1,4 @@
-﻿Modified: Catalog.Контрагенты
-Modified: Catalog.Контрагенты.ManagerModule
+﻿Modified: Document.ПриходныйКассовыйОрдер
+Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента
+Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form
+Modified: Document.ПриходныйКассовыйОрдер.ObjectModule

@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаДатаНомер" id="31">
 			<Title>
@@ -50,6 +53,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВидОперацииКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ВидОперацииРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ВидОперацииПриИзменении</Event>
+			</Events>
 		</InputField>
 		<LabelField name="ДокументОснование" id="10">
 			<DataPath>Объект.ДокументОснование</DataPath>
@@ -64,6 +70,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПлательщикКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ПлательщикРасширеннаяПодсказка" id="15"/>
+			<Events>
+				<Event name="OnChange">ПлательщикПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Договор" id="16">
 			<DataPath>Объект.Договор</DataPath>
@@ -132,6 +141,21 @@
 			<UseAlways>
 				<Field>Объект.RegisterRecords</Field>
 			</UseAlways>
+		</Attribute>
+		<Attribute name="_ДанныеФормы" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Данные формы</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
 		</Attribute>
 	</Attributes>
 </Form>
