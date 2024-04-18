@@ -1,4 +1,5 @@
-﻿Modified: Document.ПриходныйКассовыйОрдер
+﻿New: AccumulationRegister.ДенежныеСредства
+Modified: Configuration.Автосервис
+Modified: Document.ПриходныйКассовыйОрдер
 Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента
 Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form
-Modified: Document.ПриходныйКассовыйОрдер.ObjectModule
