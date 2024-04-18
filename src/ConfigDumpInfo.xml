@@ -249,7 +249,7 @@
 		<Metadata name="Document.ЗаказНаряд.ObjectModule" id="08066604-93c9-484f-b36a-498693f1736b.0" configVersion="3cf467dda89e9f4fb49ae212611a301b00000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66fc50dd-6598-4362-bf6c-f68582a4de7b" configVersion="d02b1bb0e039a54c9a04fe1ef88c4fb700000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66fc50dd-6598-4362-bf6c-f68582a4de7b.0" configVersion="f3a37783a245c84996ff2fa43bed1fe100000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="f6cdc9c61fae634da73a94b874bfed6700000000">
+		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="789fd5d762899546bb0b2c9971f17fc300000000">
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Цена" id="03ee831c-8a79-4ffb-9a84-f15c6529cccd"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги" id="2085232d-fabb-433b-8cf7-b0b1c6e1d4b4"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги.Attribute.СтатьяЗатрат" id="231c3cd0-e9df-460e-a052-1cd1c0fa15cf"/>
@@ -275,7 +275,7 @@
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form" id="14e51a19-902b-4a23-9d45-4de69cf15ddf.0" configVersion="252f7c08539a8743a4fa2b14fb01d3d300000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка" id="e078e16e-929e-4ce4-a708-6f322b6bd443" configVersion="7cf9189ed4703f4f83361bd26a30885c00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка.Form" id="e078e16e-929e-4ce4-a708-6f322b6bd443.0" configVersion="f98a4dfe2e9e974d9a37ca6743c3c82a00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.0" configVersion="0c3e574d7f747a44b1fd1df7dc407a6a00000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.0" configVersion="6d61c117cc38ae4e943de225ce11657e00000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер" id="4a397217-c70e-4824-bcf0-89d7a7627eec" configVersion="40e5b0d6da67d34a8d191f4d02e7c82d00000000">
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.Плательщик" id="38d3d154-7e5e-48c5-a9be-03c03f9a9372"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.ВидОперации" id="80ab4b02-9fc2-444f-b65e-b8a94fd01f50"/>
