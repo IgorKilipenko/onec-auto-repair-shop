@@ -1,2 +1,9 @@
-﻿Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента
-Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form
+﻿New: Document.РасходныйКассовыйОрдер
+New: Document.РасходныйКассовыйОрдер.Form.ФормаДокумента
+New: Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form
+New: Document.РасходныйКассовыйОрдер.Form.ФормаСписка
+New: Document.РасходныйКассовыйОрдер.Form.ФормаСписка.Form
+New: Document.РасходныйКассовыйОрдер.ObjectModule
+Modified: Configuration.Автосервис
+Modified: Subsystem.ДенежныеСредства
+Modified: Subsystem.ДенежныеСредства.CommandInterface

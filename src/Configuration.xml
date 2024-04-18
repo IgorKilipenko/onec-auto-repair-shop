@@ -300,6 +300,7 @@
 			<Document>ЗаказНаряд</Document>
 			<Document>Реализация</Document>
 			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>РасходныйКассовыйОрдер</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>

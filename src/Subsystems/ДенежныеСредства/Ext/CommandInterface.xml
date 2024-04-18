@@ -11,6 +11,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="Document.РасходныйКассовыйОрдер.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.Кассы.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -23,6 +28,10 @@
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="Document.ПриходныйКассовыйОрдер.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.РасходныйКассовыйОрдер.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
