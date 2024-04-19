@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСКоллекциямиКлиентСервер
-Modified: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
+﻿Modified: AccumulationRegister.ТоварыНаСкладах
+Modified: AccumulationRegister.ТоварыНаСкладах.ManagerModule
