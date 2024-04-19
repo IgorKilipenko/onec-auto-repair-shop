@@ -1,2 +1,2 @@
-﻿Modified: AccumulationRegister.ТоварыНаСкладах
-Modified: AccumulationRegister.ТоварыНаСкладах.ManagerModule
+﻿Modified: Document.Реализация
+Modified: Document.Реализация.ObjectModule
