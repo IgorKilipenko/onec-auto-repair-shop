@@ -1,0 +1,2 @@
+﻿Modified: Document.РасходныйКассовыйОрдер
+Modified: Document.РасходныйКассовыйОрдер.ObjectModule

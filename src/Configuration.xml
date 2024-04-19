@@ -248,8 +248,8 @@
 			<Language>Русский</Language>
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Покупки</Subsystem>
-			<Subsystem>УправлениеПерсоналом</Subsystem>
 			<Subsystem>ДенежныеСредства</Subsystem>
+			<Subsystem>УправлениеПерсоналом</Subsystem>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>СервисИНастройки</Subsystem>
 			<Style>Автосервис</Style>
@@ -262,20 +262,45 @@
 			<CommonPicture>Покупки</CommonPicture>
 			<CommonPicture>Главное</CommonPicture>
 			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>ПолныеПрава</Role>
+			<Role>Администратор</Role>
+			<Role>Руководитель</Role>
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСРеквизитами</CommonModule>
+			<CommonModule>ПроверкаТиповКлиентСервер</CommonModule>
+			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
+			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
+			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Персонал</CommandGroup>
 			<CommandGroup>НаличныеДеньги</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ИсточникиИнформации</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>Кассы</Catalog>
+			<Catalog>ОписанияЦветовДляТехпаспорта</Catalog>
+			<Catalog>ЦветаАвтомобилей</Catalog>
+			<Catalog>МоделиАвтомобилей</Catalog>
+			<Catalog>Автомобили</Catalog>
+			<Catalog>Склады</Catalog>
+			<Document>ПоступлениеТоваровИУслуг</Document>
+			<Document>ЗаказНаряд</Document>
+			<Document>Реализация</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>РасходныйКассовыйОрдер</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
@@ -286,6 +311,14 @@
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>СостоянияМатериаловКлиентов</Enum>
 			<Enum>СостоянияЗаказовНарядов</Enum>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
+			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
+			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
+			<AccumulationRegister>МатериалыЗаказчиков</AccumulationRegister>
+			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

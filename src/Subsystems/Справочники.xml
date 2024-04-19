@@ -21,6 +21,19 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Номенклатура</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Должности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ДоговорыКонтрагентов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ИсточникиИнформации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Организации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СтатьиЗатрат</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Пользователи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Кассы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ОписанияЦветовДляТехпаспорта</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ЦветаАвтомобилей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.МоделиАвтомобилей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Автомобили</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
