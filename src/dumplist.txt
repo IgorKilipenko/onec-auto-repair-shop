@@ -1,3 +1,2 @@
-﻿New: Configuration.Автосервис.HomePageWorkArea
-Modified: Configuration.Автосервис
-Modified: Document.ЗаказНаряд
+﻿Modified: Document.ПриходныйКассовыйОрдер
+Modified: Document.ПриходныйКассовыйОрдер.ObjectModule
