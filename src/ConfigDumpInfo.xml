@@ -306,8 +306,8 @@
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.Касса" id="e0b5244b-1372-4d18-a829-9e87a3d23e23"/>
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.Получатель" id="e4ab363d-3f96-4170-8bcd-8c4c4396e5cf"/>
 		</Metadata>
-		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1" configVersion="893974f911fdac4bb1a92d6a7f7a4adb00000000"/>
-		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1.0" configVersion="dc1894c66d4e3c45bbed51b19a8c60ac00000000"/>
+		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1" configVersion="72c48239994a0c4a9fea22f8e726c74a00000000"/>
+		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="871def4b-0e5e-4ddf-9e83-ad10aaa611a1.0" configVersion="e62bb4ded795f54e9bc58bf2cfee371600000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230" configVersion="3d317d223cf451498cd370eeed5bd9ad00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка.Form" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230.0" configVersion="2dfe6d9a0115b14bbcd89eb1be77193d00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.ObjectModule" id="28c4157b-fe7a-4194-bc33-c9148eb96925.0" configVersion="c9aa19ea91ca654da5bd38b84d07a21600000000"/>
