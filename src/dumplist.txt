@@ -1,2 +1,3 @@
-﻿Modified: Document.РасходныйКассовыйОрдер
-Modified: Document.РасходныйКассовыйОрдер.ObjectModule
+﻿New: Configuration.Автосервис.HomePageWorkArea
+Modified: Configuration.Автосервис
+Modified: Document.ЗаказНаряд

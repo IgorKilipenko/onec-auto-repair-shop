@@ -211,9 +211,10 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="081c13e38a383246a5c2fe27190557fa00000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="21d082382c453742b8fa7005c563d26800000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
+		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
 		<Metadata name="Configuration.Автосервис.Logo" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.1" configVersion="1a90b3a1c852694aad31a7015826e96900000000"/>
 		<Metadata name="Configuration.Автосервис.MainSectionCommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.9" configVersion="3687a12e0abee649a7abadd5e2b6074100000000"/>
 		<Metadata name="Configuration.Автосервис.MainSectionPicture" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.c" configVersion="734129a9274b844d844c4fa53e6543f200000000"/>
@@ -221,7 +222,7 @@
 		<Metadata name="Configuration.Автосервис.Splash" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.2" configVersion="4128d3ea2173c646be0e143c199916a300000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="55059317-58fd-4150-a31e-808a24e4bff1" configVersion="740c941556f9d7478911029bc619091e00000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="c2c9a73d-c5ef-40c4-855e-48bfa10714e8" configVersion="b1742080717d804ca5335f006ee0b28a00000000"/>
-		<Metadata name="Document.ЗаказНаряд" id="08066604-93c9-484f-b36a-498693f1736b" configVersion="34c8248f7b96d64cb3d208b2c9a34db900000000">
+		<Metadata name="Document.ЗаказНаряд" id="08066604-93c9-484f-b36a-498693f1736b" configVersion="034c5daeeee0194b8a6da4d7d1edfedd00000000">
 			<Metadata name="Document.ЗаказНаряд.TabularSection.МатериалыЗаказчика" id="1a6edf0b-33a6-4bd8-85d8-fd05e1e3d743"/>
 			<Metadata name="Document.ЗаказНаряд.TabularSection.Услуги.Attribute.Цена" id="2bb1307d-7ed9-45a3-a363-997cd4d846d0"/>
 			<Metadata name="Document.ЗаказНаряд.Attribute.Автомобиль" id="2cd549fa-b643-4211-985f-c79eccc8affa"/>
