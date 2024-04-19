@@ -1,2 +1,3 @@
-﻿New: AccumulationRegister.ТоварыНаСкладах.ManagerModule
-Modified: AccumulationRegister.ТоварыНаСкладах
+﻿Modified: Document.Реализация
+Modified: Document.Реализация.ManagerModule
+Modified: Document.Реализация.ObjectModule

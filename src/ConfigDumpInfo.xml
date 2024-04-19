@@ -313,7 +313,7 @@
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230" configVersion="3d317d223cf451498cd370eeed5bd9ad00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка.Form" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230.0" configVersion="2dfe6d9a0115b14bbcd89eb1be77193d00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.ObjectModule" id="28c4157b-fe7a-4194-bc33-c9148eb96925.0" configVersion="2f2888569659ea4a9a06e59fc710063900000000"/>
-		<Metadata name="Document.Реализация" id="af530e27-4a82-4c08-b981-b6bff5ee26c9" configVersion="137861d97176894784fa82f3a7fa815a00000000">
+		<Metadata name="Document.Реализация" id="af530e27-4a82-4c08-b981-b6bff5ee26c9" configVersion="eb73096cb89fdd44b769d84b4e5355d100000000">
 			<Metadata name="Document.Реализация.Attribute.АвторДокумента" id="058d93dc-0031-4bbf-85d1-451da338395f"/>
 			<Metadata name="Document.Реализация.TabularSection.Услуги.Attribute.Сумма" id="2030a52e-7227-42f6-86ca-e2b2cfb7d261"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="2972ab4d-bcdf-4cba-a1d6-70b8ae5afe12"/>
@@ -344,8 +344,8 @@
 		<Metadata name="Document.Реализация.Form.ФормаДокумента.Form" id="dbabc8a1-88da-492a-9f47-03c44d1d5fa7.0" configVersion="e938ac148819f743a1126c5ac83b483000000000"/>
 		<Metadata name="Document.Реализация.Form.ФормаСписка" id="ed43756a-44e8-46ee-85b7-3e6b2186e0f0" configVersion="7c79f6fe48485f4ca6dd4e72555a0abd00000000"/>
 		<Metadata name="Document.Реализация.Form.ФормаСписка.Form" id="ed43756a-44e8-46ee-85b7-3e6b2186e0f0.0" configVersion="50a74a97e5720f4bae58a9f4240f891000000000"/>
-		<Metadata name="Document.Реализация.ManagerModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.2" configVersion="449ff71721e0a744b054cb89bfa5900f00000000"/>
-		<Metadata name="Document.Реализация.ObjectModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.0" configVersion="b18dbb90859c6b4e87cc66032f24b7ed00000000"/>
+		<Metadata name="Document.Реализация.ManagerModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.2" configVersion="f3d9d0d62175b242b01d1c73b58f5fe600000000"/>
+		<Metadata name="Document.Реализация.ObjectModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.0" configVersion="67ce568e7419984dabd0992adcef572000000000"/>
 		<Metadata name="Document.Реализация.Template.Печать" id="730f455b-04bc-476b-b37e-7225f33fa7e6" configVersion="d9573c56ec167c48ab7ecf09ba3d18e300000000"/>
 		<Metadata name="Document.Реализация.Template.Печать.Template" id="730f455b-04bc-476b-b37e-7225f33fa7e6.0" configVersion="fdec64d15e922a4cb8bc2702d069fcb100000000"/>
 		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="0271628f-cce8-4661-b2a6-134431b37c29" configVersion="cff2bc85b58f7b4c9012ea0ebe3855c100000000">
