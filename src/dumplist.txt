@@ -1,2 +1,2 @@
-﻿Modified: Document.РасходныйКассовыйОрдер.Form.ФормаДокумента
-Modified: Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form
+﻿Modified: Document.РасходныйКассовыйОрдер
+Modified: Document.РасходныйКассовыйОрдер.ObjectModule
