@@ -1,4 +1,2 @@
-﻿Modified: Document.ЗаказНаряд
-Modified: Document.ЗаказНаряд.Form.ФормаДокумента
-Modified: Document.ЗаказНаряд.Form.ФормаДокумента.Form
-Modified: Document.ЗаказНаряд.ObjectModule
+﻿New: AccumulationRegister.ТоварыНаСкладах.ManagerModule
+Modified: AccumulationRegister.ТоварыНаСкладах
