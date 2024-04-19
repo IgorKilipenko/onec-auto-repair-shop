@@ -1,2 +1,4 @@
-﻿Modified: Document.РасходныйКассовыйОрдер
-Modified: Document.РасходныйКассовыйОрдер.ObjectModule
+﻿Modified: Document.ЗаказНаряд
+Modified: Document.ЗаказНаряд.Form.ФормаДокумента
+Modified: Document.ЗаказНаряд.Form.ФормаДокумента.Form
+Modified: Document.ЗаказНаряд.ObjectModule
