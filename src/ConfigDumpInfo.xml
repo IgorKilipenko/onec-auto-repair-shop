@@ -23,7 +23,7 @@
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Контрагент" id="e0659543-3129-41ea-aeaa-78d4984b427a"/>
 			<Metadata name="AccumulationRegister.Продажи.Resource.Количество" id="fb75812b-d8fb-4c13-859c-4bdbe7bf5abe"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="34811135-1d43-4fda-a115-c16700e96f06" configVersion="798624b14017fd448c2f0267f2d5d6a000000000">
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="34811135-1d43-4fda-a115-c16700e96f06" configVersion="4ce1aa9163396049a181235f680ff26400000000">
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="4da5078b-c36f-4732-8563-c2742f15db95"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="a536e1b7-db46-4899-b7c6-0a678e4342ce"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.СрокГодности" id="b12d3930-6f35-4a29-8efa-630946917226"/>
