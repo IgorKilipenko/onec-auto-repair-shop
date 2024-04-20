@@ -272,6 +272,7 @@
 			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<CommonModule>ПроверкаТиповКлиентСервер</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
+			<CommonModule>РаботаСЗапросами</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>

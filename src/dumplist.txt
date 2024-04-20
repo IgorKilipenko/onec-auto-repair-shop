@@ -1,2 +1,3 @@
-﻿Modified: Document.Реализация
-Modified: Document.Реализация.ObjectModule
+﻿New: CommonModule.РаботаСЗапросами
+New: CommonModule.РаботаСЗапросами.Module
+Modified: Configuration.Автосервис

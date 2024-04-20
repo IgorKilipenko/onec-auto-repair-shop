@@ -186,6 +186,8 @@
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="568f4f18-3e27-45d7-beb1-86bfcddf14da.0" configVersion="96fd5d634661084a817fa8280fa55e1c00000000"/>
 		<Metadata name="CommonModule.ПроверкаТиповКлиентСервер" id="48298f7e-6a48-41a2-acff-e6150b6f4d66" configVersion="67cf4e76580526439992c4f08dd4fc4400000000"/>
 		<Metadata name="CommonModule.ПроверкаТиповКлиентСервер.Module" id="48298f7e-6a48-41a2-acff-e6150b6f4d66.0" configVersion="bf831c55fc76e4429a71adec9fce00bc00000000"/>
+		<Metadata name="CommonModule.РаботаСЗапросами" id="961a5f8d-b300-4108-a7fd-f1a07f432b82" configVersion="fc48c5904081a947bcb0600762bd5e7300000000"/>
+		<Metadata name="CommonModule.РаботаСЗапросами.Module" id="961a5f8d-b300-4108-a7fd-f1a07f432b82.0" configVersion="56589d84756c7342977c454d4c1f943e00000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="fb134f1b-24b4-4b10-a258-7dc87f0f985f" configVersion="8c2561659d2f744b8821edb6624aa64a00000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="fb134f1b-24b4-4b10-a258-7dc87f0f985f.0" configVersion="840718d19bce61439d321572adb25ba400000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="3ea4c4d4-f9a5-485d-99ce-bb4e7d9291b2" configVersion="729fadc882bb4e4694ee16dd509df94c00000000"/>
@@ -212,7 +214,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="b619559092fff442856c48697ae7eb8f00000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="b63143e1d72c7040ba8020ba57f2e48100000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
