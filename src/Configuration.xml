@@ -312,6 +312,7 @@
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>СостоянияМатериаловКлиентов</Enum>
 			<Enum>СостоянияЗаказовНарядов</Enum>
+			<Report>ТоварыНаСкладах</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>

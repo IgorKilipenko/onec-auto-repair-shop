@@ -1,11 +1,6 @@
-﻿Modified: Document.Реализация
-Modified: Subsystem.ДенежныеСредства
-Modified: Subsystem.ДенежныеСредства.CommandInterface
+﻿New: Report.ТоварыНаСкладах
+New: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Автосервис
 Modified: Subsystem.Покупки
-Modified: Subsystem.Покупки.CommandInterface
 Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
-Modified: Subsystem.УправлениеПерсоналом
-Modified: Subsystem.УправлениеПерсоналом.CommandInterface
