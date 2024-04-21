@@ -181,6 +181,22 @@
 		</valueType>
 		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
+		<inputParameters>
+			<dcscor:item>
+				<dcscor:parameter>ПараметрыВыбора</dcscor:parameter>
+				<dcscor:value xsi:type="dcscor:ChoiceParameters">
+					<dcscor:item>
+						<dcscor:choiceParameter>Отбор.ТипНоменклатуры</dcscor:choiceParameter>
+						<dcscor:value xsi:type="dcscor:DesignTimeValue">Перечисление.ТипыНоменклатуры.Товар</dcscor:value>
+						<dcscor:value xsi:type="dcscor:DesignTimeValue">Перечисление.ТипыНоменклатуры.Материал</dcscor:value>
+					</dcscor:item>
+				</dcscor:value>
+			</dcscor:item>
+			<dcscor:item>
+				<dcscor:parameter>ВыборГруппИЭлементов</dcscor:parameter>
+				<dcscor:value xmlns:d5p1="http://v8.1c.ru/8.1/data/enterprise" xsi:type="d5p1:FoldersAndItemsUse">Items</dcscor:value>
+			</dcscor:item>
+		</inputParameters>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>

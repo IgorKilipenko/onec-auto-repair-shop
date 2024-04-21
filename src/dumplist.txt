@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Сотрудники
-Modified: Catalog.Сотрудники.ObjectModule
+﻿Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
