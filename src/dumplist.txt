@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Автомобили
-Modified: Catalog.Автомобили.ObjectModule
+﻿Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.ObjectModule
