@@ -1,2 +1,5 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿New: Report.ФинансовыйРезультат
+New: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Автосервис
+Modified: Subsystem.Продажи

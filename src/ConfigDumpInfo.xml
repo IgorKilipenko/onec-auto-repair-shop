@@ -214,7 +214,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="181094dbcd0b6042b8f533b7bfad283c00000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="e8e8ec1bc20209498365ddf16b2b668900000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
@@ -426,6 +426,9 @@
 		<Metadata name="Report.ТоварыНаСкладах" id="f5aa4c63-6352-4834-94a9-3458a024871c" configVersion="488c4c140881434bb6c7cab36ac8265d00000000"/>
 		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2" configVersion="52a3744b9024ee408b6bfb889ab929b800000000"/>
 		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2.0" configVersion="0a13886b2331db44a6fd2b769e5c01eb00000000"/>
+		<Metadata name="Report.ФинансовыйРезультат" id="1f8ac236-6286-40a5-93cf-ad6e49678b6b" configVersion="759aebfa1c888d448192fab30546271600000000"/>
+		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных" id="2597055c-d3a5-4f20-9306-f4609d701249" configVersion="31cec4209b1ef14ab1e115b343ac554000000000"/>
+		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2597055c-d3a5-4f20-9306-f4609d701249.0" configVersion="4c548082b413b548988b71621df67f4e00000000"/>
 		<Metadata name="Role.Администратор" id="4a4d7caa-02ef-44c6-b891-ca9f663a4656" configVersion="60d10d15bc89ce47bd1b68e9bc1540af00000000"/>
 		<Metadata name="Role.Администратор.Rights" id="4a4d7caa-02ef-44c6-b891-ca9f663a4656.0" configVersion="c15621d1774b6b4e84e6b4280603290900000000"/>
 		<Metadata name="Role.ПолныеПрава" id="1e11983e-855e-4b9f-8a10-ef003e4ebb55" configVersion="a2d43136b8f234428498db38e97f35d100000000"/>
@@ -439,7 +442,7 @@
 		<Metadata name="Subsystem.ДенежныеСредства.CommandInterface" id="4a4fe09d-0e33-4207-b218-de70a9648aa5.1" configVersion="244c134c8931e741b189d0f58665071c00000000"/>
 		<Metadata name="Subsystem.Покупки" id="e8306114-e551-498d-8940-785b8f7b5901" configVersion="e927022b8e4e6946831ed794887037d000000000"/>
 		<Metadata name="Subsystem.Покупки.CommandInterface" id="e8306114-e551-498d-8940-785b8f7b5901.1" configVersion="9c9030ae22921749bee978cbc37222b100000000"/>
-		<Metadata name="Subsystem.Продажи" id="b3871f21-0226-4070-938b-849498506723" configVersion="66592d579e858d4c92068a08606508c500000000"/>
+		<Metadata name="Subsystem.Продажи" id="b3871f21-0226-4070-938b-849498506723" configVersion="cbad988937bdc347b60dc69e4032e68e00000000"/>
 		<Metadata name="Subsystem.Продажи.CommandInterface" id="b3871f21-0226-4070-938b-849498506723.1" configVersion="f8dcafb25f675a4ba2a4cd8982f986f400000000"/>
 		<Metadata name="Subsystem.СервисИНастройки" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9" configVersion="81e7ad3d742d8547b6775b19e626f45c00000000"/>
 		<Metadata name="Subsystem.СервисИНастройки.CommandInterface" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9.1" configVersion="2f0406572ba2d54d899feb71898ffd9300000000"/>

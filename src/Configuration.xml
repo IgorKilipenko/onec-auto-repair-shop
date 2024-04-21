@@ -315,6 +315,7 @@
 			<Report>ТоварыНаСкладах</Report>
 			<Report>Продажи</Report>
 			<Report>ДвижениеНаличныхДенег</Report>
+			<Report>ФинансовыйРезультат</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
