@@ -314,6 +314,7 @@
 			<Enum>СостоянияЗаказовНарядов</Enum>
 			<Report>ТоварыНаСкладах</Report>
 			<Report>Продажи</Report>
+			<Report>ДвижениеНаличныхДенег</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>

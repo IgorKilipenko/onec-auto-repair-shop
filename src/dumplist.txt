@@ -1,2 +1,5 @@
-﻿Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: Report.ДвижениеНаличныхДенег
+New: Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Автосервис
+Modified: Subsystem.ДенежныеСредства
