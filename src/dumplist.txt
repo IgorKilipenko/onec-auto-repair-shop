@@ -1,2 +1,3 @@
-﻿Modified: Document.РасходныйКассовыйОрдер
-Modified: Document.РасходныйКассовыйОрдер.ObjectModule
+﻿Modified: Document.Реализация
+Modified: Document.Реализация.ManagerModule
+Modified: Document.Реализация.ObjectModule
