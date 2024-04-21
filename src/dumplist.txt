@@ -1,5 +1,2 @@
-﻿New: Report.ФинансовыйРезультат
-New: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.Автосервис
-Modified: Subsystem.Продажи
+﻿Modified: Document.Реализация
+Modified: Document.Реализация.ManagerModule
