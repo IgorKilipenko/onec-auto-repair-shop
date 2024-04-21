@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Организации
-Modified: Catalog.Организации.ObjectModule
+﻿Modified: CommonModule.РаботаСРеквизитами
+Modified: CommonModule.РаботаСРеквизитами.Module
