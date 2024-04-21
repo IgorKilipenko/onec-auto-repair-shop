@@ -1,6 +1,6 @@
-﻿New: Report.ТоварыНаСкладах
-New: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: Report.Продажи
+New: Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 Modified: Configuration.Автосервис
-Modified: Subsystem.Покупки
 Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface
