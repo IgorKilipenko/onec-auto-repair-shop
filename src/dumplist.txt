@@ -1,6 +1,4 @@
-﻿New: Report.Продажи
-New: Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.Автосервис
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+Modified: Catalog.Номенклатура.ObjectModule
