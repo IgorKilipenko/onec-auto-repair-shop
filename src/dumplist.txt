@@ -1,3 +1,11 @@
 ﻿Modified: Document.Реализация
-Modified: Document.Реализация.ManagerModule
-Modified: Document.Реализация.ObjectModule
+Modified: Subsystem.ДенежныеСредства
+Modified: Subsystem.ДенежныеСредства.CommandInterface
+Modified: Subsystem.Покупки
+Modified: Subsystem.Покупки.CommandInterface
+Modified: Subsystem.Продажи
+Modified: Subsystem.Продажи.CommandInterface
+Modified: Subsystem.Справочники
+Modified: Subsystem.Справочники.CommandInterface
+Modified: Subsystem.УправлениеПерсоналом
+Modified: Subsystem.УправлениеПерсоналом.CommandInterface
