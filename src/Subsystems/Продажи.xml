@@ -40,6 +40,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ТоварыНаСкладах</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.Продажи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ФинансовыйРезультат</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.МатериалыЗаказчика</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
