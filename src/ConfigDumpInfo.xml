@@ -399,13 +399,14 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="f8d6781d-4552-406e-b653-07ab038fa1ed"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="a2b9d34d-3bc2-43db-bea7-d6d92a184f11" configVersion="ad439ffb73ed4144b12397177e4ebe7900000000"/>
-		<Metadata name="InformationRegister.УчетнаяПолитика" id="35ff65c5-0837-46ab-9a1e-060d26422a64" configVersion="3b07d7591aebb4409969e9b69b4ebf7100000000">
+		<Metadata name="InformationRegister.УчетнаяПолитика" id="35ff65c5-0837-46ab-9a1e-060d26422a64" configVersion="a2789b4982a58c4394dd6a40a8df5a2300000000">
 			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.СпособУчетаЗапасов" id="0c16d0f1-a918-4b95-a05d-b9de8b9c87e2"/>
 		</Metadata>
 		<Metadata name="InformationRegister.УчетнаяПолитика.Form.ФормаЗаписи" id="74ef7565-8119-4b8a-b867-2eca8604958b" configVersion="8062cee1f6d5d3488b300f8c995f0ff700000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика.Form.ФормаЗаписи.Form" id="74ef7565-8119-4b8a-b867-2eca8604958b.0" configVersion="dcd29b2d8b4b104190e1d92a8a81787e00000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика.Form.ФормаСписка" id="3604fb11-69d2-4e7b-996e-9e3cc97cd326" configVersion="c655aa260cdc984094cf20abcf97a13200000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика.Form.ФормаСписка.Form" id="3604fb11-69d2-4e7b-996e-9e3cc97cd326.0" configVersion="c502b7257dd22046b3b58fd4d913b86500000000"/>
+		<Metadata name="InformationRegister.УчетнаяПолитика.ManagerModule" id="35ff65c5-0837-46ab-9a1e-060d26422a64.2" configVersion="3f6b2e0a21b6e746b32871cf5272516700000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="6d05005e-f813-4a29-a45c-675df907c970" configVersion="a599cd3b4e786d42abc4908cc50c563400000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="2c70badd-e190-411c-95da-c3c2a5f5e289"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Сумма" id="b11f7e1f-471a-4eb0-9906-ae8266c5f18f"/>
