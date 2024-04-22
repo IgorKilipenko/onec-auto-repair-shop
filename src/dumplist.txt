@@ -1,6 +1,2 @@
-﻿New: Report.МатериалыЗаказчика
-New: Report.МатериалыЗаказчика.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.МатериалыЗаказчика.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.Автосервис
-Modified: Subsystem.Продажи
-Modified: Subsystem.Продажи.CommandInterface
+﻿Modified: Document.Реализация.Template.Печать
+Modified: Document.Реализация.Template.Печать.Template
