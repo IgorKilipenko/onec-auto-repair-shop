@@ -1,2 +1,2 @@
-﻿Modified: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿Modified: Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template

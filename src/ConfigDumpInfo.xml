@@ -418,8 +418,8 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.ManagerModule" id="6d05005e-f813-4a29-a45c-675df907c970.2" configVersion="4d661031ae5fc346bfe623c31e0df3cf00000000"/>
 		<Metadata name="Language.Русский" id="20b0d362-5dbf-4e6a-998e-b5098dc907d4" configVersion="80c5dc22df465a4681ce1bb5e62fe3b100000000"/>
 		<Metadata name="Report.ДвижениеНаличныхДенег" id="c6f6c704-2740-4f73-a966-2aa79af55a08" configVersion="967dcf0e53d31e45a0c9ec206852397800000000"/>
-		<Metadata name="Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных" id="da8ce310-e1ec-45b1-a1fc-f406e8ac562e" configVersion="ffcb46928109d84aa12489237470a29f00000000"/>
-		<Metadata name="Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="da8ce310-e1ec-45b1-a1fc-f406e8ac562e.0" configVersion="78a69aae9ec37742bc49d56989b9de0a00000000"/>
+		<Metadata name="Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных" id="da8ce310-e1ec-45b1-a1fc-f406e8ac562e" configVersion="ccbfca0ba5dd6044afcddb13a8849a9600000000"/>
+		<Metadata name="Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="da8ce310-e1ec-45b1-a1fc-f406e8ac562e.0" configVersion="153278fe58d6b046839daf8398bac1cf00000000"/>
 		<Metadata name="Report.Продажи" id="c25cf3b8-4e76-4a22-9709-fc431a54d343" configVersion="d68246ab0d375441879f4232556a793200000000"/>
 		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных" id="f6c31a3c-80fb-4c15-8725-e4f5da6c99be" configVersion="f8f0592f0913d74fa9d64b1f1e69ef3e00000000"/>
 		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f6c31a3c-80fb-4c15-8725-e4f5da6c99be.0" configVersion="51a5064d6d9d3a46b871cc371d2a779c00000000"/>
