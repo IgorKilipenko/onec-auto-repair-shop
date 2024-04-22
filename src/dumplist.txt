@@ -1,2 +1,2 @@
-﻿New: InformationRegister.УчетнаяПолитика.ManagerModule
-Modified: InformationRegister.УчетнаяПолитика
+﻿Modified: Document.ПоступлениеТоваровИУслуг
+Modified: Document.ПоступлениеТоваровИУслуг.ObjectModule
