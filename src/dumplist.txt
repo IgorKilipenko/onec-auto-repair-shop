@@ -1,2 +1,2 @@
-﻿Modified: Document.Реализация
-Modified: Document.Реализация.ManagerModule
+﻿Modified: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template

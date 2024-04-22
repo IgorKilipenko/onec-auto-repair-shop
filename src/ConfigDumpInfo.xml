@@ -427,8 +427,8 @@
 		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2" configVersion="52a3744b9024ee408b6bfb889ab929b800000000"/>
 		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2.0" configVersion="0a13886b2331db44a6fd2b769e5c01eb00000000"/>
 		<Metadata name="Report.ФинансовыйРезультат" id="1f8ac236-6286-40a5-93cf-ad6e49678b6b" configVersion="759aebfa1c888d448192fab30546271600000000"/>
-		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных" id="2597055c-d3a5-4f20-9306-f4609d701249" configVersion="31cec4209b1ef14ab1e115b343ac554000000000"/>
-		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2597055c-d3a5-4f20-9306-f4609d701249.0" configVersion="4c548082b413b548988b71621df67f4e00000000"/>
+		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных" id="2597055c-d3a5-4f20-9306-f4609d701249" configVersion="b8879b4c630f39488d6cb8358000fcc400000000"/>
+		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2597055c-d3a5-4f20-9306-f4609d701249.0" configVersion="25db2b34a45bfc4fbbd6d515409cee7600000000"/>
 		<Metadata name="Role.Администратор" id="4a4d7caa-02ef-44c6-b891-ca9f663a4656" configVersion="60d10d15bc89ce47bd1b68e9bc1540af00000000"/>
 		<Metadata name="Role.Администратор.Rights" id="4a4d7caa-02ef-44c6-b891-ca9f663a4656.0" configVersion="c15621d1774b6b4e84e6b4280603290900000000"/>
 		<Metadata name="Role.ПолныеПрава" id="1e11983e-855e-4b9f-8a10-ef003e4ebb55" configVersion="a2d43136b8f234428498db38e97f35d100000000"/>
