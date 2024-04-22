@@ -315,7 +315,7 @@
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230" configVersion="3d317d223cf451498cd370eeed5bd9ad00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаСписка.Form" id="c425e99c-6bb7-4438-bc41-e6e2b7b3b230.0" configVersion="2dfe6d9a0115b14bbcd89eb1be77193d00000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.ObjectModule" id="28c4157b-fe7a-4194-bc33-c9148eb96925.0" configVersion="2f2888569659ea4a9a06e59fc710063900000000"/>
-		<Metadata name="Document.Реализация" id="af530e27-4a82-4c08-b981-b6bff5ee26c9" configVersion="75fd5b31f2028b43b667db373229a93d00000000">
+		<Metadata name="Document.Реализация" id="af530e27-4a82-4c08-b981-b6bff5ee26c9" configVersion="b26b2c5e9b32f54f93aed4b24d37beef00000000">
 			<Metadata name="Document.Реализация.Attribute.АвторДокумента" id="058d93dc-0031-4bbf-85d1-451da338395f"/>
 			<Metadata name="Document.Реализация.TabularSection.Услуги.Attribute.Сумма" id="2030a52e-7227-42f6-86ca-e2b2cfb7d261"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="2972ab4d-bcdf-4cba-a1d6-70b8ae5afe12"/>
@@ -347,7 +347,7 @@
 		<Metadata name="Document.Реализация.Form.ФормаСписка" id="ed43756a-44e8-46ee-85b7-3e6b2186e0f0" configVersion="7c79f6fe48485f4ca6dd4e72555a0abd00000000"/>
 		<Metadata name="Document.Реализация.Form.ФормаСписка.Form" id="ed43756a-44e8-46ee-85b7-3e6b2186e0f0.0" configVersion="50a74a97e5720f4bae58a9f4240f891000000000"/>
 		<Metadata name="Document.Реализация.ManagerModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.2" configVersion="e9f6fe77c1c6a6459cad6fbb35c397f600000000"/>
-		<Metadata name="Document.Реализация.ObjectModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.0" configVersion="e92b9f5e71da5d49ba12ea405f7577c300000000"/>
+		<Metadata name="Document.Реализация.ObjectModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.0" configVersion="cef38ffd9e4213448cb7be9ef206734800000000"/>
 		<Metadata name="Document.Реализация.Template.Печать" id="730f455b-04bc-476b-b37e-7225f33fa7e6" configVersion="8e38a999bafeaa4eaa6d200575173be000000000"/>
 		<Metadata name="Document.Реализация.Template.Печать.Template" id="730f455b-04bc-476b-b37e-7225f33fa7e6.0" configVersion="a4dc5c665f82dc4683b35ab25e33363f00000000"/>
 		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="0271628f-cce8-4661-b2a6-134431b37c29" configVersion="cff2bc85b58f7b4c9012ea0ebe3855c100000000">
