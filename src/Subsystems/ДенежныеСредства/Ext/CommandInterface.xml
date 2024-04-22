@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<CommandsVisibility>
-		<Command name="AccumulationRegister.ДенежныеСредства.StandardCommand.OpenList">
-			<Visibility>
-				<xr:Common>false</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="Document.ПриходныйКассовыйОрдер.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -14,6 +9,11 @@
 		<Command name="Document.РасходныйКассовыйОрдер.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="AccumulationRegister.ДенежныеСредства.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
 		<Command name="Catalog.Кассы.StandardCommand.OpenList">
@@ -23,10 +23,6 @@
 		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
-		<Command name="AccumulationRegister.ДенежныеСредства.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
 		<Command name="Document.ПриходныйКассовыйОрдер.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
 			<Placement>Auto</Placement>
@@ -35,9 +31,27 @@
 			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="AccumulationRegister.ДенежныеСредства.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Catalog.Кассы.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
+	<CommandsOrder>
+		<Command name="Document.ПриходныйКассовыйОрдер.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
+		</Command>
+		<Command name="Document.РасходныйКассовыйОрдер.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.ДенежныеСредства.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.НаличныеДеньги</CommandGroup>
+		</Command>
+	</CommandsOrder>
+	<GroupsOrder>
+		<Group>CommandGroup.НаличныеДеньги</Group>
+	</GroupsOrder>
 </CommandInterface>

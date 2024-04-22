@@ -14,23 +14,24 @@
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 		<Command name="Catalog.Должности.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
 		<Command name="Catalog.Сотрудники.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
 		</Command>
 		<Command name="Catalog.Должности.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<CommandGroup>CommandGroup.Персонал</CommandGroup>
 		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
+		<Group>CommandGroup.Персонал</Group>
 		<Group>CommandGroup.Справочники</Group>
 	</GroupsOrder>
 </CommandInterface>

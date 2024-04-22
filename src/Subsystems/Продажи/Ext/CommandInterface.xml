@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<CommandsVisibility>
+		<Command name="Document.Реализация.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Document.ЗаказНаряд.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -21,11 +26,6 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="Document.Реализация.StandardCommand.OpenList">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>false</xr:Common>
@@ -36,7 +36,7 @@
 				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
@@ -51,22 +51,7 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="Catalog.МоделиАвтомобилей.StandardCommand.OpenList">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
-		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
@@ -76,12 +61,27 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="InformationRegister.ЦеныНоменклатуры.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.МоделиАвтомобилей.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Catalog.ЦветаАвтомобилей.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="InformationRegister.ЦеныНоменклатуры.StandardCommand.OpenList">
+		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
@@ -93,6 +93,10 @@
 		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
+		<Command name="Document.Реализация.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Document.ЗаказНаряд.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
@@ -109,10 +113,6 @@
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
-		<Command name="Document.Реализация.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Продажи</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
 		<Command name="AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
@@ -121,7 +121,7 @@
 			<CommandGroup>CommandGroup.Продажи</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
-		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
@@ -133,19 +133,7 @@
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
-		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
-		<Command name="Catalog.МоделиАвтомобилей.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
 		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
-		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
@@ -153,11 +141,23 @@
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="InformationRegister.ЦеныНоменклатуры.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Catalog.МоделиАвтомобилей.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Catalog.ЦветаАвтомобилей.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
-		<Command name="InformationRegister.ЦеныНоменклатуры.StandardCommand.OpenList">
+		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
@@ -167,12 +167,65 @@
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
+		<Command name="Document.Реализация.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Document.ЗаказНаряд.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.ЗаказыКлиентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.МатериалыЗаказчиков.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.Продажи.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="AccumulationRegister.УчетЗатрат.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Продажи</CommandGroup>
+		</Command>
+		<Command name="Catalog.Контрагенты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ИсточникиИнформации.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Номенклатура.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Склады.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="InformationRegister.ЦеныНоменклатуры.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.Автомобили.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.МоделиАвтомобилей.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ЦветаАвтомобилей.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Catalog.ОписанияЦветовДляТехпаспорта.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
 		<Command name="InformationRegister.УчетнаяПолитика.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Настройки</CommandGroup>
 		</Command>
 	</CommandsOrder>
 	<GroupsOrder>
 		<Group>NavigationPanelOrdinary</Group>
+		<Group>CommandGroup.Продажи</Group>
+		<Group>CommandGroup.Справочники</Group>
 		<Group>CommandGroup.Настройки</Group>
 	</GroupsOrder>
 </CommandInterface>

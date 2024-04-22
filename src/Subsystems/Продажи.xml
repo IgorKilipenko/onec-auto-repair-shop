@@ -37,6 +37,10 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.МатериалыЗаказчиков</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.УчетнаяПолитика</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ТоварыНаСкладах</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ФинансовыйРезультат</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.МатериалыЗаказчика</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

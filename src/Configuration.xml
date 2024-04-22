@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version/>
+			<Version>1.0</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -312,6 +312,11 @@
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>СостоянияМатериаловКлиентов</Enum>
 			<Enum>СостоянияЗаказовНарядов</Enum>
+			<Report>ТоварыНаСкладах</Report>
+			<Report>Продажи</Report>
+			<Report>ДвижениеНаличныхДенег</Report>
+			<Report>ФинансовыйРезультат</Report>
+			<Report>МатериалыЗаказчика</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
