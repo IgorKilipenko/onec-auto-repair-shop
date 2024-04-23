@@ -1,1 +1,2 @@
-﻿Modified: Configuration.Автосервис
+﻿Modified: InformationRegister.УчетнаяПолитика
+Modified: InformationRegister.УчетнаяПолитика.ManagerModule
