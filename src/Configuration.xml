@@ -281,6 +281,8 @@
 			<CommandGroup>НаличныеДеньги</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
@@ -297,6 +299,7 @@
 			<Catalog>МоделиАвтомобилей</Catalog>
 			<Catalog>Автомобили</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ГрафикиРаботыСотрудников</Catalog>
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>ЗаказНаряд</Document>
 			<Document>Реализация</Document>
@@ -319,6 +322,7 @@
 			<Report>МатериалыЗаказчика</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
