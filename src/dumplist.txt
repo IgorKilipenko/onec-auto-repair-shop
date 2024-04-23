@@ -1,2 +1,2 @@
-﻿Modified: InformationRegister.УчетнаяПолитика
-Modified: InformationRegister.УчетнаяПолитика.ManagerModule
+﻿Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template

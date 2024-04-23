@@ -428,8 +428,8 @@
 		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных" id="f6c31a3c-80fb-4c15-8725-e4f5da6c99be" configVersion="f8f0592f0913d74fa9d64b1f1e69ef3e00000000"/>
 		<Metadata name="Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f6c31a3c-80fb-4c15-8725-e4f5da6c99be.0" configVersion="51a5064d6d9d3a46b871cc371d2a779c00000000"/>
 		<Metadata name="Report.ТоварыНаСкладах" id="f5aa4c63-6352-4834-94a9-3458a024871c" configVersion="488c4c140881434bb6c7cab36ac8265d00000000"/>
-		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2" configVersion="52a3744b9024ee408b6bfb889ab929b800000000"/>
-		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2.0" configVersion="0a13886b2331db44a6fd2b769e5c01eb00000000"/>
+		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2" configVersion="82c2cebb0f5b7e449ddde5e76011565100000000"/>
+		<Metadata name="Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b4a16a76-08d5-47eb-bb97-32a0b26db8d2.0" configVersion="b479c6fa231629458aaa1926cfa2d98a00000000"/>
 		<Metadata name="Report.ФинансовыйРезультат" id="1f8ac236-6286-40a5-93cf-ad6e49678b6b" configVersion="759aebfa1c888d448192fab30546271600000000"/>
 		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных" id="2597055c-d3a5-4f20-9306-f4609d701249" configVersion="be785e40abbe7145a863f6e34ead87c000000000"/>
 		<Metadata name="Report.ФинансовыйРезультат.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2597055c-d3a5-4f20-9306-f4609d701249.0" configVersion="617b4c853bd57549b04524cf21a2e8d900000000"/>
