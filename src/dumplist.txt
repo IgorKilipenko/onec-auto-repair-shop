@@ -1,2 +1,3 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+﻿Modified: Document.Реализация
+Modified: Document.Реализация.ManagerModule
+Modified: Document.Реализация.ObjectModule
