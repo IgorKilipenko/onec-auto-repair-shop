@@ -108,8 +108,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="18166158-7adf-4225-932b-e75c21bfee6d" configVersion="80002605797edb40bbeac9db3667495000000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="18166158-7adf-4225-932b-e75c21bfee6d.0" configVersion="d7d8656fe08b314888c9698b4b646b3000000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="8e1ac83d89f6fb42a95c83a35c789f6800000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="1a97559266570b4692205bb30b9225b300000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="efc7dca18a921d43bd3aaf4561f9e1f600000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="8bf680cff06ba643b9222ce48eac451a00000000"/>
 		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="c6949a8713ce56408b03d006a4db4b7c00000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="acca1f51839aa1488c562e2de151cae700000000"/>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.1c" configVersion="19559a725261b44a96814d1bff80573100000000"/>
