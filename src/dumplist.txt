@@ -1,10 +1,6 @@
-﻿New: Catalog.ГрафикиРаботыСотрудников
-New: CommandGroup.БухгалтерскийУчет
-New: CommandGroup.Зарплата
-New: InformationRegister.ГрафикиРаботыПредприятия
-New: InformationRegister.ГрафикиРаботыПредприятия.ManagerModule
-Modified: Configuration.Автосервис
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
-Modified: Subsystem.УправлениеПерсоналом
-Modified: Subsystem.УправлениеПерсоналом.CommandInterface
+﻿New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаВыбора
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаВыбора.Form
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
+New: Catalog.ГрафикиРаботыСотрудников.ObjectModule
+Modified: Catalog.ГрафикиРаботыСотрудников

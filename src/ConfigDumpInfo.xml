@@ -51,7 +51,22 @@
 		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента" id="54f413d7-c30c-4542-a6ba-dae224082aec" configVersion="2ced511281080d4187d42d61941e9fae00000000"/>
 		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента.Form" id="54f413d7-c30c-4542-a6ba-dae224082aec.0" configVersion="2422844632dfdf499f2fc3d185a9fe0000000000"/>
 		<Metadata name="Catalog.Автомобили.ObjectModule" id="af4553a3-91aa-4a79-9df6-e2aa5a1123f3.0" configVersion="a72ab4a313f8304ebd61842480a0d5d800000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="e7b1788f-67c5-4458-b896-2c828d3bd7c1" configVersion="1b9ea8fa64746440ad8d7644c7ea8a9000000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="e7b1788f-67c5-4458-b896-2c828d3bd7c1" configVersion="b79a9972218cd440b4807b4db39cec3800000000">
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней" id="1ec50474-7e47-40e8-aa20-7afa515feb9a"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.ШагДней" id="47e92464-e33e-48f7-ba8e-2c7f2c652c33"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.СпособЗаполнения" id="50a75718-ab3d-417a-a689-d1d4f7076d1c"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КоличествоЧасов" id="82963f32-afb6-4822-9468-fcd33188bd34"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.НачалоПериода" id="b032d2ef-ccbd-4540-90e3-67ecfee9df8b"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.НачалоГрафика" id="bc5b6e4d-8d7a-4f83-a5dc-12566f7e6617"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КонецПериода" id="e0918e8a-222f-43fc-a714-ea02dd806628"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.День" id="e1aded0f-0e08-4f09-817d-a35694458704"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.КоличествоЧасов" id="efbdca12-060a-4c3e-858e-b0599bf7ce9e"/>
+		</Metadata>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаВыбора" id="f21f4605-f611-42d6-ade7-3d0647801a59" configVersion="cffd506e8f4a644b8629e1789fe9479300000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаВыбора.Form" id="f21f4605-f611-42d6-ade7-3d0647801a59.0" configVersion="8c8f246dae998d4fbdc29e0366bcc46600000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="39d9f35d-427d-42df-913b-204ede3bfaeb" configVersion="74de7fd298ae0a47abf40b405027306c00000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="39d9f35d-427d-42df-913b-204ede3bfaeb.0" configVersion="aeac64a38837fa4b934e4a58f907590900000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.ObjectModule" id="e7b1788f-67c5-4458-b896-2c828d3bd7c1.0" configVersion="c7f35ff7a6fcd743b35caab4b2fb53a200000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e" configVersion="b9ad1fbcd9a53147b13c166b78bf85b500000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Бессрочный" id="8ee15c1f-df5b-4b88-a774-15bb22bff413"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="becac1eb-5dc4-47bd-a5c6-27d603723115"/>

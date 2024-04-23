@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
+	<ChildItems>
+		<InputField name="Код" id="1">
+			<DataPath>Объект.Code</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<InputField name="Наименование" id="4">
+			<DataPath>Объект.Description</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
+		</InputField>
+		<InputField name="НачалоПериода" id="7">
+			<DataPath>Объект.НачалоПериода</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НачалоПериодаКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="НачалоПериодаРасширеннаяПодсказка" id="9"/>
+		</InputField>
+		<InputField name="КонецПериода" id="10">
+			<DataPath>Объект.КонецПериода</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КонецПериодаКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="КонецПериодаРасширеннаяПодсказка" id="12"/>
+		</InputField>
+		<InputField name="КоличествоЧасов" id="13">
+			<DataPath>Объект.КоличествоЧасов</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КоличествоЧасовКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="КоличествоЧасовРасширеннаяПодсказка" id="15"/>
+		</InputField>
+		<InputField name="СпособЗаполнения" id="16">
+			<DataPath>Объект.СпособЗаполнения</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СпособЗаполненияКонтекстноеМеню" id="17"/>
+			<ExtendedTooltip name="СпособЗаполненияРасширеннаяПодсказка" id="18"/>
+		</InputField>
+		<InputField name="ШагДней" id="19">
+			<DataPath>Объект.ШагДней</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ШагДнейКонтекстноеМеню" id="20"/>
+			<ExtendedTooltip name="ШагДнейРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<InputField name="НачалоГрафика" id="22">
+			<DataPath>Объект.НачалоГрафика</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НачалоГрафикаКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="НачалоГрафикаРасширеннаяПодсказка" id="24"/>
+		</InputField>
+		<Table name="СписокДней" id="25">
+			<Representation>List</Representation>
+			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<EnableStartDrag>true</EnableStartDrag>
+			<EnableDrag>true</EnableDrag>
+			<DataPath>Объект.СписокДней</DataPath>
+			<RowFilter xsi:nil="true"/>
+			<ContextMenu name="СписокДнейКонтекстноеМеню" id="26"/>
+			<AutoCommandBar name="СписокДнейКоманднаяПанель" id="27"/>
+			<ExtendedTooltip name="СписокДнейРасширеннаяПодсказка" id="28"/>
+			<SearchStringAddition name="СписокДнейСтрокаПоиска" id="29">
+				<AdditionSource>
+					<Item>СписокДней</Item>
+					<Type>SearchStringRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="СписокДнейСтрокаПоискаКонтекстноеМеню" id="30"/>
+				<ExtendedTooltip name="СписокДнейСтрокаПоискаРасширеннаяПодсказка" id="31"/>
+			</SearchStringAddition>
+			<ViewStatusAddition name="СписокДнейСостояниеПросмотра" id="32">
+				<AdditionSource>
+					<Item>СписокДней</Item>
+					<Type>ViewStatusRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="СписокДнейСостояниеПросмотраКонтекстноеМеню" id="33"/>
+				<ExtendedTooltip name="СписокДнейСостояниеПросмотраРасширеннаяПодсказка" id="34"/>
+			</ViewStatusAddition>
+			<SearchControlAddition name="СписокДнейУправлениеПоиском" id="35">
+				<AdditionSource>
+					<Item>СписокДней</Item>
+					<Type>SearchControl</Type>
+				</AdditionSource>
+				<ContextMenu name="СписокДнейУправлениеПоискомКонтекстноеМеню" id="36"/>
+				<ExtendedTooltip name="СписокДнейУправлениеПоискомРасширеннаяПодсказка" id="37"/>
+			</SearchControlAddition>
+			<ChildItems>
+				<LabelField name="СписокДнейНомерСтроки" id="38">
+					<DataPath>Объект.СписокДней.LineNumber</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="СписокДнейНомерСтрокиКонтекстноеМеню" id="39"/>
+					<ExtendedTooltip name="СписокДнейНомерСтрокиРасширеннаяПодсказка" id="40"/>
+				</LabelField>
+				<InputField name="СписокДнейДень" id="41">
+					<DataPath>Объект.СписокДней.День</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="СписокДнейДеньКонтекстноеМеню" id="42"/>
+					<ExtendedTooltip name="СписокДнейДеньРасширеннаяПодсказка" id="43"/>
+				</InputField>
+				<InputField name="СписокДнейКоличествоЧасов" id="44">
+					<DataPath>Объект.СписокДней.КоличествоЧасов</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="СписокДнейКоличествоЧасовКонтекстноеМеню" id="45"/>
+					<ExtendedTooltip name="СписокДнейКоличествоЧасовРасширеннаяПодсказка" id="46"/>
+				</InputField>
+			</ChildItems>
+		</Table>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:CatalogObject.ГрафикиРаботыСотрудников</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+		</Attribute>
+	</Attributes>
+</Form>
