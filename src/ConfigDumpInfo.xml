@@ -5,7 +5,7 @@
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.Касса" id="58652ea9-725b-4c98-a9e4-a70df0a8ca6f"/>
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Resource.Сумма" id="afeb2eec-12d2-4308-8e69-8968eecdfa22"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.ЗаказыКлиентов" id="2856d9bc-b264-4092-b220-1def9c4cf7b0" configVersion="290354cd85ea7848897ed1be769dd0bd00000000">
+		<Metadata name="AccumulationRegister.ЗаказыКлиентов" id="2856d9bc-b264-4092-b220-1def9c4cf7b0" configVersion="25f84b6ca29727449952f1f96c3e8d7100000000">
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.ЗаказКлиента" id="1e8e40ca-2f6e-4d81-9036-b878b3e1c802"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Resource.Сумма" id="8932130d-6f15-40fd-b6ff-0da0609855cc"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.Клиент" id="ddc8e081-9953-4336-a55c-a7ada6a95477"/>
