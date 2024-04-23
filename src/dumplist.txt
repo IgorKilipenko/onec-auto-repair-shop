@@ -1,1 +1,8 @@
-﻿Modified: Configuration.Автосервис
+﻿Modified: Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Report.МатериалыЗаказчика.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.МатериалыЗаказчика.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.Продажи.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ТоварыНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template

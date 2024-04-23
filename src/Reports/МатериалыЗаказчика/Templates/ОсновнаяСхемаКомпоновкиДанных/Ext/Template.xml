@@ -185,6 +185,7 @@
 				<dcscor:value xmlns:d5p1="http://v8.1c.ru/8.1/data/enterprise" xsi:type="d5p1:FoldersAndItemsUse">Items</dcscor:value>
 			</dcscor:item>
 		</inputParameters>
+		<denyIncompleteValues>true</denyIncompleteValues>
 	</parameter>
 	<parameter>
 		<name>Заказчик</name>
@@ -214,6 +215,7 @@
 				<dcscor:value xmlns:d5p1="http://v8.1c.ru/8.1/data/enterprise" xsi:type="d5p1:FoldersAndItemsUse">Items</dcscor:value>
 			</dcscor:item>
 		</inputParameters>
+		<denyIncompleteValues>true</denyIncompleteValues>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>

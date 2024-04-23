@@ -156,6 +156,7 @@
 		</valueType>
 		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
+		<denyIncompleteValues>true</denyIncompleteValues>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>
