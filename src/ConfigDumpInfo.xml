@@ -31,7 +31,7 @@
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Сумма" id="ec811733-102d-4666-bbcc-468acf0b34ea"/>
 		</Metadata>
 		<Metadata name="AccumulationRegister.ТоварыНаСкладах.ManagerModule" id="34811135-1d43-4fda-a115-c16700e96f06.2" configVersion="6f83f1c3df2ecf4f93387423eca207d300000000"/>
-		<Metadata name="AccumulationRegister.УчетЗатрат" id="78d3faea-18b1-4110-9b06-76dcb78933c6" configVersion="a4a8132ce20dbb4c80c08dafc43f1c4700000000">
+		<Metadata name="AccumulationRegister.УчетЗатрат" id="78d3faea-18b1-4110-9b06-76dcb78933c6" configVersion="47db1a7ad12c6245a68380620af0327300000000">
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="90288aaa-b25b-4547-85e5-eb5db648887f"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="ef2cec92-872a-443d-8986-22790ac05a04"/>
 		</Metadata>

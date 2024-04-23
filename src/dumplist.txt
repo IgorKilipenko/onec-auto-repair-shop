@@ -1,1 +1,1 @@
-﻿Modified: AccumulationRegister.ЗаказыКлиентов
+﻿Modified: AccumulationRegister.УчетЗатрат

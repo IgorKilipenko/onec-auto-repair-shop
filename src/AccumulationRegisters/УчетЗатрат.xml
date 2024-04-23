@@ -39,7 +39,7 @@
 			<UseStandardCommands>true</UseStandardCommands>
 			<DefaultListForm/>
 			<AuxiliaryListForm/>
-			<RegisterType>Balance</RegisterType>
+			<RegisterType>Turnovers</RegisterType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>DontUse</FullTextSearch>
