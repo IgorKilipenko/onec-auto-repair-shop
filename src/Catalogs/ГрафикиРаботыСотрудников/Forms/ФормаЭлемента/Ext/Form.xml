@@ -7,64 +7,263 @@
 		<Event name="OnOpen">ПриОткрытии</Event>
 	</Events>
 	<ChildItems>
-		<InputField name="Код" id="1">
-			<DataPath>Объект.Code</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КодКонтекстноеМеню" id="2"/>
-			<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
-		</InputField>
-		<InputField name="Наименование" id="4">
-			<DataPath>Объект.Description</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
-			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
-		</InputField>
-		<InputField name="НачалоПериода" id="7">
-			<DataPath>Объект.НачалоПериода</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="НачалоПериодаКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="НачалоПериодаРасширеннаяПодсказка" id="9"/>
-		</InputField>
-		<InputField name="КонецПериода" id="10">
-			<DataPath>Объект.КонецПериода</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КонецПериодаКонтекстноеМеню" id="11"/>
-			<ExtendedTooltip name="КонецПериодаРасширеннаяПодсказка" id="12"/>
-		</InputField>
-		<InputField name="КоличествоЧасов" id="13">
-			<DataPath>Объект.КоличествоЧасов</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КоличествоЧасовКонтекстноеМеню" id="14"/>
-			<ExtendedTooltip name="КоличествоЧасовРасширеннаяПодсказка" id="15"/>
-		</InputField>
-		<InputField name="СпособЗаполнения" id="16">
-			<DataPath>Объект.СпособЗаполнения</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="СпособЗаполненияКонтекстноеМеню" id="17"/>
-			<ExtendedTooltip name="СпособЗаполненияРасширеннаяПодсказка" id="18"/>
-		</InputField>
-		<InputField name="ШагДней" id="19">
-			<DataPath>Объект.ШагДней</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ШагДнейКонтекстноеМеню" id="20"/>
-			<ExtendedTooltip name="ШагДнейРасширеннаяПодсказка" id="21"/>
-		</InputField>
-		<InputField name="НачалоГрафика" id="22">
-			<DataPath>Объект.НачалоГрафика</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="НачалоГрафикаКонтекстноеМеню" id="23"/>
-			<ExtendedTooltip name="НачалоГрафикаРасширеннаяПодсказка" id="24"/>
-		</InputField>
+		<UsualGroup name="ГруппаНаименованиеКод" id="47">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа наименование код</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа наименование код</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаНаименованиеКодРасширеннаяПодсказка" id="48"/>
+			<ChildItems>
+				<InputField name="Наименование" id="4">
+					<DataPath>Объект.Description</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
+					<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
+				</InputField>
+				<InputField name="Код" id="1">
+					<DataPath>Объект.Code</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+					<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="ГруппаЗаполнениеГрафика" id="49">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа заполнение графика</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа заполнение графика</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>Vertical</Group>
+			<Behavior>Collapsible</Behavior>
+			<Collapsed>true</Collapsed>
+			<Representation>None</Representation>
+			<ExtendedTooltip name="ГруппаЗаполнениеГрафикаРасширеннаяПодсказка" id="50"/>
+			<ChildItems>
+				<UsualGroup name="ГруппаПериодЗаполнения" id="51">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа период заполнения</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа период заполнения</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Group>AlwaysHorizontal</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="ГруппаПериодЗаполненияРасширеннаяПодсказка" id="52"/>
+					<ChildItems>
+						<InputField name="НачалоПериода" id="7">
+							<DataPath>Объект.НачалоПериода</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="НачалоПериодаКонтекстноеМеню" id="8"/>
+							<ExtendedTooltip name="НачалоПериодаРасширеннаяПодсказка" id="9"/>
+							<Events>
+								<Event name="OnChange">НачалоПериодаПриИзменении</Event>
+							</Events>
+						</InputField>
+						<InputField name="КонецПериода" id="10">
+							<DataPath>Объект.КонецПериода</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="КонецПериодаКонтекстноеМеню" id="11"/>
+							<ExtendedTooltip name="КонецПериодаРасширеннаяПодсказка" id="12"/>
+							<Events>
+								<Event name="OnChange">КонецПериодаПриИзменении</Event>
+							</Events>
+						</InputField>
+					</ChildItems>
+				</UsualGroup>
+				<InputField name="КоличествоЧасов" id="13">
+					<DataPath>Объект.КоличествоЧасов</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КоличествоЧасовКонтекстноеМеню" id="14"/>
+					<ExtendedTooltip name="КоличествоЧасовРасширеннаяПодсказка" id="15"/>
+				</InputField>
+				<UsualGroup name="ГруппаСпособЗаполнения" id="53">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа способ заполнения</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа способ заполнения</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Group>AlwaysHorizontal</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="ГруппаСпособЗаполненияРасширеннаяПодсказка" id="54"/>
+					<ChildItems>
+						<RadioButtonField name="СпособЗаполнения" id="16">
+							<DataPath>Объект.СпособЗаполнения</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<RadioButtonType>RadioButtons</RadioButtonType>
+							<ChoiceList>
+								<xr:Item>
+									<xr:Presentation/>
+									<xr:CheckState>0</xr:CheckState>
+									<xr:Value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation>
+											<v8:item>
+												<v8:lang>ru</v8:lang>
+												<v8:content>По будням</v8:content>
+											</v8:item>
+										</Presentation>
+										<Value xsi:type="xr:DesignTimeRef">Enum.ТипыГрафиковРаботы.EnumValue.ПятидневнаяРабочаяНеделя</Value>
+									</xr:Value>
+								</xr:Item>
+								<xr:Item>
+									<xr:Presentation/>
+									<xr:CheckState>0</xr:CheckState>
+									<xr:Value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation>
+											<v8:item>
+												<v8:lang>ru</v8:lang>
+												<v8:content>Циклично</v8:content>
+											</v8:item>
+										</Presentation>
+										<Value xsi:type="xr:DesignTimeRef">Enum.ТипыГрафиковРаботы.EnumValue.Циклический</Value>
+									</xr:Value>
+								</xr:Item>
+							</ChoiceList>
+							<ContextMenu name="СпособЗаполненияКонтекстноеМеню" id="17"/>
+							<ExtendedTooltip name="СпособЗаполненияРасширеннаяПодсказка" id="18"/>
+							<Events>
+								<Event name="OnChange">СпособЗаполненияПриИзменении</Event>
+							</Events>
+						</RadioButtonField>
+					</ChildItems>
+				</UsualGroup>
+				<UsualGroup name="ГруппаЦиклически" id="55">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа циклически</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа циклически</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Group>AlwaysHorizontal</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ThroughAlign>DontUse</ThroughAlign>
+					<ExtendedTooltip name="ГруппаЦиклическиРасширеннаяПодсказка" id="56"/>
+					<ChildItems>
+						<InputField name="ШагДней" id="19">
+							<DataPath>Объект.ШагДней</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ШагДнейКонтекстноеМеню" id="20"/>
+							<ExtendedTooltip name="ШагДнейРасширеннаяПодсказка" id="21"/>
+						</InputField>
+						<RadioButtonField name="НачалоГрафика" id="22">
+							<DataPath>Объект.НачалоГрафика</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<RadioButtonType>Auto</RadioButtonType>
+							<ChoiceList>
+								<xr:Item>
+									<xr:Presentation/>
+									<xr:CheckState>0</xr:CheckState>
+									<xr:Value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation>
+											<v8:item>
+												<v8:lang>ru</v8:lang>
+												<v8:content>Рабочие дни</v8:content>
+											</v8:item>
+										</Presentation>
+										<Value xsi:type="xs:decimal">1</Value>
+									</xr:Value>
+								</xr:Item>
+								<xr:Item>
+									<xr:Presentation/>
+									<xr:CheckState>0</xr:CheckState>
+									<xr:Value xsi:type="FormChoiceListDesTimeValue">
+										<Presentation>
+											<v8:item>
+												<v8:lang>ru</v8:lang>
+												<v8:content>Выходные</v8:content>
+											</v8:item>
+										</Presentation>
+										<Value xsi:type="xs:decimal">2</Value>
+									</xr:Value>
+								</xr:Item>
+							</ChoiceList>
+							<ContextMenu name="НачалоГрафикаКонтекстноеМеню" id="23"/>
+							<ExtendedTooltip name="НачалоГрафикаРасширеннаяПодсказка" id="24"/>
+						</RadioButtonField>
+					</ChildItems>
+				</UsualGroup>
+				<UsualGroup name="ГруппаКоманды" id="57">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа команды</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа команды</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Group>AlwaysHorizontal</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="ГруппаКомандыРасширеннаяПодсказка" id="58"/>
+					<ChildItems>
+						<Button name="ЗаполнитьГрафик" id="59">
+							<Type>UsualButton</Type>
+							<CommandName>Form.Command.ЗаполнитьГрафик</CommandName>
+							<ExtendedTooltip name="ЗаполнитьГрафикРасширеннаяПодсказка" id="60"/>
+						</Button>
+						<Button name="ЗагрузитьВГрафикиПредприятия" id="61">
+							<Type>UsualButton</Type>
+							<Representation>PictureAndText</Representation>
+							<CommandName>Form.Command.ЗагрузитьВГрафикиПредприятия</CommandName>
+							<ExtendedTooltip name="ЗагрузитьВГрафикиПредприятияРасширеннаяПодсказка" id="62"/>
+						</Button>
+					</ChildItems>
+				</UsualGroup>
+			</ChildItems>
+		</UsualGroup>
 		<Table name="СписокДней" id="25">
 			<Representation>List</Representation>
+			<Footer>true</Footer>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
 			<EnableStartDrag>true</EnableStartDrag>
 			<EnableDrag>true</EnableDrag>
@@ -114,6 +313,13 @@
 				<InputField name="СписокДнейКоличествоЧасов" id="44">
 					<DataPath>Объект.СписокДней.КоличествоЧасов</DataPath>
 					<EditMode>EnterOnInput</EditMode>
+					<FooterDataPath>Объект.СписокДней.TotalКоличествоЧасов</FooterDataPath>
+					<FooterText>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Итого</v8:content>
+						</v8:item>
+					</FooterText>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="СписокДнейКоличествоЧасовКонтекстноеМеню" id="45"/>
 					<ExtendedTooltip name="СписокДнейКоличествоЧасовРасширеннаяПодсказка" id="46"/>
@@ -130,4 +336,40 @@
 			<SavedData>true</SavedData>
 		</Attribute>
 	</Attributes>
+	<Commands>
+		<Command name="ЗагрузитьВГрафикиПредприятия" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить в графики предприятия</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить в графики предприятия</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>CommonPicture.Продажи</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ЗагрузитьВГрафикиПредприятия</Action>
+		</Command>
+		<Command name="ЗаполнитьГрафик" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить график</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить график</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ЗаполнитьГрафик</Action>
+		</Command>
+	</Commands>
 </Form>

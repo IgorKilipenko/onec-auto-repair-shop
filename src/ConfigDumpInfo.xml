@@ -51,7 +51,7 @@
 		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента" id="54f413d7-c30c-4542-a6ba-dae224082aec" configVersion="2ced511281080d4187d42d61941e9fae00000000"/>
 		<Metadata name="Catalog.Автомобили.Form.ФормаЭлемента.Form" id="54f413d7-c30c-4542-a6ba-dae224082aec.0" configVersion="2422844632dfdf499f2fc3d185a9fe0000000000"/>
 		<Metadata name="Catalog.Автомобили.ObjectModule" id="af4553a3-91aa-4a79-9df6-e2aa5a1123f3.0" configVersion="a72ab4a313f8304ebd61842480a0d5d800000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="e7b1788f-67c5-4458-b896-2c828d3bd7c1" configVersion="b79a9972218cd440b4807b4db39cec3800000000">
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="e7b1788f-67c5-4458-b896-2c828d3bd7c1" configVersion="6f15bd793eec3841a269fff8dbfbc5cd00000000">
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней" id="1ec50474-7e47-40e8-aa20-7afa515feb9a"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.ШагДней" id="47e92464-e33e-48f7-ba8e-2c7f2c652c33"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.СпособЗаполнения" id="50a75718-ab3d-417a-a689-d1d4f7076d1c"/>
@@ -64,8 +64,8 @@
 		</Metadata>
 		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаВыбора" id="f21f4605-f611-42d6-ade7-3d0647801a59" configVersion="cffd506e8f4a644b8629e1789fe9479300000000"/>
 		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаВыбора.Form" id="f21f4605-f611-42d6-ade7-3d0647801a59.0" configVersion="8c8f246dae998d4fbdc29e0366bcc46600000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="39d9f35d-427d-42df-913b-204ede3bfaeb" configVersion="74de7fd298ae0a47abf40b405027306c00000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="39d9f35d-427d-42df-913b-204ede3bfaeb.0" configVersion="aeac64a38837fa4b934e4a58f907590900000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="39d9f35d-427d-42df-913b-204ede3bfaeb" configVersion="971a93fbe7ad0f488538c0fdf0dbe93c00000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="39d9f35d-427d-42df-913b-204ede3bfaeb.0" configVersion="1d6a6770c7df954a86179288d6debcd900000000"/>
 		<Metadata name="Catalog.ГрафикиРаботыСотрудников.ObjectModule" id="e7b1788f-67c5-4458-b896-2c828d3bd7c1.0" configVersion="c7f35ff7a6fcd743b35caab4b2fb53a200000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="9208b041-3e7c-4d0b-9117-6a7f65bd252e" configVersion="b9ad1fbcd9a53147b13c166b78bf85b500000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Бессрочный" id="8ee15c1f-df5b-4b88-a774-15bb22bff413"/>
@@ -232,7 +232,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="0b9294d98d756b4d9383b8b5f4eebf8600000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="105e139e20a1b742a3bad70d3523290200000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
@@ -401,6 +401,14 @@
 		<Metadata name="Enum.СпособыСписанияЗапасов" id="ce1df72f-3fb0-4f16-ab19-a38f39c35b86" configVersion="f437c78e8836344d8cde5fa8aca70b4900000000">
 			<Metadata name="Enum.СпособыСписанияЗапасов.EnumValue.ПоСредней" id="ea85d14a-b64b-40b6-8ba2-f79db59037b1"/>
 			<Metadata name="Enum.СпособыСписанияЗапасов.EnumValue.FEFO" id="eb5c3aeb-2ef0-4c79-8268-c92840b61cda"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыГрафиковРаботы" id="e16d45bb-0292-4de9-b8e4-15df8c828ae6" configVersion="1582ecc196c4f4489860b4c8c0eae91300000000">
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Сменный" id="22bdd0a2-a475-4d55-afa8-667f4e587d35"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.ПятидневнаяРабочаяНеделя" id="375fd008-da52-4102-b592-036be8adace9"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Гибкий" id="5006b398-a906-48a1-912a-725ac58725c9"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Вахтовый" id="559f37a4-1306-4d23-ae9c-8a5968042043"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Циклический" id="cbbdd334-d4d2-49ab-b4cc-ff52c880822d"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.ЧастичнаяЗанятость" id="ea11815e-9dc9-4766-85be-7c60ec848ada"/>
 		</Metadata>
 		<Metadata name="Enum.ТипыКонтрагентов" id="f05d5042-7b57-48b6-a7e4-c39631bcaa2c" configVersion="1722e21258a4e148baf6db24fb17d1a800000000">
 			<Metadata name="Enum.ТипыКонтрагентов.EnumValue.Поставщик" id="05242cce-cdd3-450b-bf48-ad7bc4037c47"/>

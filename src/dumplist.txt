@@ -1,7 +1,5 @@
-﻿New: InformationRegister.КадроваяИсторияСотрудников
-New: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+﻿New: Enum.ТипыГрафиковРаботы
+Modified: Catalog.ГрафикиРаботыСотрудников
+Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
 Modified: Configuration.Автосервис
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
-Modified: Subsystem.УправлениеПерсоналом
-Modified: Subsystem.УправлениеПерсоналом.CommandInterface
