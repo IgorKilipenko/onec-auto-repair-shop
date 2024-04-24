@@ -192,6 +192,15 @@
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаСписка.Form" id="3476ac55-a968-445f-a111-cc0d7fe41fb7.0" configVersion="045043a566928745bfef6e2ebc131e9000000000"/>
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента" id="9b6b95be-ad68-44f2-b83a-d300f90d1086" configVersion="3e258243857c77489ee88544a7c29b8d00000000"/>
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента.Form" id="9b6b95be-ad68-44f2-b83a-d300f90d1086.0" configVersion="22382cb57a74c94a9590ac4989ac1f6e00000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления" id="0ec24b8c-181e-4c4a-9328-1d4028c69075" configVersion="24712a7ad67d314698881a2be54b446000000000">
+			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="1e10ef91-79b3-470a-a26b-d0ca76ce6eb9"/>
+			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="d9dfd9f4-2913-443e-aadf-f707b9ac95db"/>
+		</Metadata>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="92f03a1a-fb50-4fdc-85d9-0725c4351d01" configVersion="c84ef9627bb58a428026e52b6de37bab00000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="92f03a1a-fb50-4fdc-85d9-0725c4351d01.0" configVersion="7ca7b5dd86b0f74cb440d69ac0843cfd00000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка" id="a7637474-b95f-42ba-bf99-6ba81c7313e2" configVersion="ef17a39dc1f2d04ba039d1ee6a8d9a9300000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form" id="a7637474-b95f-42ba-bf99-6ba81c7313e2.0" configVersion="afb044e1fb780640a28fc562c5ce906500000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Predefined" id="0ec24b8c-181e-4c4a-9328-1d4028c69075.2" configVersion="d7653d03d98e714685354dcd06da092200000000"/>
 		<Metadata name="CommandGroup.БухгалтерскийУчет" id="7b870756-dfe9-4cd7-8d24-86bb2ded737a" configVersion="67dba7fe7ccf4d428f130d82debba80e00000000"/>
 		<Metadata name="CommandGroup.Зарплата" id="364c941d-1987-4859-acb2-625ce1695191" configVersion="3454fe25d9fba34d839d88c90b3daf4e00000000"/>
 		<Metadata name="CommandGroup.НаличныеДеньги" id="d6cb69df-9939-415e-bab0-a2af13e879b1" configVersion="d289dbc94dbd8f47b7187f604ebe00fb00000000"/>
@@ -232,7 +241,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="105e139e20a1b742a3bad70d3523290200000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="4727af5b7464e549aee991cceaa4955c00000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
@@ -489,9 +498,9 @@
 		<Metadata name="Subsystem.Продажи.CommandInterface" id="b3871f21-0226-4070-938b-849498506723.1" configVersion="a3560c2384cb3a4bb8e0376bcb46400500000000"/>
 		<Metadata name="Subsystem.СервисИНастройки" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9" configVersion="81e7ad3d742d8547b6775b19e626f45c00000000"/>
 		<Metadata name="Subsystem.СервисИНастройки.CommandInterface" id="57f5d7d6-e3af-4e9c-96a3-47fa751d24f9.1" configVersion="2f0406572ba2d54d899feb71898ffd9300000000"/>
-		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="1fc8360fc452804dbdbf50afc902fd6f00000000"/>
-		<Metadata name="Subsystem.Справочники.CommandInterface" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0.1" configVersion="854beb239f211244a8b32e418167ddb300000000"/>
-		<Metadata name="Subsystem.УправлениеПерсоналом" id="78d400c1-6202-4f18-8c88-1ac6583155e0" configVersion="6e1eff261b53e445883d163f4320ac6e00000000"/>
-		<Metadata name="Subsystem.УправлениеПерсоналом.CommandInterface" id="78d400c1-6202-4f18-8c88-1ac6583155e0.1" configVersion="cea50d079008c14691836e7b56726f5a00000000"/>
+		<Metadata name="Subsystem.Справочники" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0" configVersion="05d7a21049349941aa777e1058ffdf7400000000"/>
+		<Metadata name="Subsystem.Справочники.CommandInterface" id="8008bbb5-5354-4d58-b9a7-4ae28929ffd0.1" configVersion="dc3a63e9dc498d4685c6649be102eda000000000"/>
+		<Metadata name="Subsystem.УправлениеПерсоналом" id="78d400c1-6202-4f18-8c88-1ac6583155e0" configVersion="8bc8e062da04db4a8fe1f4cfc817657d00000000"/>
+		<Metadata name="Subsystem.УправлениеПерсоналом.CommandInterface" id="78d400c1-6202-4f18-8c88-1ac6583155e0.1" configVersion="76f5e16f1144724bb141f9faf07713d900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

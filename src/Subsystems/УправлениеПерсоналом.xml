@@ -24,6 +24,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ГрафикиРаботыПредприятия</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ГрафикиРаботыСотрудников</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КадроваяИсторияСотрудников</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCalculationTypes.Начисления</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -331,6 +331,7 @@
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>МатериалыЗаказчиков</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
+			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -11,17 +11,22 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
-			<Visibility>
-				<xr:Common>true</xr:Common>
-			</Visibility>
-		</Command>
 		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="InformationRegister.КадроваяИсторияСотрудников.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
 			</Visibility>
@@ -36,15 +41,19 @@
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
-		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
-			<Placement>Auto</Placement>
-		</Command>
 		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="InformationRegister.КадроваяИсторияСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
@@ -56,13 +65,16 @@
 		<Command name="Catalog.Должности.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 		</Command>
-		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
-			<CommandGroup>CommandGroup.Справочники</CommandGroup>
-		</Command>
 		<Command name="Catalog.ГрафикиРаботыСотрудников.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 		</Command>
+		<Command name="InformationRegister.ГрафикиРаботыПредприятия.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
 		<Command name="InformationRegister.КадроваяИсторияСотрудников.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 		</Command>
 	</CommandsOrder>
