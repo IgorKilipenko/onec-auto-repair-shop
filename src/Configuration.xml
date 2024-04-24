@@ -278,11 +278,11 @@
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Персонал</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
 			<CommandGroup>НаличныеДеньги</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
-			<CommandGroup>Зарплата</CommandGroup>
-			<CommandGroup>БухгалтерскийУчет</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>

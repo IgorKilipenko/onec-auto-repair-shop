@@ -1,2 +1,1 @@
-﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿Modified: Configuration.Автосервис
