@@ -1,11 +1,4 @@
-﻿New: ChartOfCalculationTypes.Начисления
-New: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
-New: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
-New: ChartOfCalculationTypes.Начисления.Form.ФормаСписка
-New: ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form
-New: ChartOfCalculationTypes.Начисления.Predefined
+﻿New: CalculationRegister.Начисления
 Modified: Configuration.Автосервис
-Modified: Subsystem.Справочники
-Modified: Subsystem.Справочники.CommandInterface
 Modified: Subsystem.УправлениеПерсоналом
 Modified: Subsystem.УправлениеПерсоналом.CommandInterface
