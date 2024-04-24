@@ -31,9 +31,24 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
-		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
+		<Command name="Document.НачислениеЗарплаты.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.БольничныйЛист.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="Document.Премия.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
+		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
 			</Visibility>
 		</Command>
 	</CommandsVisibility>
@@ -62,6 +77,18 @@
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="Document.НачислениеЗарплаты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.БольничныйЛист.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
+		<Command name="Document.Премия.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
 			<Placement>Auto</Placement>
@@ -85,6 +112,15 @@
 		</Command>
 		<Command name="ChartOfCalculationTypes.Начисления.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
+		</Command>
+		<Command name="Document.НачислениеЗарплаты.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+		</Command>
+		<Command name="Document.БольничныйЛист.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
+		</Command>
+		<Command name="Document.Премия.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.Зарплата</CommandGroup>
 		</Command>
 		<Command name="CalculationRegister.Начисления.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Зарплата</CommandGroup>

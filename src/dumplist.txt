@@ -1,4 +1,9 @@
-﻿New: CalculationRegister.Начисления
+﻿New: CalculationRegister.Начисления.ManagerModule
+New: CalculationRegister.Начисления.RecordSetModule
+New: Document.БольничныйЛист
+New: Document.НачислениеЗарплаты
+New: Document.Премия
+Modified: CalculationRegister.Начисления
 Modified: Configuration.Автосервис
 Modified: Subsystem.УправлениеПерсоналом
 Modified: Subsystem.УправлениеПерсоналом.CommandInterface

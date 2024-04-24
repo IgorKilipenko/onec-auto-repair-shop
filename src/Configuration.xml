@@ -305,6 +305,9 @@
 			<Document>Реализация</Document>
 			<Document>ПриходныйКассовыйОрдер</Document>
 			<Document>РасходныйКассовыйОрдер</Document>
+			<Document>НачислениеЗарплаты</Document>
+			<Document>БольничныйЛист</Document>
+			<Document>Премия</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
