@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаНомерДата" id="47">
 			<Title>
@@ -94,6 +97,9 @@
 				<ContextMenu name="НачисленияУправлениеПоискомКонтекстноеМеню" id="27"/>
 				<ExtendedTooltip name="НачисленияУправлениеПоискомРасширеннаяПодсказка" id="28"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="OnStartEdit">НачисленияПриНачалеРедактирования</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="НачисленияНомерСтроки" id="29">
 					<DataPath>Объект.Начисления.LineNumber</DataPath>

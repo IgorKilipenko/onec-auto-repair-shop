@@ -1,12 +1,2 @@
-﻿New: Document.НачислениеЗарплаты.Form.ФормаДокумента
-New: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
-New: Document.НачислениеЗарплаты.Form.ФормаСписка
-New: Document.НачислениеЗарплаты.Form.ФормаСписка.Form
-New: Document.НачислениеЗарплаты.ManagerModule
-New: Document.НачислениеЗарплаты.ObjectModule
-Modified: CalculationRegister.Начисления
-Modified: Catalog.ГрафикиРаботыСотрудников
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
-Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
-Modified: Document.НачислениеЗарплаты
-Modified: InformationRegister.ГрафикиРаботыПредприятия
+﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
