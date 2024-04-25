@@ -1,2 +1,4 @@
-﻿Modified: CommonModule.ПроверкаТиповКлиентСервер
-Modified: CommonModule.ПроверкаТиповКлиентСервер.Module
+﻿New: ChartOfCalculationTypes.Начисления.ManagerModule
+Modified: ChartOfCalculationTypes.Начисления
+Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
+Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
