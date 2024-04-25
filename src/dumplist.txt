@@ -1,4 +1,4 @@
-﻿New: ChartOfCalculationTypes.Начисления.ManagerModule
-Modified: ChartOfCalculationTypes.Начисления
-Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета
-Modified: ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form
+﻿Modified: Document.Премия
+Modified: Document.Премия.Form.ФормаДокумента
+Modified: Document.Премия.Form.ФормаДокумента.Form
+Modified: Document.Премия.ObjectModule
