@@ -268,8 +268,8 @@
 			<Metadata name="Document.БольничныйЛист.Attribute.Комментарий" id="d8a4546e-1ad7-4754-bec6-2880a6ebb8e7"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.АвторДокумента" id="e294f448-9ca9-43ac-a3bc-315de540ac7a"/>
 		</Metadata>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="14d633ec-fafc-4223-89d1-3255fa15e36d" configVersion="27317243558486419f1749d29ddfde1100000000"/>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="14d633ec-fafc-4223-89d1-3255fa15e36d.0" configVersion="9581c8ab897a4a4da5780a30d00f7c4900000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="14d633ec-fafc-4223-89d1-3255fa15e36d" configVersion="1b40e5138cfdee4ab2f08f87e4c2049e00000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="14d633ec-fafc-4223-89d1-3255fa15e36d.0" configVersion="89f76707e39c0f4eb6d5d8f8b413c87500000000"/>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаСписка" id="5b78ad94-9d56-4714-a3b1-9164c5315cfa" configVersion="18e9b7b99a90104ea071f97c6a8b6b8100000000"/>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаСписка.Form" id="5b78ad94-9d56-4714-a3b1-9164c5315cfa.0" configVersion="d6a85c3fae24ee44a710310e2709536300000000"/>
 		<Metadata name="Document.БольничныйЛист.ObjectModule" id="6fe6163b-2945-443e-a8da-91dfa4413db2.0" configVersion="42c9b3e5277a2d40b959ea61eeb9385900000000"/>
@@ -317,8 +317,8 @@
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаНачала" id="be86eeb8-fcef-4115-8e92-87197e37d726"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаОкончания" id="e3bda271-f8de-4e61-8473-9c597ac6771f"/>
 		</Metadata>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="c51e8654-af19-4617-b2aa-4bc756dce742" configVersion="f6fd24773449f748b6de9fce56dd190300000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="c51e8654-af19-4617-b2aa-4bc756dce742.0" configVersion="22941606cb8b044cb59028e85917816900000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="c51e8654-af19-4617-b2aa-4bc756dce742" configVersion="876e78263a9ade43bce430ff77e4e5ea00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="c51e8654-af19-4617-b2aa-4bc756dce742.0" configVersion="35358efb8fef38448482bab03836cc4f00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаСписка" id="22f50eb2-be61-47e5-a63c-a333cf4d162a" configVersion="2ade7057164eb14987f2f9c26eda4c0000000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаСписка.Form" id="22f50eb2-be61-47e5-a63c-a333cf4d162a.0" configVersion="ec9ca479b7421b4e8dd624ffca2a56dd00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ManagerModule" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86.2" configVersion="616f239fd7ebc744a43c3e9172e26d8d00000000"/>
