@@ -51,6 +51,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПериодНачисленияКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ПериодНачисленияРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ПериодНачисленияПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Сотрудник" id="16">
 			<DataPath>Объект.Сотрудник</DataPath>

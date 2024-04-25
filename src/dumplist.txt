@@ -1,9 +1,4 @@
-﻿New: Document.БольничныйЛист.Form.ФормаДокумента
-New: Document.БольничныйЛист.Form.ФормаДокумента.Form
-New: Document.БольничныйЛист.Form.ФормаСписка
-New: Document.БольничныйЛист.Form.ФормаСписка.Form
-New: Document.БольничныйЛист.ObjectModule
-Modified: Document.БольничныйЛист
-Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿Modified: Document.БольничныйЛист
+Modified: Document.БольничныйЛист.Form.ФормаДокумента
+Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
+Modified: Document.БольничныйЛист.ObjectModule

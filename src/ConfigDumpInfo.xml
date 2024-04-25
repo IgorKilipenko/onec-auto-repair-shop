@@ -260,7 +260,7 @@
 		<Metadata name="Configuration.Автосервис.Splash" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.2" configVersion="4128d3ea2173c646be0e143c199916a300000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="55059317-58fd-4150-a31e-808a24e4bff1" configVersion="740c941556f9d7478911029bc619091e00000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="c2c9a73d-c5ef-40c4-855e-48bfa10714e8" configVersion="b1742080717d804ca5335f006ee0b28a00000000"/>
-		<Metadata name="Document.БольничныйЛист" id="6fe6163b-2945-443e-a8da-91dfa4413db2" configVersion="27ecb1613126484b966e573a0697f81400000000">
+		<Metadata name="Document.БольничныйЛист" id="6fe6163b-2945-443e-a8da-91dfa4413db2" configVersion="85c39a1e0a639b4c8bf3b742ed044dc100000000">
 			<Metadata name="Document.БольничныйЛист.Attribute.Сотрудник" id="19ee3ec1-0cb4-4cb6-8573-404630cc7970"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ДатаНачала" id="877339aa-e528-4e2e-815d-3464fbe87a11"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ПериодНачисления" id="a4281a07-f7f8-434f-bd9b-2a22f76e571e"/>
@@ -268,11 +268,11 @@
 			<Metadata name="Document.БольничныйЛист.Attribute.Комментарий" id="d8a4546e-1ad7-4754-bec6-2880a6ebb8e7"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.АвторДокумента" id="e294f448-9ca9-43ac-a3bc-315de540ac7a"/>
 		</Metadata>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="14d633ec-fafc-4223-89d1-3255fa15e36d" configVersion="dfa05c229b65b141bf17e8576d388ee900000000"/>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="14d633ec-fafc-4223-89d1-3255fa15e36d.0" configVersion="dde1628f571b94428cfc444b566d9d3300000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="14d633ec-fafc-4223-89d1-3255fa15e36d" configVersion="27317243558486419f1749d29ddfde1100000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="14d633ec-fafc-4223-89d1-3255fa15e36d.0" configVersion="9581c8ab897a4a4da5780a30d00f7c4900000000"/>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаСписка" id="5b78ad94-9d56-4714-a3b1-9164c5315cfa" configVersion="18e9b7b99a90104ea071f97c6a8b6b8100000000"/>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаСписка.Form" id="5b78ad94-9d56-4714-a3b1-9164c5315cfa.0" configVersion="d6a85c3fae24ee44a710310e2709536300000000"/>
-		<Metadata name="Document.БольничныйЛист.ObjectModule" id="6fe6163b-2945-443e-a8da-91dfa4413db2.0" configVersion="372bb531c6fbcc4a8f295258767c001f00000000"/>
+		<Metadata name="Document.БольничныйЛист.ObjectModule" id="6fe6163b-2945-443e-a8da-91dfa4413db2.0" configVersion="42c9b3e5277a2d40b959ea61eeb9385900000000"/>
 		<Metadata name="Document.ЗаказНаряд" id="08066604-93c9-484f-b36a-498693f1736b" configVersion="eb561c073c44f94a9aecbc7bce20425700000000">
 			<Metadata name="Document.ЗаказНаряд.TabularSection.МатериалыЗаказчика" id="1a6edf0b-33a6-4bd8-85d8-fd05e1e3d743"/>
 			<Metadata name="Document.ЗаказНаряд.TabularSection.Услуги.Attribute.Цена" id="2bb1307d-7ed9-45a3-a363-997cd4d846d0"/>
