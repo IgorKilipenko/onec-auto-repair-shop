@@ -1,1 +1,5 @@
-﻿Modified: Configuration.Автосервис
+﻿Modified: Document.НачислениеЗарплаты
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+Modified: Document.НачислениеЗарплаты.ManagerModule
+Modified: Document.НачислениеЗарплаты.ObjectModule
