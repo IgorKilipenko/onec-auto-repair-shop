@@ -1,4 +1,6 @@
-﻿Modified: Document.БольничныйЛист.Form.ФормаДокумента
-Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿New: Document.Премия.Form.ФормаДокумента
+New: Document.Премия.Form.ФормаДокумента.Form
+New: Document.Премия.Form.ФормаСписка
+New: Document.Премия.Form.ФормаСписка.Form
+New: Document.Премия.ObjectModule
+Modified: Document.Премия

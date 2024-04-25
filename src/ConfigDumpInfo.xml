@@ -351,7 +351,20 @@
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка.Form" id="e078e16e-929e-4ce4-a708-6f322b6bd443.0" configVersion="f98a4dfe2e9e974d9a37ca6743c3c82a00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.ManagerModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.2" configVersion="6ae99a99e011d7409ee7dd5b91d90f8c00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.0" configVersion="8fb6d56c5b761541b41c124ff7b7e4ef00000000"/>
-		<Metadata name="Document.Премия" id="f96696b2-bc81-4cb9-83af-c23104bf413d" configVersion="40b956ba4cc40d4bb624e62cf968ac2400000000"/>
+		<Metadata name="Document.Премия" id="f96696b2-bc81-4cb9-83af-c23104bf413d" configVersion="8aabdaecd3532446bb97fd1d497ce49100000000">
+			<Metadata name="Document.Премия.Attribute.ПериодНачисления" id="27f84182-61c3-442f-ad59-e71f02edb8a6"/>
+			<Metadata name="Document.Премия.Attribute.АвторДокумента" id="68af8884-e0b2-406a-9b54-2917b6d885e3"/>
+			<Metadata name="Document.Премия.TabularSection.Начисления.Attribute.Сотрудник" id="6b58cd49-8c20-440f-b612-33a76b0ba7e2"/>
+			<Metadata name="Document.Премия.TabularSection.Начисления.Attribute.ПоказательРасчета" id="6e3ec147-e6df-418e-9524-52c46dbf3b03"/>
+			<Metadata name="Document.Премия.TabularSection.Начисления.Attribute.ВидРасчета" id="824108b9-979c-487c-a40d-71f44df3eb93"/>
+			<Metadata name="Document.Премия.TabularSection.Начисления" id="c5a36982-7c35-4745-ad04-327a2711a83b"/>
+			<Metadata name="Document.Премия.Attribute.Комментарий" id="dfeef781-98ec-417d-97e0-e981b04faadb"/>
+		</Metadata>
+		<Metadata name="Document.Премия.Form.ФормаДокумента" id="5bdb2830-1dd0-4b24-a476-e82fbeedbdcd" configVersion="cb1361a8bf053c409ab5d477d698fcfb00000000"/>
+		<Metadata name="Document.Премия.Form.ФормаДокумента.Form" id="5bdb2830-1dd0-4b24-a476-e82fbeedbdcd.0" configVersion="2a968c2c10c44a408d5e038ed0ee473500000000"/>
+		<Metadata name="Document.Премия.Form.ФормаСписка" id="30e6e004-a97a-4468-8763-6cbe0c0044e1" configVersion="b65bfb84f4a72c4483ac35257306358300000000"/>
+		<Metadata name="Document.Премия.Form.ФормаСписка.Form" id="30e6e004-a97a-4468-8763-6cbe0c0044e1.0" configVersion="15ef1698bd1dc44680212fbc93cf8d6b00000000"/>
+		<Metadata name="Document.Премия.ObjectModule" id="f96696b2-bc81-4cb9-83af-c23104bf413d.0" configVersion="b8c49d5afa0a544da16c827a2568602100000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер" id="4a397217-c70e-4824-bcf0-89d7a7627eec" configVersion="86ee0f86e5b5cc4989934a423d4bd60a00000000">
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.Плательщик" id="38d3d154-7e5e-48c5-a9be-03c03f9a9372"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.ВидОперации" id="80ab4b02-9fc2-444f-b65e-b8a94fd01f50"/>
