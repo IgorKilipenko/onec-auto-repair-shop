@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСРеквизитами
-Modified: CommonModule.РаботаСРеквизитами.Module
+﻿Modified: ChartOfCalculationTypes.Начисления
+Modified: ChartOfCalculationTypes.Начисления.ManagerModule

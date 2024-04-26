@@ -200,7 +200,7 @@
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаСписка.Form" id="3476ac55-a968-445f-a111-cc0d7fe41fb7.0" configVersion="045043a566928745bfef6e2ebc131e9000000000"/>
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента" id="9b6b95be-ad68-44f2-b83a-d300f90d1086" configVersion="3e258243857c77489ee88544a7c29b8d00000000"/>
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента.Form" id="9b6b95be-ad68-44f2-b83a-d300f90d1086.0" configVersion="22382cb57a74c94a9590ac4989ac1f6e00000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления" id="0ec24b8c-181e-4c4a-9328-1d4028c69075" configVersion="dbda9e7551c9ca42a44dd1431e01b31000000000">
+		<Metadata name="ChartOfCalculationTypes.Начисления" id="0ec24b8c-181e-4c4a-9328-1d4028c69075" configVersion="09cdc98d55baf048ba2a3bbe15846b5500000000">
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="1e10ef91-79b3-470a-a26b-d0ca76ce6eb9"/>
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="d9dfd9f4-2913-443e-aadf-f707b9ac95db"/>
 		</Metadata>
@@ -208,7 +208,7 @@
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="92f03a1a-fb50-4fdc-85d9-0725c4351d01.0" configVersion="72c6efa6648c3944adfcd9c0d6b002af00000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка" id="a7637474-b95f-42ba-bf99-6ba81c7313e2" configVersion="ef17a39dc1f2d04ba039d1ee6a8d9a9300000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form" id="a7637474-b95f-42ba-bf99-6ba81c7313e2.0" configVersion="afb044e1fb780640a28fc562c5ce906500000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления.ManagerModule" id="0ec24b8c-181e-4c4a-9328-1d4028c69075.3" configVersion="b058831f947bc248a47e65b76410218300000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.ManagerModule" id="0ec24b8c-181e-4c4a-9328-1d4028c69075.3" configVersion="8638478666217345810bd3acc858139600000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Predefined" id="0ec24b8c-181e-4c4a-9328-1d4028c69075.2" configVersion="d7653d03d98e714685354dcd06da092200000000"/>
 		<Metadata name="CommandGroup.БухгалтерскийУчет" id="7b870756-dfe9-4cd7-8d24-86bb2ded737a" configVersion="67dba7fe7ccf4d428f130d82debba80e00000000"/>
 		<Metadata name="CommandGroup.Зарплата" id="364c941d-1987-4859-acb2-625ce1695191" configVersion="3454fe25d9fba34d839d88c90b3daf4e00000000"/>
