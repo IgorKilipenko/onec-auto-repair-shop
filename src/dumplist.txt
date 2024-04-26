@@ -1,2 +1,5 @@
-﻿Modified: Document.Премия
-Modified: Document.Премия.ObjectModule
+﻿New: Report.ОтчетПоНачислениюЗаработнойПлаты
+New: Report.ОтчетПоНачислениюЗаработнойПлаты.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоНачислениюЗаработнойПлаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Автосервис
+Modified: Subsystem.УправлениеПерсоналом

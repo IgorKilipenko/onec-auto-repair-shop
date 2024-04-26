@@ -324,6 +324,7 @@
 			<Report>ДвижениеНаличныхДенег</Report>
 			<Report>ФинансовыйРезультат</Report>
 			<Report>МатериалыЗаказчика</Report>
+			<Report>ОтчетПоНачислениюЗаработнойПлаты</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
