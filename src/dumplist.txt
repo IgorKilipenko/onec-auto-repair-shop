@@ -1,2 +1,2 @@
-﻿Modified: ChartOfCalculationTypes.Начисления
-Modified: ChartOfCalculationTypes.Начисления.ManagerModule
+﻿Modified: Document.Премия
+Modified: Document.Премия.ObjectModule
