@@ -1,4 +1,2 @@
-﻿Modified: Document.Премия
-Modified: Document.Премия.Form.ФормаДокумента
-Modified: Document.Премия.Form.ФормаДокумента.Form
-Modified: Document.Премия.ObjectModule
+﻿Modified: CommonModule.РаботаСРеквизитами
+Modified: CommonModule.РаботаСРеквизитами.Module
