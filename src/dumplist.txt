@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Номенклатура
-Modified: Catalog.Номенклатура.ObjectModule
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.ManagerModule
