@@ -6,15 +6,27 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="ChartOfAccounts.Хозрасчетный.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="ChartOfAccounts.Хозрасчетный.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
 		<Command name="ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
+		</Command>
+		<Command name="ChartOfAccounts.Хозрасчетный.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
 		</Command>
 	</CommandsOrder>

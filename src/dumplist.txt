@@ -1,5 +1,5 @@
-﻿New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
-New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
-New: Subsystem.БухгалтерскийУчет
-New: Subsystem.БухгалтерскийУчет.CommandInterface
+﻿New: ChartOfAccounts.Хозрасчетный
+New: ChartOfAccounts.Хозрасчетный.Predefined
 Modified: Configuration.Автосервис
+Modified: Subsystem.БухгалтерскийУчет
+Modified: Subsystem.БухгалтерскийУчет.CommandInterface
