@@ -248,8 +248,9 @@
 			<Language>Русский</Language>
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Покупки</Subsystem>
-			<Subsystem>ДенежныеСредства</Subsystem>
 			<Subsystem>УправлениеПерсоналом</Subsystem>
+			<Subsystem>ДенежныеСредства</Subsystem>
+			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>СервисИНастройки</Subsystem>
 			<Style>Автосервис</Style>
@@ -335,6 +336,7 @@
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>МатериалыЗаказчиков</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
+			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
 			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
 			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>

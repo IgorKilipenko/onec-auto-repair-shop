@@ -1,5 +1,5 @@
-﻿New: Report.ОтчетПоНачислениюЗаработнойПлаты
-New: Report.ОтчетПоНачислениюЗаработнойПлаты.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоНачислениюЗаработнойПлаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
+New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
+New: Subsystem.БухгалтерскийУчет
+New: Subsystem.БухгалтерскийУчет.CommandInterface
 Modified: Configuration.Автосервис
-Modified: Subsystem.УправлениеПерсоналом
