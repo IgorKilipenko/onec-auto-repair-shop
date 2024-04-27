@@ -129,15 +129,16 @@
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаСписка.Form" id="0a9478c5-f94b-489c-a771-5a1228274c9b.0" configVersion="773a847246d7554a98e48e05ffed4c2f00000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаЭлемента" id="c2e61383-8281-4f49-ab9d-216f7a14b2b3" configVersion="fc94089db85fcc4da32873de7573303500000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаЭлемента.Form" id="c2e61383-8281-4f49-ab9d-216f7a14b2b3.0" configVersion="372ac6c9faa03d40af233fd4f2320fa200000000"/>
-		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="5c5cee65f5f2ea4383d0db87f35454f600000000">
+		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="4256d2f9d096814d897cc55ab553510a00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="4b3b2ff9-620d-4b1e-8fc3-9d09565f77d0"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ДлительностьУслуги" id="54d554c6-b5f4-42a5-b058-59721c2467e3"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.СчетБухгалтерскогоУчета" id="cde0bfa6-1f48-4f1e-b576-25885342d072"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="d897ee64-fe22-4104-bfe1-142273af61ec"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="18166158-7adf-4225-932b-e75c21bfee6d" configVersion="80002605797edb40bbeac9db3667495000000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="18166158-7adf-4225-932b-e75c21bfee6d.0" configVersion="d7d8656fe08b314888c9698b4b646b3000000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="efc7dca18a921d43bd3aaf4561f9e1f600000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="8bf680cff06ba643b9222ce48eac451a00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="757e3a06de960a48bbc17dbb7348ab4f00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="f0b9ed73b6eb2242b3d6f6bd1ba6f94b00000000"/>
 		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="c6949a8713ce56408b03d006a4db4b7c00000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="acca1f51839aa1488c562e2de151cae700000000"/>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.1c" configVersion="19559a725261b44a96814d1bff80573100000000"/>
@@ -227,6 +228,8 @@
 		<Metadata name="CommandGroup.Покупки" id="454cd24c-b4fe-4abc-a102-b0d049685f29" configVersion="8014d57387fb8c40adc382d61452fa3200000000"/>
 		<Metadata name="CommandGroup.Продажи" id="2f1b7015-b7d0-42cf-9db8-a1c69bb7ccd6" configVersion="19d9109bd668724e8c3904d442b992a900000000"/>
 		<Metadata name="CommandGroup.Справочники" id="e2c0f1f5-1d8b-49f2-a1af-10561346d66c" configVersion="20b97310829f474eb05367aa1cf8ecf900000000"/>
+		<Metadata name="CommonModule.БухгалтерскийУчет" id="1daf58bb-20a2-44c3-b57d-a0f3939af7ff" configVersion="afee959969612742bec9971f8fdcc67900000000"/>
+		<Metadata name="CommonModule.БухгалтерскийУчет.Module" id="1daf58bb-20a2-44c3-b57d-a0f3939af7ff.0" configVersion="28194fa15c3e034aa4ee581bf564d62600000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="568f4f18-3e27-45d7-beb1-86bfcddf14da" configVersion="7aa67994b349b348894e317e3ba4ad3500000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="568f4f18-3e27-45d7-beb1-86bfcddf14da.0" configVersion="96fd5d634661084a817fa8280fa55e1c00000000"/>
 		<Metadata name="CommonModule.ПроверкаТиповКлиентСервер" id="48298f7e-6a48-41a2-acff-e6150b6f4d66" configVersion="46aad0947534534b9f944b7b64af181700000000"/>
@@ -259,7 +262,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="6d9825bcead56f4498e3e839537ec35d00000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="c4c96d084e47f74c8675491c1606ff9a00000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>

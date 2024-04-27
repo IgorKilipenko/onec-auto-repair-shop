@@ -274,6 +274,7 @@
 			<CommonModule>ПроверкаТиповКлиентСервер</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
 			<CommonModule>РаботаСЗапросами</CommonModule>
+			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
