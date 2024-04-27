@@ -1,11 +1,2 @@
-﻿New: AccountingRegister.Хозрасчетный
-Modified: Configuration.Автосервис
-Modified: Document.БольничныйЛист
-Modified: Document.НачислениеЗарплаты
-Modified: Document.ПоступлениеТоваровИУслуг
-Modified: Document.Премия
-Modified: Document.ПриходныйКассовыйОрдер
-Modified: Document.РасходныйКассовыйОрдер
-Modified: Document.Реализация
-Modified: Subsystem.БухгалтерскийУчет
-Modified: Subsystem.БухгалтерскийУчет.CommandInterface
+﻿New: ChartOfAccounts.Хозрасчетный.ManagerModule
+Modified: ChartOfAccounts.Хозрасчетный

@@ -204,7 +204,8 @@
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаСписка.Form" id="3476ac55-a968-445f-a111-cc0d7fe41fb7.0" configVersion="045043a566928745bfef6e2ebc131e9000000000"/>
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента" id="9b6b95be-ad68-44f2-b83a-d300f90d1086" configVersion="3e258243857c77489ee88544a7c29b8d00000000"/>
 		<Metadata name="Catalog.ЦветаАвтомобилей.Form.ФормаЭлемента.Form" id="9b6b95be-ad68-44f2-b83a-d300f90d1086.0" configVersion="22382cb57a74c94a9590ac4989ac1f6e00000000"/>
-		<Metadata name="ChartOfAccounts.Хозрасчетный" id="8236c6d2-bc61-48b5-8804-8d59f8a2a647" configVersion="d48d64920589f8438560b211857dfdfb00000000"/>
+		<Metadata name="ChartOfAccounts.Хозрасчетный" id="8236c6d2-bc61-48b5-8804-8d59f8a2a647" configVersion="959f4f5d441d2740973fc3d1084da7be00000000"/>
+		<Metadata name="ChartOfAccounts.Хозрасчетный.ManagerModule" id="8236c6d2-bc61-48b5-8804-8d59f8a2a647.15" configVersion="129ff57997da4b438917ea3ac23202c300000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.Predefined" id="8236c6d2-bc61-48b5-8804-8d59f8a2a647.9" configVersion="518268ce5f47b0439f22cf275d6748e200000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления" id="0ec24b8c-181e-4c4a-9328-1d4028c69075" configVersion="09cdc98d55baf048ba2a3bbe15846b5500000000">
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="1e10ef91-79b3-470a-a26b-d0ca76ce6eb9"/>
