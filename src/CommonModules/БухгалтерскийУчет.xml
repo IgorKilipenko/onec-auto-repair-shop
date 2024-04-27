@@ -11,8 +11,8 @@
 			</Synonym>
 			<Comment/>
 			<Global>false</Global>
-			<ClientManagedApplication>true</ClientManagedApplication>
-			<Server>false</Server>
+			<ClientManagedApplication>false</ClientManagedApplication>
+			<Server>true</Server>
 			<ExternalConnection>true</ExternalConnection>
 			<ClientOrdinaryApplication>false</ClientOrdinaryApplication>
 			<ServerCall>false</ServerCall>

@@ -1,6 +1,1 @@
-﻿New: CommonModule.БухгалтерскийУчет
-New: CommonModule.БухгалтерскийУчет.Module
-Modified: Catalog.Номенклатура
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента
-Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
-Modified: Configuration.Автосервис
+﻿Modified: CommonModule.БухгалтерскийУчет
