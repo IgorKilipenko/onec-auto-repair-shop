@@ -130,7 +130,7 @@
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаСписка.Form" id="0a9478c5-f94b-489c-a771-5a1228274c9b.0" configVersion="773a847246d7554a98e48e05ffed4c2f00000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаЭлемента" id="c2e61383-8281-4f49-ab9d-216f7a14b2b3" configVersion="fc94089db85fcc4da32873de7573303500000000"/>
 		<Metadata name="Catalog.МоделиАвтомобилей.Form.ФормаЭлемента.Form" id="c2e61383-8281-4f49-ab9d-216f7a14b2b3.0" configVersion="372ac6c9faa03d40af233fd4f2320fa200000000"/>
-		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="4256d2f9d096814d897cc55ab553510a00000000">
+		<Metadata name="Catalog.Номенклатура" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8" configVersion="304fdf40d3c9a842b527a45cd2df289700000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="4b3b2ff9-620d-4b1e-8fc3-9d09565f77d0"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ДлительностьУслуги" id="54d554c6-b5f4-42a5-b058-59721c2467e3"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.СчетБухгалтерскогоУчета" id="cde0bfa6-1f48-4f1e-b576-25885342d072"/>
@@ -138,10 +138,10 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="18166158-7adf-4225-932b-e75c21bfee6d" configVersion="80002605797edb40bbeac9db3667495000000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="18166158-7adf-4225-932b-e75c21bfee6d.0" configVersion="d7d8656fe08b314888c9698b4b646b3000000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="757e3a06de960a48bbc17dbb7348ab4f00000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="f0b9ed73b6eb2242b3d6f6bd1ba6f94b00000000"/>
-		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="c6949a8713ce56408b03d006a4db4b7c00000000"/>
-		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="acca1f51839aa1488c562e2de151cae700000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="7fd65273-b9ee-4779-9205-fe4630b752bf" configVersion="c90f6b7be9bd194b8188cd8c113b086f00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="7fd65273-b9ee-4779-9205-fe4630b752bf.0" configVersion="98da35ce7100e44f908f519496bfebee00000000"/>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.3" configVersion="704ab237a8257840af0c0103aa409ddc00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.0" configVersion="40cb131e9c2ee24f9b121e8d71540bb500000000"/>
 		<Metadata name="Catalog.Номенклатура.Predefined" id="692c77d8-cd71-4cbe-aa34-d2c118b676d8.1c" configVersion="19559a725261b44a96814d1bff80573100000000"/>
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта" id="c85dffc5-cca6-4d9b-909d-cf048d9a9091" configVersion="85102a68bdb7854292007570ca2d04fc00000000"/>
 		<Metadata name="Catalog.ОписанияЦветовДляТехпаспорта.Form.ФормаСписка" id="1c54dc11-de0d-4b1d-9eb6-46762e73ad66" configVersion="0bbb10163b1f6245a353330be5f6673100000000"/>

@@ -1,2 +1,5 @@
-﻿New: AccountingRegister.Хозрасчетный.ManagerModule
-Modified: AccountingRegister.Хозрасчетный
+﻿Modified: Catalog.Номенклатура
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента
+Modified: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+Modified: Catalog.Номенклатура.ManagerModule
+Modified: Catalog.Номенклатура.ObjectModule

@@ -52,8 +52,13 @@
 		<InputField name="СчетБухгалтерскогоУчета" id="19">
 			<DataPath>Объект.СчетБухгалтерскогоУчета</DataPath>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceHistoryOnInput>DontUse</ChoiceHistoryOnInput>
 			<ContextMenu name="СчетБухгалтерскогоУчетаКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="СчетБухгалтерскогоУчетаРасширеннаяПодсказка" id="21"/>
+			<Events>
+				<Event name="OnChange">СчетБухгалтерскогоУчетаПриИзменении</Event>
+				<Event name="StartChoice">СчетБухгалтерскогоУчетаНачалоВыбора</Event>
+			</Events>
 		</InputField>
 		<InputField name="ДлительностьУслуги" id="16">
 			<DataPath>Объект.ДлительностьУслуги</DataPath>
