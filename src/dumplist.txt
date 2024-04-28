@@ -1,2 +1,4 @@
-﻿Modified: CommonModule.БухгалтерскийУчет
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.ManagerModule
+Modified: CommonModule.БухгалтерскийУчет
 Modified: CommonModule.БухгалтерскийУчет.Module
