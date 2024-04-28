@@ -1,4 +1,3 @@
-﻿Modified: AccountingRegister.Хозрасчетный
-Modified: AccountingRegister.Хозрасчетный.ManagerModule
-Modified: CommonModule.БухгалтерскийУчет
-Modified: CommonModule.БухгалтерскийУчет.Module
+﻿Modified: Document.ПоступлениеТоваровИУслуг
+Modified: Document.ПоступлениеТоваровИУслуг.ManagerModule
+Modified: Document.ПоступлениеТоваровИУслуг.ObjectModule

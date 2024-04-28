@@ -337,7 +337,7 @@
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаСписка.Form" id="22f50eb2-be61-47e5-a63c-a333cf4d162a.0" configVersion="ec9ca479b7421b4e8dd624ffca2a56dd00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ManagerModule" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86.2" configVersion="616f239fd7ebc744a43c3e9172e26d8d00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86.0" configVersion="db6645ece6c98447b845b6cdf744e07e00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="a638cfed1b5f9249843152d23449222f00000000">
+		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="9c16d6af06a49848ac80d59f3933710a00000000">
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Цена" id="03ee831c-8a79-4ffb-9a84-f15c6529cccd"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги" id="2085232d-fabb-433b-8cf7-b0b1c6e1d4b4"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги.Attribute.СтатьяЗатрат" id="231c3cd0-e9df-460e-a052-1cd1c0fa15cf"/>
@@ -363,8 +363,8 @@
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form" id="14e51a19-902b-4a23-9d45-4de69cf15ddf.0" configVersion="69de708186bdbd43a0bab3e5995f500500000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка" id="e078e16e-929e-4ce4-a708-6f322b6bd443" configVersion="7cf9189ed4703f4f83361bd26a30885c00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг.Form.ФормаСписка.Form" id="e078e16e-929e-4ce4-a708-6f322b6bd443.0" configVersion="f98a4dfe2e9e974d9a37ca6743c3c82a00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг.ManagerModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.2" configVersion="f10a4da1a3a7984c9b1d6add3c56b4e800000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.0" configVersion="92895ee5c6a62441a1bd552c858fde2100000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИУслуг.ManagerModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.2" configVersion="513ce3201b18ab46b0d40e58316ade6600000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИУслуг.ObjectModule" id="78c013bc-07c0-449b-b1a7-0d77256b4f51.0" configVersion="61f64c5d3e32224aab2a47ba7ae7772500000000"/>
 		<Metadata name="Document.Премия" id="f96696b2-bc81-4cb9-83af-c23104bf413d" configVersion="d8451a28cb65a84caedf3b91a039c3f200000000">
 			<Metadata name="Document.Премия.Attribute.ПериодНачисления" id="27f84182-61c3-442f-ad59-e71f02edb8a6"/>
 			<Metadata name="Document.Премия.Attribute.АвторДокумента" id="68af8884-e0b2-406a-9b54-2917b6d885e3"/>
