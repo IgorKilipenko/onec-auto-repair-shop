@@ -1,2 +1,5 @@
-﻿Modified: AccountingRegister.Хозрасчетный
-Modified: AccountingRegister.Хозрасчетный.ManagerModule
+﻿Modified: Document.Реализация
+Modified: Document.Реализация.Form.ФормаДокумента
+Modified: Document.Реализация.Form.ФормаДокумента.Form
+Modified: Document.Реализация.ManagerModule
+Modified: Document.Реализация.ObjectModule
