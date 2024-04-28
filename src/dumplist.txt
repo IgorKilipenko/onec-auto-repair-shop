@@ -1,5 +1,2 @@
-﻿Modified: Document.ПоступлениеТоваровИУслуг
-Modified: Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента.Form
-Modified: Document.ПоступлениеТоваровИУслуг.ManagerModule
-Modified: Document.ПоступлениеТоваровИУслуг.ObjectModule
+﻿Modified: CommonModule.БухгалтерскийУчет
+Modified: CommonModule.БухгалтерскийУчет.Module

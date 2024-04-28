@@ -229,8 +229,8 @@
 		<Metadata name="CommandGroup.Покупки" id="454cd24c-b4fe-4abc-a102-b0d049685f29" configVersion="8014d57387fb8c40adc382d61452fa3200000000"/>
 		<Metadata name="CommandGroup.Продажи" id="2f1b7015-b7d0-42cf-9db8-a1c69bb7ccd6" configVersion="19d9109bd668724e8c3904d442b992a900000000"/>
 		<Metadata name="CommandGroup.Справочники" id="e2c0f1f5-1d8b-49f2-a1af-10561346d66c" configVersion="20b97310829f474eb05367aa1cf8ecf900000000"/>
-		<Metadata name="CommonModule.БухгалтерскийУчет" id="1daf58bb-20a2-44c3-b57d-a0f3939af7ff" configVersion="49cc3aaa04113041a1506cc5959ed9ab00000000"/>
-		<Metadata name="CommonModule.БухгалтерскийУчет.Module" id="1daf58bb-20a2-44c3-b57d-a0f3939af7ff.0" configVersion="28194fa15c3e034aa4ee581bf564d62600000000"/>
+		<Metadata name="CommonModule.БухгалтерскийУчет" id="1daf58bb-20a2-44c3-b57d-a0f3939af7ff" configVersion="1cd60897eb1d2c4487aae3fa9ce1080c00000000"/>
+		<Metadata name="CommonModule.БухгалтерскийУчет.Module" id="1daf58bb-20a2-44c3-b57d-a0f3939af7ff.0" configVersion="de433eaee5b1a140afe7b53503b8e7bb00000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="568f4f18-3e27-45d7-beb1-86bfcddf14da" configVersion="7aa67994b349b348894e317e3ba4ad3500000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="568f4f18-3e27-45d7-beb1-86bfcddf14da.0" configVersion="96fd5d634661084a817fa8280fa55e1c00000000"/>
 		<Metadata name="CommonModule.ПроверкаТиповКлиентСервер" id="48298f7e-6a48-41a2-acff-e6150b6f4d66" configVersion="46aad0947534534b9f944b7b64af181700000000"/>
