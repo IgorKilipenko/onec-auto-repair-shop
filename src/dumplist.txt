@@ -1,3 +1,2 @@
-﻿Modified: Document.ПоступлениеТоваровИУслуг
-Modified: Document.ПоступлениеТоваровИУслуг.ManagerModule
-Modified: Document.ПоступлениеТоваровИУслуг.ObjectModule
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.ManagerModule
