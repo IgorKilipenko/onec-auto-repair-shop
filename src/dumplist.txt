@@ -1,5 +1,2 @@
-﻿Modified: Document.Реализация
-Modified: Document.Реализация.Form.ФормаДокумента
-Modified: Document.Реализация.Form.ФормаДокумента.Form
-Modified: Document.Реализация.ManagerModule
-Modified: Document.Реализация.ObjectModule
+﻿Modified: Document.ЗаказНаряд.Form.ФормаДокумента
+Modified: Document.ЗаказНаряд.Form.ФормаДокумента.Form

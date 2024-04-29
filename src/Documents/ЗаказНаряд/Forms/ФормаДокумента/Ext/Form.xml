@@ -421,6 +421,7 @@
 				</InputField>
 				<InputField name="АвторДокумента" id="43">
 					<DataPath>Объект.АвторДокумента</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="АвторДокументаКонтекстноеМеню" id="44"/>
