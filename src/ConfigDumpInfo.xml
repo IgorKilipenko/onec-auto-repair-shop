@@ -237,8 +237,8 @@
 		<Metadata name="CommonModule.ПроверкаТиповКлиентСервер.Module" id="48298f7e-6a48-41a2-acff-e6150b6f4d66.0" configVersion="cc2f38be9f113e49a2078c9b28068ca500000000"/>
 		<Metadata name="CommonModule.РаботаСЗапросами" id="961a5f8d-b300-4108-a7fd-f1a07f432b82" configVersion="fc48c5904081a947bcb0600762bd5e7300000000"/>
 		<Metadata name="CommonModule.РаботаСЗапросами.Module" id="961a5f8d-b300-4108-a7fd-f1a07f432b82.0" configVersion="56589d84756c7342977c454d4c1f943e00000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="fb134f1b-24b4-4b10-a258-7dc87f0f985f" configVersion="8c2561659d2f744b8821edb6624aa64a00000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="fb134f1b-24b4-4b10-a258-7dc87f0f985f.0" configVersion="840718d19bce61439d321572adb25ba400000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="fb134f1b-24b4-4b10-a258-7dc87f0f985f" configVersion="daa24dbcb23f26438a98af20cfdd04fd00000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="fb134f1b-24b4-4b10-a258-7dc87f0f985f.0" configVersion="e93c8253a4d3004e9cb077271fb2a5be00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="3ea4c4d4-f9a5-485d-99ce-bb4e7d9291b2" configVersion="729fadc882bb4e4694ee16dd509df94c00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными.Module" id="3ea4c4d4-f9a5-485d-99ce-bb4e7d9291b2.0" configVersion="5493aafd837133449a7c01702c2ab06f00000000"/>
 		<Metadata name="CommonModule.РаботаСРеквизитами" id="f85ede55-4962-4e9f-8614-1ec853e4456a" configVersion="17585bac92ba55459d93ae1950b68f9800000000"/>

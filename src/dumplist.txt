@@ -1,2 +1,2 @@
-﻿Modified: Document.Реализация
-Modified: Document.Реализация.ObjectModule
+﻿Modified: CommonModule.РаботаСКоллекциямиКлиентСервер
+Modified: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
