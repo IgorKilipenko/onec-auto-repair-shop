@@ -1,2 +1,3 @@
-﻿Modified: CommonModule.РаботаСКоллекциямиКлиентСервер
-Modified: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
+﻿New: AccountingRegister.Хозрасчетный.RecordSetModule
+Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.ManagerModule
