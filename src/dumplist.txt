@@ -1,2 +1,8 @@
-﻿Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.ObjectModule
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.RecordSetModule
+Modified: CalculationRegister.Начисления
+Modified: CalculationRegister.Начисления.ManagerModule
+Modified: Document.Премия
+Modified: Document.Премия.Form.ФормаДокумента
+Modified: Document.Премия.Form.ФормаДокумента.Form
+Modified: Document.Премия.ObjectModule
