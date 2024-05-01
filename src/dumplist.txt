@@ -1,2 +1,2 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.RecordSetModule
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.RecordSetModule
