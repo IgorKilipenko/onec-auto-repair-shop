@@ -1,3 +1,4 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.ManagerModule
-Modified: CalculationRegister.Начисления.RecordSetModule
+﻿Modified: Document.БольничныйЛист
+Modified: Document.БольничныйЛист.Form.ФормаДокумента
+Modified: Document.БольничныйЛист.Form.ФормаДокумента.Form
+Modified: Document.БольничныйЛист.ObjectModule
