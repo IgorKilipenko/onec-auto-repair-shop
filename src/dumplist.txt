@@ -1,2 +1,4 @@
-﻿Modified: AccountingRegister.Хозрасчетный
-Modified: AccountingRegister.Хозрасчетный.RecordSetModule
+﻿Modified: Document.НачислениеЗарплаты
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
+Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+Modified: Document.НачислениеЗарплаты.ObjectModule
