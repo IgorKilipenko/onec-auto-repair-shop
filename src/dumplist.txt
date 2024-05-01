@@ -1,5 +1,2 @@
-﻿New: Document.ПриходныйКассовыйОрдер.ManagerModule
-Modified: Document.ПриходныйКассовыйОрдер
-Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента
-Modified: Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form
+﻿Modified: Document.ПриходныйКассовыйОрдер
 Modified: Document.ПриходныйКассовыйОрдер.ObjectModule

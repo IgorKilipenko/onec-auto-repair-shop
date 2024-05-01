@@ -380,7 +380,7 @@
 		<Metadata name="Document.Премия.Form.ФормаСписка" id="30e6e004-a97a-4468-8763-6cbe0c0044e1" configVersion="b65bfb84f4a72c4483ac35257306358300000000"/>
 		<Metadata name="Document.Премия.Form.ФормаСписка.Form" id="30e6e004-a97a-4468-8763-6cbe0c0044e1.0" configVersion="15ef1698bd1dc44680212fbc93cf8d6b00000000"/>
 		<Metadata name="Document.Премия.ObjectModule" id="f96696b2-bc81-4cb9-83af-c23104bf413d.0" configVersion="09c112ce04a1a2419296458d7be12a1200000000"/>
-		<Metadata name="Document.ПриходныйКассовыйОрдер" id="4a397217-c70e-4824-bcf0-89d7a7627eec" configVersion="99dd04f09353ce41ab998e0e2c5679c000000000">
+		<Metadata name="Document.ПриходныйКассовыйОрдер" id="4a397217-c70e-4824-bcf0-89d7a7627eec" configVersion="27391a745333af4488a11f8e647ed5a700000000">
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.Плательщик" id="38d3d154-7e5e-48c5-a9be-03c03f9a9372"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.ВидОперации" id="80ab4b02-9fc2-444f-b65e-b8a94fd01f50"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.Касса" id="8df3d989-0f1b-4f2d-aa59-a4c4e15731c6"/>
@@ -395,7 +395,7 @@
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаСписка" id="377927f4-56dc-4cf0-87cb-b2a932104854" configVersion="1bee7dbeacbb214289c57117ec10ac6700000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаСписка.Form" id="377927f4-56dc-4cf0-87cb-b2a932104854.0" configVersion="f5e76ba31f3e9b499836765b6c0c00bf00000000"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.ManagerModule" id="4a397217-c70e-4824-bcf0-89d7a7627eec.2" configVersion="f6ab395c3ab80443a7b2e610280c551400000000"/>
-		<Metadata name="Document.ПриходныйКассовыйОрдер.ObjectModule" id="4a397217-c70e-4824-bcf0-89d7a7627eec.0" configVersion="ad04a81ea807e54fa29b5422c23b53dd00000000"/>
+		<Metadata name="Document.ПриходныйКассовыйОрдер.ObjectModule" id="4a397217-c70e-4824-bcf0-89d7a7627eec.0" configVersion="a8513613b2909749bed1abbb3bd618c700000000"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер" id="28c4157b-fe7a-4194-bc33-c9148eb96925" configVersion="4e83f6ad7381484890c92bc743b0919f00000000">
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.ДокументОснование" id="117e457f-1b5d-4e2a-a37f-0501eb879b13"/>
 			<Metadata name="Document.РасходныйКассовыйОрдер.Attribute.Комментарий" id="6eefa153-e322-4ae4-8e2f-a8fe78659c24"/>
