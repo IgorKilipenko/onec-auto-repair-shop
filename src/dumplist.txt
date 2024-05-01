@@ -1,2 +1,2 @@
-﻿Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.ObjectModule
+﻿Modified: Document.БольничныйЛист
+Modified: Document.БольничныйЛист.ObjectModule
