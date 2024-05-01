@@ -320,7 +320,7 @@
 		<Metadata name="Document.ЗаказНаряд.ObjectModule" id="08066604-93c9-484f-b36a-498693f1736b.0" configVersion="045ebf2e5905f448a25b3b0c74c7a9e300000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать" id="66fc50dd-6598-4362-bf6c-f68582a4de7b" configVersion="b5e564a808eed048af733fae3912f6d200000000"/>
 		<Metadata name="Document.ЗаказНаряд.Template.Печать.Template" id="66fc50dd-6598-4362-bf6c-f68582a4de7b.0" configVersion="eb22d511c70db447b42013eb0a4825ec00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86" configVersion="0726486099eb044c8624d5a9667198fa00000000">
+		<Metadata name="Document.НачислениеЗарплаты" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86" configVersion="be69c548ae7ef14b98ebc9758454b78b00000000">
 			<Metadata name="Document.НачислениеЗарплаты.Attribute.АвторДокумента" id="0585b7c7-0fdd-4365-bae2-152c0b15300c"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ГрафикРаботы" id="0970a4ed-b9fb-4aed-b9f5-1fb532f28f60"/>
 			<Metadata name="Document.НачислениеЗарплаты.Attribute.ПериодНачисления" id="0b2c64ad-7ed5-4674-aba0-af9cb533644c"/>
@@ -337,7 +337,7 @@
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаСписка" id="22f50eb2-be61-47e5-a63c-a333cf4d162a" configVersion="2ade7057164eb14987f2f9c26eda4c0000000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаСписка.Form" id="22f50eb2-be61-47e5-a63c-a333cf4d162a.0" configVersion="ec9ca479b7421b4e8dd624ffca2a56dd00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ManagerModule" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86.2" configVersion="616f239fd7ebc744a43c3e9172e26d8d00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86.0" configVersion="c4d7b3414ac2e94898863b8d859268bc00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="721f5b25-3d1e-4f5f-871c-a075cfc86a86.0" configVersion="45d04f6ad09eeb478d480533b21133f100000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИУслуг" id="78c013bc-07c0-449b-b1a7-0d77256b4f51" configVersion="9c16d6af06a49848ac80d59f3933710a00000000">
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Цена" id="03ee831c-8a79-4ffb-9a84-f15c6529cccd"/>
 			<Metadata name="Document.ПоступлениеТоваровИУслуг.TabularSection.Услуги" id="2085232d-fabb-433b-8cf7-b0b1c6e1d4b4"/>
