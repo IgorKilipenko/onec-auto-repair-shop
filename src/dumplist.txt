@@ -1,2 +1,5 @@
-﻿Modified: AccountingRegister.Хозрасчетный
-Modified: AccountingRegister.Хозрасчетный.RecordSetModule
+﻿New: Document.РасходныйКассовыйОрдер.ManagerModule
+Modified: Document.РасходныйКассовыйОрдер
+Modified: Document.РасходныйКассовыйОрдер.Form.ФормаДокумента
+Modified: Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form
+Modified: Document.РасходныйКассовыйОрдер.ObjectModule
