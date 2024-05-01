@@ -150,6 +150,11 @@
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
+			<Item>
+				<Command>AccountingRegister.Хозрасчетный.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
 		</NavigationPanel>
 	</CommandInterface>
 </Form>
