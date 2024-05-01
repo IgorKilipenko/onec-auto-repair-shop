@@ -1,2 +1,6 @@
-﻿Modified: Document.БольничныйЛист
-Modified: Document.БольничныйЛист.ObjectModule
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.ManagerModule
+Modified: Document.ПоступлениеТоваровИУслуг
+Modified: Document.ПоступлениеТоваровИУслуг.ObjectModule
+Modified: Document.Реализация
+Modified: Document.Реализация.ObjectModule
