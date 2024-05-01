@@ -41,14 +41,14 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="90288aaa-b25b-4547-85e5-eb5db648887f"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="ef2cec92-872a-443d-8986-22790ac05a04"/>
 		</Metadata>
-		<Metadata name="CalculationRegister.Начисления" id="828a7fc2-874d-4661-9138-492b54c06685" configVersion="2a4ceac76d77164aa0586ac24fefcefd00000000">
+		<Metadata name="CalculationRegister.Начисления" id="828a7fc2-874d-4661-9138-492b54c06685" configVersion="fc044af1cbea484793d7124c2474c37b00000000">
 			<Metadata name="CalculationRegister.Начисления.Dimension.Сотрудник" id="0a8a1c25-efd8-422d-96c2-cfb3dded6ad5"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="35847d75-079c-46f9-820e-806dbe4b0a63"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.ПоказательРасчета" id="6b0358a1-2d0a-454e-8d8f-d447d26a381c"/>
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="f3c70c2f-a53c-4d89-b90c-a9e14ac86490"/>
 		</Metadata>
 		<Metadata name="CalculationRegister.Начисления.ManagerModule" id="828a7fc2-874d-4661-9138-492b54c06685.2" configVersion="7af3d5cc21dc3545837f7999a3f6659b00000000"/>
-		<Metadata name="CalculationRegister.Начисления.RecordSetModule" id="828a7fc2-874d-4661-9138-492b54c06685.1" configVersion="118723cdef86f64eb022ac245cf2f39600000000"/>
+		<Metadata name="CalculationRegister.Начисления.RecordSetModule" id="828a7fc2-874d-4661-9138-492b54c06685.1" configVersion="693a9fb28b45184ab3d9b5d13589711c00000000"/>
 		<Metadata name="Catalog.Автомобили" id="af4553a3-91aa-4a79-9df6-e2aa5a1123f3" configVersion="b178d1eb1fca0d4098d852c5427f65ce00000000">
 			<Metadata name="Catalog.Автомобили.Attribute.VIN" id="1b30f523-958e-40ce-802d-fe2c52d49915"/>
 			<Metadata name="Catalog.Автомобили.Attribute.ТехПаспорт" id="58d33b50-bc2a-4887-a376-3e9d79eafd8d"/>

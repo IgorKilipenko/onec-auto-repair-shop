@@ -1,8 +1,2 @@
 ﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.ManagerModule
-Modified: Document.БольничныйЛист
-Modified: Document.БольничныйЛист.ObjectModule
-Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.ObjectModule
-Modified: Document.Премия
-Modified: Document.Премия.ObjectModule
+Modified: CalculationRegister.Начисления.RecordSetModule
