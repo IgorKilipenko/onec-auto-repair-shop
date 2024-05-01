@@ -1,2 +1,2 @@
-﻿Modified: Document.ПриходныйКассовыйОрдер
-Modified: Document.ПриходныйКассовыйОрдер.ObjectModule
+﻿Modified: AccountingRegister.Хозрасчетный
+Modified: AccountingRegister.Хозрасчетный.RecordSetModule
