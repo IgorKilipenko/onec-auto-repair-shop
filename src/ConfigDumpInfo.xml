@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="AccountingRegister.Хозрасчетный" id="b677d864-a8fd-4bef-9b2a-8ecace0fa1ca" configVersion="e0074a057c84b44a91a2fd5a9974277100000000">
+		<Metadata name="AccountingRegister.Хозрасчетный" id="b677d864-a8fd-4bef-9b2a-8ecace0fa1ca" configVersion="73900828f6e5e04db9e57a9498e635fd00000000">
 			<Metadata name="AccountingRegister.Хозрасчетный.Attribute.Содержание" id="33c9ece2-0f6d-4514-bb54-c995d887a9d5"/>
 			<Metadata name="AccountingRegister.Хозрасчетный.Resource.Сумма" id="5cfafcb8-a947-417a-80ff-6fd2d8a4d1ec"/>
 		</Metadata>
 		<Metadata name="AccountingRegister.Хозрасчетный.ManagerModule" id="b677d864-a8fd-4bef-9b2a-8ecace0fa1ca.7" configVersion="9525702e4a90084baf3133883df4267a00000000"/>
-		<Metadata name="AccountingRegister.Хозрасчетный.RecordSetModule" id="b677d864-a8fd-4bef-9b2a-8ecace0fa1ca.6" configVersion="455e5428eff44c44bdad97f4b21e2b4f00000000"/>
+		<Metadata name="AccountingRegister.Хозрасчетный.RecordSetModule" id="b677d864-a8fd-4bef-9b2a-8ecace0fa1ca.6" configVersion="29e9f3debdd52840aa52c894698a889d00000000"/>
 		<Metadata name="AccumulationRegister.ДенежныеСредства" id="db555b34-e6e3-4a31-978b-56fdf762fe55" configVersion="db3c89a729a79d4384a9a1a03a1b155400000000">
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Dimension.Касса" id="58652ea9-725b-4c98-a9e4-a70df0a8ca6f"/>
 			<Metadata name="AccumulationRegister.ДенежныеСредства.Resource.Сумма" id="afeb2eec-12d2-4308-8e69-8968eecdfa22"/>
