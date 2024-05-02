@@ -1,7 +1,2 @@
-﻿New: CommonModule.ПреобразованиеТиповКлиентСервер
-New: CommonModule.ПреобразованиеТиповКлиентСервер.Module
-New: DataProcessor.ЗагрузкаПрайсЛиста
-New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
-New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
-New: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
-Modified: Configuration.Автосервис
+﻿Modified: InformationRegister.ЦеныНоменклатуры
+Modified: InformationRegister.ЦеныНоменклатуры.ManagerModule

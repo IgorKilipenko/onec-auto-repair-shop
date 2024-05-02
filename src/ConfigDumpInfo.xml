@@ -538,7 +538,7 @@
 		<Metadata name="InformationRegister.УчетнаяПолитика.Form.ФормаСписка" id="3604fb11-69d2-4e7b-996e-9e3cc97cd326" configVersion="c655aa260cdc984094cf20abcf97a13200000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика.Form.ФормаСписка.Form" id="3604fb11-69d2-4e7b-996e-9e3cc97cd326.0" configVersion="c502b7257dd22046b3b58fd4d913b86500000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика.ManagerModule" id="35ff65c5-0837-46ab-9a1e-060d26422a64.2" configVersion="538503739f9f2845a923673f3767771a00000000"/>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="6d05005e-f813-4a29-a45c-675df907c970" configVersion="a599cd3b4e786d42abc4908cc50c563400000000">
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="6d05005e-f813-4a29-a45c-675df907c970" configVersion="9fd8fadaf5326f43b33ee846fec60f3e00000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="2c70badd-e190-411c-95da-c3c2a5f5e289"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Сумма" id="b11f7e1f-471a-4eb0-9906-ae8266c5f18f"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="dece8bb8-c95b-4400-8dcd-7897afc111f8"/>
@@ -547,7 +547,7 @@
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="78b00932-6aaa-4e83-97af-11ccab3aba46.0" configVersion="7ab914d4c6f2b242952b8c5ec4b5360600000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="55701431-db36-46a2-9191-d975a6d9372a" configVersion="5cb0f96817d29640966791c203fe048f00000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="55701431-db36-46a2-9191-d975a6d9372a.0" configVersion="6d25e797050062499b19578a9a9f1fe400000000"/>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры.ManagerModule" id="6d05005e-f813-4a29-a45c-675df907c970.2" configVersion="4d661031ae5fc346bfe623c31e0df3cf00000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.ManagerModule" id="6d05005e-f813-4a29-a45c-675df907c970.2" configVersion="4e887c7e5adc2a49b4872bba32f823aa00000000"/>
 		<Metadata name="Language.Русский" id="20b0d362-5dbf-4e6a-998e-b5098dc907d4" configVersion="80c5dc22df465a4681ce1bb5e62fe3b100000000"/>
 		<Metadata name="Report.ДвижениеНаличныхДенег" id="c6f6c704-2740-4f73-a966-2aa79af55a08" configVersion="967dcf0e53d31e45a0c9ec206852397800000000"/>
 		<Metadata name="Report.ДвижениеНаличныхДенег.Template.ОсновнаяСхемаКомпоновкиДанных" id="da8ce310-e1ec-45b1-a1fc-f406e8ac562e" configVersion="6092ac224681124a93be9b2755da65a300000000"/>
