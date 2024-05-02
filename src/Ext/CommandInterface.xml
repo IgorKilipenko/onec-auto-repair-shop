@@ -4,6 +4,7 @@
 		<Subsystem>Subsystem.Продажи</Subsystem>
 		<Subsystem>Subsystem.Покупки</Subsystem>
 		<Subsystem>Subsystem.ДенежныеСредства</Subsystem>
+		<Subsystem>Subsystem.БухгалтерскийУчет</Subsystem>
 		<Subsystem>Subsystem.УправлениеПерсоналом</Subsystem>
 		<Subsystem>Subsystem.Справочники</Subsystem>
 		<Subsystem>Subsystem.СервисИНастройки</Subsystem>

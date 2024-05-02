@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>1.1</Version>
+			<Version>2.0</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -248,8 +248,9 @@
 			<Language>Русский</Language>
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Покупки</Subsystem>
-			<Subsystem>ДенежныеСредства</Subsystem>
 			<Subsystem>УправлениеПерсоналом</Subsystem>
+			<Subsystem>ДенежныеСредства</Subsystem>
+			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>СервисИНастройки</Subsystem>
 			<Style>Автосервис</Style>
@@ -278,7 +279,9 @@
 			<CommandGroup>Продажи</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Персонал</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
 			<CommandGroup>НаличныеДеньги</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
@@ -297,11 +300,16 @@
 			<Catalog>МоделиАвтомобилей</Catalog>
 			<Catalog>Автомобили</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ГрафикиРаботыСотрудников</Catalog>
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>ЗаказНаряд</Document>
 			<Document>Реализация</Document>
 			<Document>ПриходныйКассовыйОрдер</Document>
 			<Document>РасходныйКассовыйОрдер</Document>
+			<Document>НачислениеЗарплаты</Document>
+			<Document>БольничныйЛист</Document>
+			<Document>Премия</Document>
+			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
@@ -312,19 +320,29 @@
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>СостоянияМатериаловКлиентов</Enum>
 			<Enum>СостоянияЗаказовНарядов</Enum>
+			<Enum>ТипыГрафиковРаботы</Enum>
 			<Report>ТоварыНаСкладах</Report>
 			<Report>Продажи</Report>
 			<Report>ДвижениеНаличныхДенег</Report>
 			<Report>ФинансовыйРезультат</Report>
 			<Report>МатериалыЗаказчика</Report>
+			<Report>ОтчетПоНачислениюЗаработнойПлаты</Report>
+			<Report>ОборотноСальдоваяВедомостьПоСчету</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
+			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>МатериалыЗаказчиков</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
+			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
+			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
+			<AccountingRegister>Хозрасчетный</AccountingRegister>
+			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
+			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -18,7 +18,8 @@
                 "checkRecordSetModule": false
             },
             "NestedFunctionInParameters": false,
-            "CommonModuleInvalidType": false
+            "CommonModuleInvalidType": false,
+            "NumberOfValuesInStructureConstructor": false
         }
     }
 }

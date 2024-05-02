@@ -21,6 +21,15 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Должности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ГрафикиРаботыПредприятия</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ГрафикиРаботыСотрудников</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.КадроваяИсторияСотрудников</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCalculationTypes.Начисления</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CalculationRegister.Начисления</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.НачислениеЗарплаты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.БольничныйЛист</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Премия</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоНачислениюЗаработнойПлаты</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
