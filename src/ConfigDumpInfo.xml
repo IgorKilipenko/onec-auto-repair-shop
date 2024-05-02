@@ -262,7 +262,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="77e3c6402b17a849af3b7974321d441f00000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="2e4f37990b5ad144a1535abd15fb9f7100000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="b7485f81668a4d44a3af0bdc4dbed3f000000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
@@ -445,6 +445,11 @@
 		<Metadata name="Document.Реализация.ObjectModule" id="af530e27-4a82-4c08-b981-b6bff5ee26c9.0" configVersion="c4b0084f709c8243ae2a272b69b72a3100000000"/>
 		<Metadata name="Document.Реализация.Template.Печать" id="730f455b-04bc-476b-b37e-7225f33fa7e6" configVersion="8e38a999bafeaa4eaa6d200575173be000000000"/>
 		<Metadata name="Document.Реализация.Template.Печать.Template" id="730f455b-04bc-476b-b37e-7225f33fa7e6.0" configVersion="a4dc5c665f82dc4683b35ab25e33363f00000000"/>
+		<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций" id="2f18291a-25d3-412c-9bcd-fe5aa659b182" configVersion="426f51f106803445bf782382ef89d6a900000000">
+			<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Column.ВидОперации" id="4a42ae92-10eb-4696-af93-c20c6f0f9a24"/>
+			<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Column.Сумма" id="7fc81104-e5f3-46fc-b071-d27007a3e87a"/>
+			<Metadata name="DocumentJournal.ЖурналХозяйственныхОпераций.Column.Контрагент" id="c20e35b1-f3b7-439a-b1c4-78b4206c7420"/>
+		</Metadata>
 		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="0271628f-cce8-4661-b2a6-134431b37c29" configVersion="cff2bc85b58f7b4c9012ea0ebe3855c100000000">
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ОплатаОтПокупателя" id="ad249e5c-a71a-4932-a9ae-6d949ef78907"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПоставщика" id="b21729d3-ff32-4732-b106-f6bb9cd311b4"/>
@@ -561,8 +566,8 @@
 		<Metadata name="SessionParameter.ТекущийПользователь" id="489b2e6b-8f6a-4e68-b2bd-674f5030cb7c" configVersion="06c39f779b9bf644b31e42439b7198e700000000"/>
 		<Metadata name="Style.Автосервис" id="5f522c5f-4ef5-4d09-acd4-b0639d8c1847" configVersion="0cf4eecb8c74ab46b41598f2a1a5004400000000"/>
 		<Metadata name="Style.Автосервис.Style" id="5f522c5f-4ef5-4d09-acd4-b0639d8c1847.0" configVersion="7a3296841fb77b49a981e6ecaeadbb0e00000000"/>
-		<Metadata name="Subsystem.БухгалтерскийУчет" id="975b8011-3170-4545-94ad-b06e0596bdc5" configVersion="823f6dd4f497e14db54d5376137110c400000000"/>
-		<Metadata name="Subsystem.БухгалтерскийУчет.CommandInterface" id="975b8011-3170-4545-94ad-b06e0596bdc5.1" configVersion="949951876b3e824dbd05522bb021032800000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет" id="975b8011-3170-4545-94ad-b06e0596bdc5" configVersion="03f5408791138e43a28b7a07c079714400000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет.CommandInterface" id="975b8011-3170-4545-94ad-b06e0596bdc5.1" configVersion="6c3392a9529d5d44b60326963b22ae1900000000"/>
 		<Metadata name="Subsystem.ДенежныеСредства" id="4a4fe09d-0e33-4207-b218-de70a9648aa5" configVersion="8f9e88cc22986e44897176d74f612c7700000000"/>
 		<Metadata name="Subsystem.ДенежныеСредства.CommandInterface" id="4a4fe09d-0e33-4207-b218-de70a9648aa5.1" configVersion="244c134c8931e741b189d0f58665071c00000000"/>
 		<Metadata name="Subsystem.Покупки" id="e8306114-e551-498d-8940-785b8f7b5901" configVersion="e927022b8e4e6946831ed794887037d000000000"/>

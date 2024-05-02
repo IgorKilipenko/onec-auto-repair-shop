@@ -1,0 +1,4 @@
+﻿New: DocumentJournal.ЖурналХозяйственныхОпераций
+Modified: Configuration.Автосервис
+Modified: Subsystem.БухгалтерскийУчет
+Modified: Subsystem.БухгалтерскийУчет.CommandInterface

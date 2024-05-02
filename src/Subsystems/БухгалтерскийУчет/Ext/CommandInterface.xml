@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<CommandsVisibility>
+		<Command name="DocumentJournal.ЖурналХозяйственныхОпераций.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="AccountingRegister.Хозрасчетный.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -18,6 +23,10 @@
 		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
+		<Command name="DocumentJournal.ЖурналХозяйственныхОпераций.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="AccountingRegister.Хозрасчетный.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
 			<Placement>Auto</Placement>
@@ -32,6 +41,9 @@
 		</Command>
 	</CommandsPlacement>
 	<CommandsOrder>
+		<Command name="DocumentJournal.ЖурналХозяйственныхОпераций.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
+		</Command>
 		<Command name="AccountingRegister.Хозрасчетный.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.БухгалтерскийУчет</CommandGroup>
 		</Command>

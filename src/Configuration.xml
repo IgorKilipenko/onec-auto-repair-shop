@@ -309,6 +309,7 @@
 			<Document>НачислениеЗарплаты</Document>
 			<Document>БольничныйЛист</Document>
 			<Document>Премия</Document>
+			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
