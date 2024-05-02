@@ -517,12 +517,12 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="f8d6781d-4552-406e-b653-07ab038fa1ed"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="a2b9d34d-3bc2-43db-bea7-d6d92a184f11" configVersion="ad439ffb73ed4144b12397177e4ebe7900000000"/>
-		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="88464821-8b90-4f18-8fb1-22a5d009c629" configVersion="be243f8a43c51a44989660f39d068ea800000000">
+		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="88464821-8b90-4f18-8fb1-22a5d009c629" configVersion="3d6ca221c4acac4b9d01cc7adbd850e700000000">
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Resource.КоличествоЧасов" id="437f12d0-dc41-4d64-94c5-f9567a4a24fe"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.График" id="71830211-38c0-45e6-8064-aa06a97bcf91"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.День" id="89e8695b-a3fe-4975-82d1-a720ae626fad"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.ManagerModule" id="88464821-8b90-4f18-8fb1-22a5d009c629.2" configVersion="2be03e88ae583b468bcbb6a04f1d09f700000000"/>
+		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.ManagerModule" id="88464821-8b90-4f18-8fb1-22a5d009c629.2" configVersion="055fc3426aa2fa44b0e6909ab51aa92800000000"/>
 		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="bb0790f8-f575-4006-a4b2-7631009c8a20" configVersion="18d9c47fa2d2bd4f8218df61fb1d567700000000">
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.ГрафикРаботы" id="3b773fe4-51b8-4920-b8d5-0f8b9932f6a4"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Attribute.Работает" id="4eed7c88-e727-4eb7-aee0-62d1d93ac422"/>
