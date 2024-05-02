@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="ДатаПрайсЛиста" id="1">
 			<DataPath>Объект.ДатаПрайсЛиста</DataPath>
@@ -42,7 +46,9 @@
 				<Button name="ПоместитьВДокумент" id="14">
 					<Type>UsualButton</Type>
 					<Representation>PictureAndText</Representation>
-					<CommandName>Form.Command.ПоместитьВДокумент</CommandName>
+					<Width>11</Width>
+					<CommandName>Form.Command.Записать</CommandName>
+					<BorderColor>style:ImportantColor</BorderColor>
 					<ExtendedTooltip name="ПоместитьВДокументРасширеннаяПодсказка" id="15"/>
 				</Button>
 			</ChildItems>
@@ -50,6 +56,7 @@
 		<SpreadSheetDocumentField name="ПрайсЛист" id="7">
 			<DataPath>Объект.ПрайсЛист</DataPath>
 			<EditMode>EnterOnInput</EditMode>
+			<Edit>true</Edit>
 			<ContextMenu name="ПрайсЛистКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ПрайсЛистРасширеннаяПодсказка" id="9"/>
 		</SpreadSheetDocumentField>
@@ -85,24 +92,26 @@
 					<v8:content>Загрузить прайс лист</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Action>ЗагрузитьПрайсЛист</Action>
 		</Command>
-		<Command name="ПоместитьВДокумент" id="2">
+		<Command name="Записать" id="2">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Поместить в документ</v8:content>
+					<v8:content>Записать</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Поместить в документ</v8:content>
+					<v8:content>Записать</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Picture>
 				<xr:Ref>CommonPicture.Продажи</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
+			<Action>ЗаписатьЦены</Action>
 		</Command>
 	</Commands>
 </Form>

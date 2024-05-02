@@ -1,2 +1,6 @@
-﻿Modified: InformationRegister.ЦеныНоменклатуры
-Modified: InformationRegister.ЦеныНоменклатуры.ManagerModule
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
+Modified: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка
+Modified: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form
