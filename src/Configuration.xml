@@ -327,6 +327,7 @@
 			<Report>ФинансовыйРезультат</Report>
 			<Report>МатериалыЗаказчика</Report>
 			<Report>ОтчетПоНачислениюЗаработнойПлаты</Report>
+			<Report>ОборотноСальдоваяВедомостьПоСчету</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>

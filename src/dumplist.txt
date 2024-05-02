@@ -1,4 +1,6 @@
-﻿New: DocumentJournal.ЖурналХозяйственныхОпераций
+﻿New: Report.ОборотноСальдоваяВедомостьПоСчету
+New: Report.ОборотноСальдоваяВедомостьПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОборотноСальдоваяВедомостьПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 Modified: Configuration.Автосервис
+Modified: Configuration.Автосервис.CommandInterface
 Modified: Subsystem.БухгалтерскийУчет
-Modified: Subsystem.БухгалтерскийУчет.CommandInterface
