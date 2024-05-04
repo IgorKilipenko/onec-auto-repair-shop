@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Пользователи
-Modified: Catalog.Пользователи.ManagerModule
+﻿Modified: HTTPService.Users
+Modified: HTTPService.Users.Module

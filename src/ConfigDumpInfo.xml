@@ -524,11 +524,11 @@
 			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order" id="d04e459a-90cc-4c68-bf59-705c1f370f36"/>
 		</Metadata>
 		<Metadata name="HTTPService.CustomerOrders.Module" id="c8f0e61a-090e-4db8-b28e-f1d438942e84.0" configVersion="56229343ca03184e855cf48db34d473600000000"/>
-		<Metadata name="HTTPService.Users" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3" configVersion="13406e76bbd9b947b97e898be6d6a8d400000000">
+		<Metadata name="HTTPService.Users" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3" configVersion="4041de270a60294d9a1562892b0db9fe00000000">
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.GetUser" id="6e02ceb4-6d85-4a44-80cf-08273e18853b"/>
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User" id="957a06ef-42b7-45f0-9f80-a1321422e560"/>
 		</Metadata>
-		<Metadata name="HTTPService.Users.Module" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3.0" configVersion="982a6e41cb8cfd4a8ce3f87f3f4f276e00000000"/>
+		<Metadata name="HTTPService.Users.Module" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3.0" configVersion="9b079a7a1b684247b97445de75472eff00000000"/>
 		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="88464821-8b90-4f18-8fb1-22a5d009c629" configVersion="3d6ca221c4acac4b9d01cc7adbd850e700000000">
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Resource.КоличествоЧасов" id="437f12d0-dc41-4d64-94c5-f9567a4a24fe"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.График" id="71830211-38c0-45e6-8064-aa06a97bcf91"/>
