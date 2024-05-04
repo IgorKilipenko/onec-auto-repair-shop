@@ -1,2 +1,3 @@
-﻿Modified: InformationRegister.ГрафикиРаботыПредприятия
-Modified: InformationRegister.ГрафикиРаботыПредприятия.ManagerModule
+﻿New: HTTPService.Users
+New: HTTPService.Users.Module
+Modified: Configuration.Автосервис

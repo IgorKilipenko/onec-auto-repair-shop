@@ -275,6 +275,7 @@
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
 			<CommonModule>РаботаСЗапросами</CommonModule>
 			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
+			<HTTPService>Users</HTTPService>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
