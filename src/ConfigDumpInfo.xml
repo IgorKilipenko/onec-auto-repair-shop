@@ -161,14 +161,14 @@
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="a4accf04-f443-41fe-92c3-100e91ae7b00" configVersion="ad856f6767ff3743a513633e349316cb00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="a4accf04-f443-41fe-92c3-100e91ae7b00.0" configVersion="4cc99c17f83d7146a2d3129ee52d6c0700000000"/>
 		<Metadata name="Catalog.Организации.ObjectModule" id="f914ffc5-b9b8-422f-8b7d-b6a36d9aa7ff.0" configVersion="8fe8e461077ac742b6768888a4388eb200000000"/>
-		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="52b08f1a25c93d41933cc78af3d8741d00000000">
+		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="34614e55b4eba146b7c870465623bb1600000000">
 			<Metadata name="Catalog.Пользователи.Attribute.ОбъектИБ" id="ce634d21-0a3d-4c01-9311-3f49e474141e"/>
 		</Metadata>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="3565706b-3579-40cb-a752-5e5fd9d3ff13" configVersion="8c9b17ae37dfb24fa2c5c03638d2d53d00000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="3565706b-3579-40cb-a752-5e5fd9d3ff13.0" configVersion="b478c2989daed244bb13a966d84cb0a200000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="df72e3d8-f8e6-4593-9df5-198acf63d3e6" configVersion="b83bb6afd0830243a73cfae71144495400000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="df72e3d8-f8e6-4593-9df5-198acf63d3e6.0" configVersion="5e39256bfed00b40a351e40671055ab900000000"/>
-		<Metadata name="Catalog.Пользователи.ManagerModule" id="87cefebc-d962-41cd-beac-1698e8ceb614.3" configVersion="589bd28f678d864ab6d26b2c8153213500000000"/>
+		<Metadata name="Catalog.Пользователи.ManagerModule" id="87cefebc-d962-41cd-beac-1698e8ceb614.3" configVersion="360ff39d3190ad4bb9d7a1da0ea41e1700000000"/>
 		<Metadata name="Catalog.Склады" id="31c252ff-fdd6-4247-9a34-bdd3947030f6" configVersion="78484bfafe400244a7302304cdc78e6600000000">
 			<Metadata name="Catalog.Склады.Attribute.МОЛ" id="7925134d-9d92-4f9b-89dc-7f146f0b56ee"/>
 		</Metadata>
