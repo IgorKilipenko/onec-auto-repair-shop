@@ -1,3 +1,2 @@
-﻿New: HTTPService.Users
-New: HTTPService.Users.Module
-Modified: Configuration.Автосервис
+﻿Modified: Catalog.Пользователи
+Modified: Catalog.Пользователи.ManagerModule
