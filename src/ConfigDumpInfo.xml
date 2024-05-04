@@ -266,7 +266,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="c26f4c55-5c3a-41bc-bed9-e5fb72d76f14.0" configVersion="529f8820db20c842a2518e333395e7ad00000000"/>
 		<Metadata name="CommonPicture.Справочники" id="02e28505-bdd1-49b2-bf2e-23d618893953" configVersion="93a5dd6204fdd04ba80ce2bb0dad971e00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="02e28505-bdd1-49b2-bf2e-23d618893953.0" configVersion="fd18cd44cb5d48469377f33422d2911700000000"/>
-		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="d84e3a44999bf8428ffb8d8e67c6740100000000"/>
+		<Metadata name="Configuration.Автосервис" id="71154b61-2f81-4c68-aec2-b017f0b2a45d" configVersion="37474621e1df3a4fbdc7403f7e51975a00000000"/>
 		<Metadata name="Configuration.Автосервис.ClientApplicationInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.b" configVersion="23bd0e5641e5e1419fa59e69ca9ab01400000000"/>
 		<Metadata name="Configuration.Автосервис.CommandInterface" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.a" configVersion="edce1012bf396a458ced4645f6e485cb00000000"/>
 		<Metadata name="Configuration.Автосервис.HomePageWorkArea" id="65105c77-c903-41a1-a5d0-1654bd8b6cea.8" configVersion="9de59f2c1ba6104faf1f8ad884c3700200000000"/>
@@ -519,6 +519,11 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="f8d6781d-4552-406e-b653-07ab038fa1ed"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="a2b9d34d-3bc2-43db-bea7-d6d92a184f11" configVersion="ad439ffb73ed4144b12397177e4ebe7900000000"/>
+		<Metadata name="HTTPService.CustomerOrders" id="c8f0e61a-090e-4db8-b28e-f1d438942e84" configVersion="4fbeeca38e98914181e9a9957c514a9000000000">
+			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order.Method.CreateOrder" id="7edbfed1-4690-4efc-98e4-3488c7232e13"/>
+			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order" id="d04e459a-90cc-4c68-bf59-705c1f370f36"/>
+		</Metadata>
+		<Metadata name="HTTPService.CustomerOrders.Module" id="c8f0e61a-090e-4db8-b28e-f1d438942e84.0" configVersion="56229343ca03184e855cf48db34d473600000000"/>
 		<Metadata name="HTTPService.Users" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3" configVersion="13406e76bbd9b947b97e898be6d6a8d400000000">
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.GetUser" id="6e02ceb4-6d85-4a44-80cf-08273e18853b"/>
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User" id="957a06ef-42b7-45f0-9f80-a1321422e560"/>

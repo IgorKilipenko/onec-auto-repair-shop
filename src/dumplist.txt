@@ -1,2 +1,3 @@
-﻿Modified: Catalog.Пользователи
-Modified: Catalog.Пользователи.ManagerModule
+﻿New: HTTPService.CustomerOrders
+New: HTTPService.CustomerOrders.Module
+Modified: Configuration.Автосервис
