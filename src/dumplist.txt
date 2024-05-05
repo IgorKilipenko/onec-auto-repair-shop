@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Пользователи.Form.ФормаЭлемента
-Modified: Catalog.Пользователи.Form.ФормаЭлемента.Form
+﻿Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.ManagerModule
