@@ -274,6 +274,9 @@
 			<CommonModule>ПроверкаТиповКлиентСервер</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
 			<CommonModule>РаботаСЗапросами</CommonModule>
+			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
+			<HTTPService>Users</HTTPService>
+			<HTTPService>CustomerOrders</HTTPService>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<CommandGroup>Продажи</CommandGroup>
@@ -328,6 +331,7 @@
 			<Report>МатериалыЗаказчика</Report>
 			<Report>ОтчетПоНачислениюЗаработнойПлаты</Report>
 			<Report>ОборотноСальдоваяВедомостьПоСчету</Report>
+			<DataProcessor>ЗагрузкаПрайсЛиста</DataProcessor>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
