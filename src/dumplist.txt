@@ -1,2 +1,2 @@
-﻿Modified: HTTPService.Users
-Modified: HTTPService.Users.Module
+﻿Modified: HTTPService.CustomerOrders
+Modified: HTTPService.CustomerOrders.Module

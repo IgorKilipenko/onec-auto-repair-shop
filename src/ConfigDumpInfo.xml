@@ -519,11 +519,11 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="f8d6781d-4552-406e-b653-07ab038fa1ed"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="a2b9d34d-3bc2-43db-bea7-d6d92a184f11" configVersion="ad439ffb73ed4144b12397177e4ebe7900000000"/>
-		<Metadata name="HTTPService.CustomerOrders" id="c8f0e61a-090e-4db8-b28e-f1d438942e84" configVersion="fd44e03421e72148b83219f701812e8500000000">
+		<Metadata name="HTTPService.CustomerOrders" id="c8f0e61a-090e-4db8-b28e-f1d438942e84" configVersion="0d47a550fa633a4c9d673cb8145c76ea00000000">
 			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order.Method.CreateOrder" id="7edbfed1-4690-4efc-98e4-3488c7232e13"/>
 			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order" id="d04e459a-90cc-4c68-bf59-705c1f370f36"/>
 		</Metadata>
-		<Metadata name="HTTPService.CustomerOrders.Module" id="c8f0e61a-090e-4db8-b28e-f1d438942e84.0" configVersion="78f30b63785aea459654ac24357c5ba800000000"/>
+		<Metadata name="HTTPService.CustomerOrders.Module" id="c8f0e61a-090e-4db8-b28e-f1d438942e84.0" configVersion="7977778f552cc94788763b92eed5810a00000000"/>
 		<Metadata name="HTTPService.Users" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3" configVersion="b695ed4421033e418ca26ad505ec057000000000">
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.CreateUser" id="1d4bf1f6-ba41-4ea9-88bc-4ad7c8d54315"/>
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.GetUser" id="6e02ceb4-6d85-4a44-80cf-08273e18853b"/>
