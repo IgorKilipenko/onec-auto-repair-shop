@@ -1,2 +1,6 @@
-﻿Modified: HTTPService.Users
+﻿Modified: Catalog.Пользователи
+Modified: Catalog.Пользователи.ManagerModule
+Modified: HTTPService.CustomerOrders
+Modified: HTTPService.CustomerOrders.Module
+Modified: HTTPService.Users
 Modified: HTTPService.Users.Module

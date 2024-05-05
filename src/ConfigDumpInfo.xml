@@ -161,14 +161,14 @@
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="a4accf04-f443-41fe-92c3-100e91ae7b00" configVersion="ad856f6767ff3743a513633e349316cb00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="a4accf04-f443-41fe-92c3-100e91ae7b00.0" configVersion="4cc99c17f83d7146a2d3129ee52d6c0700000000"/>
 		<Metadata name="Catalog.Организации.ObjectModule" id="f914ffc5-b9b8-422f-8b7d-b6a36d9aa7ff.0" configVersion="8fe8e461077ac742b6768888a4388eb200000000"/>
-		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="24736fe76265c0478123d66b3aebc29600000000">
+		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="d776b31d1dfd4f4c9b00da545576a28500000000">
 			<Metadata name="Catalog.Пользователи.Attribute.Клиент" id="ce634d21-0a3d-4c01-9311-3f49e474141e"/>
 		</Metadata>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="3565706b-3579-40cb-a752-5e5fd9d3ff13" configVersion="8c9b17ae37dfb24fa2c5c03638d2d53d00000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="3565706b-3579-40cb-a752-5e5fd9d3ff13.0" configVersion="b478c2989daed244bb13a966d84cb0a200000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="df72e3d8-f8e6-4593-9df5-198acf63d3e6" configVersion="b83bb6afd0830243a73cfae71144495400000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="df72e3d8-f8e6-4593-9df5-198acf63d3e6.0" configVersion="5e39256bfed00b40a351e40671055ab900000000"/>
-		<Metadata name="Catalog.Пользователи.ManagerModule" id="87cefebc-d962-41cd-beac-1698e8ceb614.3" configVersion="3ea9a58f420fb5479bdcb4ad5099650800000000"/>
+		<Metadata name="Catalog.Пользователи.ManagerModule" id="87cefebc-d962-41cd-beac-1698e8ceb614.3" configVersion="8d43e7c7cf3f88419f236b89e22f98bc00000000"/>
 		<Metadata name="Catalog.Склады" id="31c252ff-fdd6-4247-9a34-bdd3947030f6" configVersion="78484bfafe400244a7302304cdc78e6600000000">
 			<Metadata name="Catalog.Склады.Attribute.МОЛ" id="7925134d-9d92-4f9b-89dc-7f146f0b56ee"/>
 		</Metadata>
@@ -519,17 +519,17 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="f8d6781d-4552-406e-b653-07ab038fa1ed"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="a2b9d34d-3bc2-43db-bea7-d6d92a184f11" configVersion="ad439ffb73ed4144b12397177e4ebe7900000000"/>
-		<Metadata name="HTTPService.CustomerOrders" id="c8f0e61a-090e-4db8-b28e-f1d438942e84" configVersion="4fbeeca38e98914181e9a9957c514a9000000000">
+		<Metadata name="HTTPService.CustomerOrders" id="c8f0e61a-090e-4db8-b28e-f1d438942e84" configVersion="fd44e03421e72148b83219f701812e8500000000">
 			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order.Method.CreateOrder" id="7edbfed1-4690-4efc-98e4-3488c7232e13"/>
 			<Metadata name="HTTPService.CustomerOrders.URLTemplate.ШаблонURL_Order" id="d04e459a-90cc-4c68-bf59-705c1f370f36"/>
 		</Metadata>
-		<Metadata name="HTTPService.CustomerOrders.Module" id="c8f0e61a-090e-4db8-b28e-f1d438942e84.0" configVersion="56229343ca03184e855cf48db34d473600000000"/>
-		<Metadata name="HTTPService.Users" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3" configVersion="5a36074f0a2b4e4d9bafa2469e99fe2600000000">
+		<Metadata name="HTTPService.CustomerOrders.Module" id="c8f0e61a-090e-4db8-b28e-f1d438942e84.0" configVersion="78f30b63785aea459654ac24357c5ba800000000"/>
+		<Metadata name="HTTPService.Users" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3" configVersion="e6b1c213903322478aa95f4302ad850d00000000">
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.CreateUser" id="1d4bf1f6-ba41-4ea9-88bc-4ad7c8d54315"/>
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User.Method.GetUser" id="6e02ceb4-6d85-4a44-80cf-08273e18853b"/>
 			<Metadata name="HTTPService.Users.URLTemplate.ШаблонURL_User" id="957a06ef-42b7-45f0-9f80-a1321422e560"/>
 		</Metadata>
-		<Metadata name="HTTPService.Users.Module" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3.0" configVersion="78c76cc55a96c34da36fac7707729eaa00000000"/>
+		<Metadata name="HTTPService.Users.Module" id="8cfb053e-8952-43f2-b4b9-7bfdeca027d3.0" configVersion="639e78d5ecf5624590f813a51a47618d00000000"/>
 		<Metadata name="InformationRegister.ГрафикиРаботыПредприятия" id="88464821-8b90-4f18-8fb1-22a5d009c629" configVersion="3d6ca221c4acac4b9d01cc7adbd850e700000000">
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Resource.КоличествоЧасов" id="437f12d0-dc41-4d64-94c5-f9567a4a24fe"/>
 			<Metadata name="InformationRegister.ГрафикиРаботыПредприятия.Dimension.График" id="71830211-38c0-45e6-8064-aa06a97bcf91"/>

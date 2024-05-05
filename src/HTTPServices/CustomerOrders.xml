@@ -25,7 +25,7 @@
 						</v8:item>
 					</Synonym>
 					<Comment/>
-					<Template>/orders</Template>
+					<Template>/order</Template>
 				</Properties>
 				<ChildObjects>
 					<Method uuid="7edbfed1-4690-4efc-98e4-3488c7232e13">
@@ -39,7 +39,7 @@
 							</Synonym>
 							<Comment/>
 							<HTTPMethod>POST</HTTPMethod>
-							<Handler>ШаблонURL_OrderCreateOrder</Handler>
+							<Handler>Заказ_СоздатьЗаказ</Handler>
 						</Properties>
 					</Method>
 				</ChildObjects>
