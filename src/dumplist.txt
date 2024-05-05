@@ -1,2 +1,2 @@
-﻿Modified: Catalog.Контрагенты
-Modified: Catalog.Контрагенты.ManagerModule
+﻿Modified: Catalog.Сотрудники
+Modified: Catalog.Сотрудники.ManagerModule
