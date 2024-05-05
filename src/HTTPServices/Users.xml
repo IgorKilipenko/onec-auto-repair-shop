@@ -42,6 +42,20 @@
 							<Handler>User_ПолучитьПользователя</Handler>
 						</Properties>
 					</Method>
+					<Method uuid="1d4bf1f6-ba41-4ea9-88bc-4ad7c8d54315">
+						<Properties>
+							<Name>CreateUser</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Create user</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>POST</HTTPMethod>
+							<Handler>User_СоздатьПользователя</Handler>
+						</Properties>
+					</Method>
 				</ChildObjects>
 			</URLTemplate>
 		</ChildObjects>
