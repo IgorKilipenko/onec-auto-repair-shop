@@ -161,8 +161,8 @@
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="a4accf04-f443-41fe-92c3-100e91ae7b00" configVersion="ad856f6767ff3743a513633e349316cb00000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="a4accf04-f443-41fe-92c3-100e91ae7b00.0" configVersion="4cc99c17f83d7146a2d3129ee52d6c0700000000"/>
 		<Metadata name="Catalog.Организации.ObjectModule" id="f914ffc5-b9b8-422f-8b7d-b6a36d9aa7ff.0" configVersion="8fe8e461077ac742b6768888a4388eb200000000"/>
-		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="4c41ed49c623954ebd0047f6fa14cf4d00000000">
-			<Metadata name="Catalog.Пользователи.Attribute.ОбъектИБ" id="ce634d21-0a3d-4c01-9311-3f49e474141e"/>
+		<Metadata name="Catalog.Пользователи" id="87cefebc-d962-41cd-beac-1698e8ceb614" configVersion="24736fe76265c0478123d66b3aebc29600000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Клиент" id="ce634d21-0a3d-4c01-9311-3f49e474141e"/>
 		</Metadata>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="3565706b-3579-40cb-a752-5e5fd9d3ff13" configVersion="8c9b17ae37dfb24fa2c5c03638d2d53d00000000"/>
 		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="3565706b-3579-40cb-a752-5e5fd9d3ff13.0" configVersion="b478c2989daed244bb13a966d84cb0a200000000"/>

@@ -335,17 +335,16 @@
 		<ChildObjects>
 			<Attribute uuid="ce634d21-0a3d-4c01-9311-3f49e474141e">
 				<Properties>
-					<Name>ОбъектИБ</Name>
+					<Name>Клиент</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Объект ИБ</v8:content>
+							<v8:content>Клиент</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>cfg:CatalogRef.Контрагенты</v8:Type>
-						<v8:Type>cfg:CatalogRef.Сотрудники</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
