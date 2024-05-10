@@ -1,2 +1,7 @@
-﻿Modified: HTTPService.CustomerOrders
-Modified: HTTPService.CustomerOrders.Module
+﻿Modified: Catalog.Пользователи
+Modified: Catalog.Пользователи.Form.ФормаСписка
+Modified: Catalog.Пользователи.Form.ФормаСписка.Form
+Modified: Catalog.Пользователи.Form.ФормаЭлемента
+Modified: Catalog.Пользователи.Form.ФормаЭлемента.Form
+Modified: Catalog.Пользователи.ManagerModule
+Modified: Configuration.Автосервис
